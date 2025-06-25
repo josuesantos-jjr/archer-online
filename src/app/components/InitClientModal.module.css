@@ -1,0 +1,426 @@
+/* Modal overlay */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  animation: fadeIn 0.3s ease;
+  padding: 20px;
+  backdrop-filter: blur(2px);
+}
+
+.modal {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  width: 90%; /* Ajusta-se à largura da tela */
+  max-width: 900px; /* Limite máximo para telas muito grandes */
+  position: relative;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.2);
+  animation: slideIn 0.3s ease;
+}
+
+.closeButton {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #666;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.2s ease;
+  z-index: 1;
+}
+
+.closeButton:hover {
+  background: #f1f3f5;
+  color: #333;
+}
+
+.content {
+  padding: 20px 0;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Loading Stage */
+.loadingStage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  animation: slideUpFade 2s ease;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid #00b894;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+/* Countdown Stage */
+.countdownStage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  animation: slideUpFade 0.5s ease;
+}
+
+.countdownCircle {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  background: #00b894;
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.countdownCircle::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  border: 5px solid #00b894;
+  border-radius: 50%;
+  animation: pulseRing 1s linear infinite;
+}
+
+/* Status Stage */
+.statusStage {
+  width: 100%;
+  animation: slideUpFade 0.5s ease;
+}
+
+.statusHeader {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  animation: slideFade 0.5s ease;
+}
+
+.statusHeader h3 {
+  margin: 0 0 10px 0;
+  color: #2d3436;
+}
+
+.qrCodeSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  animation: slideUpFade 0.5s ease;
+}
+
+.qrCodeContainer {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+  border: 1px solid #e1e1e1;
+  width: 90%; /* Ajusta-se à largura do modal */
+  max-width: 450px; /* Limite máximo para o QR Code */
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: slideFade 0.5s ease;
+}
+
+.qrCodeImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  animation: fadeIn 0.3s ease;
+}
+
+.qrCodeLoading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.connectedSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  animation: bounceIn 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.checkmark {
+  width: 80px;
+  height: 80px;
+  background: #00b894;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  opacity: 0;
+  transform: scale(0.3);
+  animation:
+    bounceIn 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards,
+    pulse 2s ease infinite;
+}
+
+.connectedSection p {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUpIn 0.5s ease forwards;
+  animation-delay: 0.3s;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideUpFade {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideFade {
+  from {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulseRing {
+  0% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0.3;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(0, 184, 148, 0.4);
+  }
+  70% {
+    transform: scale(1.05);
+    box-shadow: 0 0 0 15px rgba(0, 184, 148, 0);
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(0, 184, 148, 0);
+  }
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.3);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0.8;
+  }
+  70% {
+    transform: scale(0.9);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeUpIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* --- Media Queries para Responsividade --- */
+
+@media (max-width: 768px) {
+  .modal {
+    max-width: 700px; /* Ajuste para telas menores */
+  }
+  .countdownCircle {
+    width: 70px;
+    height: 70px;
+    font-size: 28px;
+  }
+  .checkmark {
+    width: 70px;
+    height: 70px;
+    font-size: 35px;
+  }
+  .qrCodeContainer {
+    max-width: 350px; /* Ajuste para telas menores */
+    min-height: 350px; /* Ajuste para telas menores */
+    padding: 15px;
+  }
+  .statusHeader h3 {
+    font-size: 1.1rem;
+  }
+  .content p {
+    /* Ajusta tamanho de fonte geral dos parágrafos */
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .modal {
+    max-width: 95%; /* Mais flexível em telas muito pequenas */
+    padding: 15px;
+  }
+  .content {
+    padding: 15px 0;
+    min-height: 180px;
+  }
+  .countdownCircle {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+  }
+  .countdownCircle::before {
+    /* Ajusta anel de pulso */
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
+    border-width: 4px;
+  }
+  .checkmark {
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+  }
+  .qrCodeContainer {
+    max-width: 300px; /* Ajuste para telas muito pequenas */
+    min-height: 300px; /* Ajuste para telas muito pequenas */
+    padding: 10px;
+  }
+  .statusHeader {
+    padding: 10px;
+  }
+  .statusHeader h3 {
+    font-size: 1rem;
+    margin-bottom: 8px;
+  }
+  .content p {
+    font-size: 0.9rem;
+  }
+}
+
+/* Log Section */
+.logSection {
+  width: 100%;
+  margin-top: 20px;
+  padding: 15px;
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  max-height: 200px; /* Limita a altura para evitar que o modal fique muito grande */
+  overflow-y: auto; /* Adiciona scroll se o conteúdo for maior que a altura máxima */
+  font-family: 'Courier New', Courier, monospace; /* Fonte monoespaçada para logs */
+  font-size: 0.85rem;
+  color: #333;
+  white-space: pre-wrap; /* Preserva espaços em branco e quebras de linha */
+  word-break: break-all; /* Quebra palavras longas */
+}
+
+.logSection h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #2d3436;
+  font-size: 1rem;
+}
+
+.logContent {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  white-space: pre-wrap;
+  word-break: break-all;
+}

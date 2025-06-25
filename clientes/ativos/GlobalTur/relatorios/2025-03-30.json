@@ -1,0 +1,90 @@
+[
+  {
+    "data": "2025-03-30T03:01:13.872Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 1,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:02:03.423Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 2,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:07:07.757Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 3,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:07:47.294Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 4,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:08:59.187Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 5,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:09:43.638Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 6,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:10:30.934Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 7,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:11:30.256Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 8,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:54:28.728Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 9,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:55:06.373Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 10,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-03-30T03:55:41.237Z",
+    "numeroTelefone": "5519989808901",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 11,
+    "limiteDiario": 36
+  }
+]

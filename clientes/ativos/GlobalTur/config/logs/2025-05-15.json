@@ -1,0 +1,4005 @@
+[
+  {
+    "timestamp": "2025-05-15T15:13:12.661Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:12.666Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:12.668Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:12.669Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:12.671Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:12.680Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:36.246Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:36.248Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:36.252Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T15:13:37.480Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-15T15:13:40.892Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:40.894Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:13:40.898Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T15:19:06.276Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:06.278Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:06.283Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:06.285Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:06.288Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:06.290Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:24.078Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:24.081Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:24.084Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T15:19:25.370Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-15T15:19:32.254Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:32.256Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:19:32.261Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T15:20:06.862Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:06.865Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:06.867Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:06.868Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:06.872Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:06.875Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:24.407Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:24.409Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:24.412Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T15:20:25.644Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-15T15:20:28.731Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:28.733Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T15:20:28.736Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:47.775Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:24:47.779Z",
+    "level": "info",
+    "message": "Nome não identificado para 555491304444@c.us. Tentando identificar..."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:47.781Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Nome) aguardando 15.83131010147687..."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:47.783Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Opaaaa"
+  },
+  {
+    "timestamp": "2025-05-15T15:24:47.788Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:47.791Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:50.916Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:24:50.919Z",
+    "level": "info",
+    "message": "Nome não identificado para 555491304444@c.us. Tentando identificar..."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:50.921Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Nome) aguardando 19.9604881889982..."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:50.922Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Bora"
+  },
+  {
+    "timestamp": "2025-05-15T15:24:50.927Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:50.930Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:52.269Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:52.271Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:55.412Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:24:55.414Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:04.364Z",
+    "level": "info",
+    "message": "Nome identificado pela IA: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:25:04.367Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "name",
+      "value": "Nome do cliente: Everton"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:25:04.369Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:04.370Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 12.1s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:11.499Z",
+    "level": "info",
+    "message": "Nome identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-15T15:25:11.501Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "name",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:25:11.503Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:11.504Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.0s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:17.770Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Analisar depois"
+  },
+  {
+    "timestamp": "2025-05-15T15:25:17.773Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Analisar depois"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:25:17.774Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:17.776Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 17.433128255773145..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:25.232Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Analisar depois"
+  },
+  {
+    "timestamp": "2025-05-15T15:25:25.235Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Analisar depois"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:25:25.236Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:25.238Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 19.975352481525512..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:36.073Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-15T15:25:36.076Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:25:36.078Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:36.080Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.3s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:45.144Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-15T15:25:45.946Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-15T15:25:45.949Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:25:45.951Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:45.952Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 8.4s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:54.816Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:54.817Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:25:55.672Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-15T15:26:25.841Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T15:26:25.857Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T15:27:53.260Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:27:53.264Z",
+    "level": "info",
+    "message": "Nome não identificado para 555491304444@c.us. Tentando identificar..."
+  },
+  {
+    "timestamp": "2025-05-15T15:27:53.266Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Nome) aguardando 15.583858670499428..."
+  },
+  {
+    "timestamp": "2025-05-15T15:27:53.268Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "4"
+  },
+  {
+    "timestamp": "2025-05-15T15:27:53.272Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:27:53.275Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:27:57.349Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:27:57.352Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:10.280Z",
+    "level": "info",
+    "message": "Nome identificado pela IA: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:10.283Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "name",
+      "value": "Nome do cliente: Everton"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:28:10.285Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:10.286Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.3s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:15.174Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:15.177Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:15.179Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:15.181Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 12.3s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:15.183Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Estranho, Global Tur vendendo imóveis?"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:15.187Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:15.190Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:19.985Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:19.989Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:24.290Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Analisar depois"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:24.292Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Analisar depois"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:28:24.294Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:24.296Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 17.408251153601743..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:28.426Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:28.429Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:28:28.431Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:28.433Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.107065165776532..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:43.320Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:43.324Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:28:43.325Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:43.327Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.8s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:45.453Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:45.455Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:28:45.457Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:45.459Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.9s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:48.127Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:48.129Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:28:51.754Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-15T15:28:52.999Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-15T15:29:06.970Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:29:06.972Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:06.640Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:06.643Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:06.645Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:06.647Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 14.4s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:06.648Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "3"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:06.654Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:06.658Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:10.652Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:10.655Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:26.793Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:26.796Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:26.799Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:26.801Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 10.1s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:26.803Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Mas e o turismo, continua?"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:26.824Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:26.828Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:30.947Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:30.950Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:30:30.952Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:30.954Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.441570909530693..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:37.825Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:37.828Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:30:37.829Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:37.831Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 15.81969215333247..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:45.506Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:45.508Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:50.358Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:50.361Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:30:50.363Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:50.365Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 5.4s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:54.561Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:30:54.564Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:30:54.566Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:54.568Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 5.5s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:56.182Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:56.184Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:30:56.297Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:00.728Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:19.153Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:19.156Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:19.159Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:19.161Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 15.0s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:19.164Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "1"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:19.168Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:19.172Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:24.438Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:24.441Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:35.236Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:35.238Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:31:35.240Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:35.242Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.78466266569937..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:35.269Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:35.270Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:36.292Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:36.295Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:36.297Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:36.300Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 14.7s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:36.302Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Ou 3"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:36.307Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:36.310Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:42.063Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:42.066Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:57.508Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:31:57.511Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:31:57.513Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:31:57.516Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.1s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:00.767Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:00.770Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:32:00.772Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:00.775Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.24388324075523..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:01.481Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:01.484Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:01.487Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:01.489Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.9s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:01.492Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Ótimo"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:01.497Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:01.500Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:05.712Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:05.716Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:06.012Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:06.341Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:06.343Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:16.406Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:16.409Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:32:16.411Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:16.417Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 19.844861559637273..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:19.632Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:19.635Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:32:19.638Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:19.640Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 9.6s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:25.855Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:25.869Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:28.224Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:28.227Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:37.577Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:37.580Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:32:37.583Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:37.585Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.1s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.803Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 555491304444@c.us!"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.806Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "lead",
+      "value": "sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.809Z",
+    "level": "info",
+    "message": "Marcado como lead em Dados.json para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.811Z",
+    "level": "info",
+    "message": "Iniciando identificação de lead para cliente ativos/GlobalTur, chatId: 555491304444@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.815Z",
+    "level": "info",
+    "message": "Contato principal encontrado: gdk1o4bwfli"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.818Z",
+    "level": "info",
+    "message": "Lead não encontrado para 555491304444@c.us neste cliente. Salvando novo lead..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.822Z",
+    "level": "info",
+    "message": "Diretório de leads criado: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur\\config\\leads\\2025\\05\\15"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.826Z",
+    "level": "info",
+    "message": "Novo lead salvo em C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur\\config\\leads\\2025\\05\\15\\leads.json com ID: cvoah4wi04m"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.828Z",
+    "level": "info",
+    "message": "Novo lead salvo com ID: cvoah4wi04m. Iniciando timer para resumo."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:38.831Z",
+    "level": "info",
+    "message": "Iniciando timer de 10 minutos para resumo do lead cvoah4wi04m (contato: gdk1o4bwfli, chat: 555491304444@c.us)."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.017Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 555491304444@c.us!"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.020Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "lead",
+      "value": "sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.022Z",
+    "level": "info",
+    "message": "Marcado como lead em Dados.json para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.024Z",
+    "level": "info",
+    "message": "Iniciando identificação de lead para cliente ativos/GlobalTur, chatId: 555491304444@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.026Z",
+    "level": "info",
+    "message": "Contato principal encontrado: gdk1o4bwfli"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.030Z",
+    "level": "info",
+    "message": "Lead não encontrado para 555491304444@c.us neste cliente. Salvando novo lead..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.034Z",
+    "level": "info",
+    "message": "Novo lead salvo em C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur\\config\\leads\\2025\\05\\15\\leads.json com ID: o2l4or2o6hj"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.037Z",
+    "level": "info",
+    "message": "Novo lead salvo com ID: o2l4or2o6hj. Iniciando timer para resumo."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.039Z",
+    "level": "info",
+    "message": "Timer de resumo anterior para 555491304444@c.us limpo."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:45.040Z",
+    "level": "info",
+    "message": "Iniciando timer de 10 minutos para resumo do lead o2l4or2o6hj (contato: gdk1o4bwfli, chat: 555491304444@c.us)."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:46.223Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:46.227Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:46.229Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:46.231Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 14.6s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:46.234Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Me fale mais sobre o turismo por favor"
+  },
+  {
+    "timestamp": "2025-05-15T15:32:46.239Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:46.243Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:54.903Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:32:54.905Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:01.510Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:33:01.515Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:33:01.518Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:01.520Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.232891132674464..."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:05.796Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:05.799Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:05.803Z",
+    "level": "info",
+    "message": "Nova mensagem recebida para lead o2l4or2o6hj. Reiniciando timer de resumo."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:05.807Z",
+    "level": "info",
+    "message": "Timer de resumo anterior para 555491304444@c.us limpo."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:05.809Z",
+    "level": "info",
+    "message": "Iniciando timer de 10 minutos para resumo do lead o2l4or2o6hj (contato: gdk1o4bwfli, chat: 555491304444@c.us)."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:22.419Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:33:22.422Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:33:22.425Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:22.429Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.2s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:30.403Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 555491304444@c.us!"
+  },
+  {
+    "timestamp": "2025-05-15T15:33:30.405Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:54.388Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:33:54.389Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:37.560Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:34:37.564Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:34:37.566Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:37.569Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 11.7s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:37.572Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Ooohhh"
+  },
+  {
+    "timestamp": "2025-05-15T15:34:37.577Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:37.581Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:42.388Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:42.392Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:42.397Z",
+    "level": "info",
+    "message": "Nova mensagem recebida para lead o2l4or2o6hj. Reiniciando timer de resumo."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:42.399Z",
+    "level": "info",
+    "message": "Timer de resumo anterior para 555491304444@c.us limpo."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:42.402Z",
+    "level": "info",
+    "message": "Iniciando timer de 10 minutos para resumo do lead o2l4or2o6hj (contato: gdk1o4bwfli, chat: 555491304444@c.us)."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:46.797Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:34:46.801Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:34:46.803Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:46.806Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 12.2s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:46.809Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Está evoluindo Ana"
+  },
+  {
+    "timestamp": "2025-05-15T15:34:46.814Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:46.818Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:51.316Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:34:51.319Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:34:51.322Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:51.325Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.797580101958587..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:58.044Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:58.048Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:58.054Z",
+    "level": "info",
+    "message": "Nova mensagem recebida para lead o2l4or2o6hj. Reiniciando timer de resumo."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:58.056Z",
+    "level": "info",
+    "message": "Timer de resumo anterior para 555491304444@c.us limpo."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:58.059Z",
+    "level": "info",
+    "message": "Iniciando timer de 10 minutos para resumo do lead o2l4or2o6hj (contato: gdk1o4bwfli, chat: 555491304444@c.us)."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:59.732Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:34:59.735Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:34:59.738Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:34:59.740Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.967917344547047..."
+  },
+  {
+    "timestamp": "2025-05-15T15:35:09.530Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:35:09.533Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:35:09.537Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:35:09.541Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.8s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:35:19.068Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 555491304444@c.us!"
+  },
+  {
+    "timestamp": "2025-05-15T15:35:19.070Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:35:20.495Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:35:20.499Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:35:20.501Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:35:20.505Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 5.2s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:35:27.373Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 555491304444@c.us!"
+  },
+  {
+    "timestamp": "2025-05-15T15:35:27.376Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:35:42.241Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:35:42.243Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:38:25.867Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T15:38:25.879Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T15:44:25.875Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T15:44:25.885Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T15:44:58.070Z",
+    "level": "info",
+    "message": "Timer de 10 minutos expirado para 555491304444@c.us. Gerando resumo..."
+  },
+  {
+    "timestamp": "2025-05-15T15:44:58.074Z",
+    "level": "info",
+    "message": "Gerando resumo para lead o2l4or2o6hj (contato: gdk1o4bwfli, chat: 555491304444@c.us)..."
+  },
+  {
+    "timestamp": "2025-05-15T15:44:58.077Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Resumo) aguardando 13.3s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:45:14.599Z",
+    "level": "info",
+    "message": "Resumo gerado pela IA: Resumo da Conversa:\n\n**Cliente:** Everton\n\n**Objetivo:** Investimento em imóveis com foco em lucro, ..."
+  },
+  {
+    "timestamp": "2025-05-15T15:45:14.602Z",
+    "level": "warn",
+    "message": "Lead com ID o2l4or2o6hj não encontrado para o cliente ativos/GlobalTur."
+  },
+  {
+    "timestamp": "2025-05-15T15:45:14.605Z",
+    "level": "info",
+    "message": "Resumo salvo para lead o2l4or2o6hj."
+  },
+  {
+    "timestamp": "2025-05-15T15:45:14.608Z",
+    "level": "info",
+    "message": "Enviando notificação de novo lead (com resumo) para 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T15:45:14.931Z",
+    "level": "info",
+    "message": "Mensagem enviada para 5519989808901@c.us: 🎉 *Novo Lead Identificado!* 🎉\n\n*Cliente:* GlobalTur\n*Nome:* Não identificado\n*Telefone:* 555491304444\n*Data:* 15/05/2025 12:45:14\n\n*Resumo da Conversa:*\nResumo da Conversa:\n\n**Cliente:** Everton\n\n**Objetivo:** Investimento em imóveis com foco em lucro, possivelmente acima de R$900.000.  Demonstrou interesse também pelos serviços de turismo da Global Tur.\n\n**Informações Principais:**\n\n* **Tipo de Imóvel:**  \"Qualquer boa oportunidade de lucro\" (sugerindo flexibilidade).\n* **Valor de Investimento:** Acima de R$ 900.000.\n* **Forma de Investimento:**  À vista, ou a longo prazo para valorização.\n* **Interesse em Turismo:**  Sim, perguntou sobre os serviços de turismo da Global Tur.\n\n\n**Conclusão:**\n\nO cliente Everton demonstrou interesse em receber mais informações sobre imóveis com alto potencial de lucro e também sobre os serviços de turismo da Global Tur.  Ele deseja um contato do corretor Everton para discutir opções. A preferência de contato (ligação ou mensagem) e horário ainda precisam ser definidos.\n"
+  },
+  {
+    "timestamp": "2025-05-15T15:50:25.890Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T15:50:25.899Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T15:56:25.904Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T15:56:25.914Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T15:57:33.078Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:57:33.082Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:57:33.085Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:57:33.089Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 11.2s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:57:33.092Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Prefiro ligação"
+  },
+  {
+    "timestamp": "2025-05-15T15:57:33.097Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:57:33.102Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:57:38.304Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:57:38.308Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:57:46.386Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:57:46.391Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:57:46.396Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:57:46.399Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.411988511032153..."
+  },
+  {
+    "timestamp": "2025-05-15T15:58:05.760Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:58:05.765Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:58:05.768Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:58:05.770Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 5.5s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:58:12.653Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 555491304444@c.us!"
+  },
+  {
+    "timestamp": "2025-05-15T15:58:12.655Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:58:23.411Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:58:23.413Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:04.019Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T15:59:04.023Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T15:59:04.027Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:04.030Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 10.0s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:04.035Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "15h"
+  },
+  {
+    "timestamp": "2025-05-15T15:59:04.041Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:04.045Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:09.223Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:09.227Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:15.608Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:59:15.612Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:59:15.615Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:15.619Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.96925661772752..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:33.708Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T15:59:33.712Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T15:59:33.714Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:33.717Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.0s..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:41.199Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 555491304444@c.us!"
+  },
+  {
+    "timestamp": "2025-05-15T15:59:41.203Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:53.304Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T15:59:53.306Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:23.900Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-15T16:00:23.904Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-15T16:00:23.907Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:23.911Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 12.9s..."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:23.914Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Abraço!"
+  },
+  {
+    "timestamp": "2025-05-15T16:00:23.921Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:23.926Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:29.651Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:29.655Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:37.877Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T16:00:37.881Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T16:00:37.884Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:37.887Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.177250730882612..."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:55.653Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Sim"
+  },
+  {
+    "timestamp": "2025-05-15T16:00:55.658Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-15T16:00:55.662Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T16:00:55.666Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 8.8s..."
+  },
+  {
+    "timestamp": "2025-05-15T16:01:06.483Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 555491304444@c.us!"
+  },
+  {
+    "timestamp": "2025-05-15T16:01:06.486Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-15T16:01:15.699Z",
+    "level": "info",
+    "message": "Mensagem precisa ser dividida, enviando para splitMessages para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T16:01:15.703Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-15T16:02:25.908Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:02:25.919Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:08:25.915Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:08:25.927Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:14:25.926Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:14:25.939Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:20:25.934Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:20:25.947Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:26:25.934Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:26:25.947Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:32:25.938Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:32:25.950Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:38:25.947Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:38:25.959Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:44:25.949Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:44:25.960Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:50:25.949Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:50:25.958Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T16:56:25.960Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T16:56:25.970Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T17:02:25.964Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T17:02:25.973Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T17:08:25.972Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-15T17:08:25.983Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-15T23:46:46.366Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:46.370Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:46.372Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:46.374Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:46.375Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:46.377Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:58.226Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:58.228Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:58.230Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:46:59.107Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:59.108Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:46:59.111Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:47:06.103Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀▀▄█▄▄█ ▀▄▄ █ ▄ █ █▀▄ ███▄▀█▄▄█ ▄ ▀██ ▄▄▄▄▄ █\n█ █   █ █▄▀▄ ▄▄██▄█▄▀█▄▄▄▀ ▀ ▄▀▄ ▄▀▄█▄▀▄▄▄▄▀▄▀█ █   █ █\n█ █▄▄▄█ █ █▄▄█▄█▄█▀ █▄▄▀▄ ▄▄▄  ▄▀█▀▀▄▄▀ █ ▀ ███ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ ▀▄█ █ ▀ █▄▀▄▀▄▀ █▄█ ▀▄▀ ▀ █ ▀ ▀▄▀▄▀▄█▄▄▄▄▄▄▄█\n█ ▄█ ▀█▄▄█▄▀▀█ ▄█ █  ▄  ▄ ▄ ▄▄█▄▀▀▄█▀ █▄▄▄██▄█▀▄▄ █▄ ▀█\n█ █▀██▄▄   ▄█▀▄▄█ ▄▄▄█ ▀▀▄▄ ▄██▄ █▄ ▀▀▄▄▀ ▀█ ▄ ▄█▄▀  ▀█\n█ ▄ █ ▀▄▄ █ ▀▄▄▄█▀▄▄▀█▄  █▄█▄█▄█▀▄ ▀ ▄ ▄▄▄▄█▀█▄▀ ▄ ██▄█\n█▀█▀██ ▄▀ █▀▀███ ▀ ▀▀▄▄█ █▄▄█▄▄█ ▄ ▀█▄▀▀▄▀ ██▄▀▄▀███  █\n█▄▀▀█▀█▄▄▀█▄▀█▄  █  ▄▀ ▀  ▀  █ ██  █▄▄▄ █▀ █▄▀ ▄▄   █▀█\n█▀▄▄▄▄ ▄ █▄▄▄ ▀▀  ▀▄▀██▄████▄▄█▄█▀▄▀ ▀ █ █▀▀ ███▀█▀█▀ █\n█▀█ ▀█▀▄   █  ▄█▀█▀ ▄▄▄    ▄  █▄▄█▄██▄██▀ ███▄▄█▀▄█▄███\n█▄▄█▀ ▄▄█▀██▀ ▀█ ███▀█▄▀▄██▀ ▀  ▄▄███▄ ▀  ▀█ ▄█▀ ▀ ▀▄▀█\n█▀▄▄▄ ▄▄▄ ▀ █ ▄██▄▄▄▀▄█▄  ▄▄▄ █▄█ █▀  ▄█▄ █▄  ▄▄▄ ▄▀███\n█▄▄▄  █▄█  ▄ █ ▀█▀▄▀ ▀ ▄█ █▄█ ███▀▀▄█▄▄▄▀█▀█  █▄█  ▄ ▄█\n█ ▄▀▀  ▄▄▄▄▄▀▀▀ ▄█▄▄ ▀█▀▄ ▄▄  ▀██ ▄█▄▄▄▀ █ ▄▀ ▄  ▄▀▀▀▀█\n█ ▄█▄  ▄█ █▄█▀▀▄▀▀▄▄▄██▄▀▀▀██   ▄▄█▄ ▄ █ █▀▄▄▀▄▄▄▄█▄  █\n█ ▀█ ▄█▄▄  ▀▀███ ▄▄ ▄▄▄ ▄██▀ ▄ █▄▀▀▄█▄▄▄▄  ▄█ ▀█ █▄▄ ██\n█▄ █▀▄ ▄      ▄▀ █▄▄██▀█▀▀  ██▄█▀█  ▀▀ ▀▀▄▄▀▀█ ▀  ▀  ▀█\n█▀▀█ ▀▀▄▄█▄▄ ▀▄▄█   ▀▄▄ █ ▄ ▀▀▄▄▄▄█  ▄▀▄▄▄█▄▀▄▀▀▄▄▄█▀ █\n█ ▀▀ ▀▄▄█▀ ▀▀█  ▀▄███▀▀█▄█ ███▀▀   ▄▀▄ █ █ ▀▀▀▄▄▀ ██▄ █\n█ █▄██ ▄ ▄    ▀▀█▀█ ▄▀ ▀▀▀█▄█▀ ▄█ ▀▄▄▄█ ▄▀▄▄▄▄██▄█▄▀█▀█\n█▄ ▀▄▄▄▄▀▀▀▄▀▄█▀████▀▀▀▄▀█ ▀▄▀███▀ ▀ ███ █▀▀▄▀▄▄ ▀ ██▄█\n████▄██▄█▀███▀▀▀▄█▀ ██ ▄█ ▄▄▄ █▄██▄██ ▄█  ▄▄▀ ▄▄▄ ▀██▀█\n█ ▄▄▄▄▄ █▄▄ ██▄▄ ▀▄█▄█ ▄  █▄█  ▄▀██▄█▄█ ▀ ▀▀█ █▄█ █ ▄██\n█ █   █ █▀▀▀█▀▄▀▀ █ ▀█▄ █  ▄ ▄▄█▄ █▀ ▄ ▄ ▄▄██▄   ▄▄▀█▀█\n█ █▄▄▄█ █▀███▀▄▄ ▄▄██▄█▄▄  ▄ █ ▄█▀██ ▀▄██▄█▄▄▀▄█▀▄██ ██\n█▄▄▄▄▄▄▄█▄▄█▄█████▄▄▄▄▄█▄▄▄█▄███▄▄▄▄▄▄██▄█▄▄▄▄█▄██▄█▄██\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:47:06.106Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:47:06.358Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:47:59.651Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:47:59.653Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:47:59.655Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:47:59.680Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:47:59.682Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:47:59.685Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:48:00.027Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:00.029Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:00.032Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:48:00.035Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:00.037Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:04.651Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:04.653Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:04.655Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:04.656Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:04.658Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:04.660Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:08.476Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:08.478Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:08.481Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:48:10.071Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:10.073Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:10.075Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:48:11.616Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀ ▀█▄▄▄▄▄█▄ ▄▀█▄▄ ▄█  ▀ █▄  ▄ █▀▄▄▀▀█▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄█ ▀ ▄██▄ ▄▀▄██▄▄███▄ ▀ ▄█ ▄██▀█▄█ ██▀▄ ██ █   █ █\n█ █▄▄▄█ █ ▀▀▄█▀███ █▀█▀█▀▄  ▄▄▄ █  █ ██▄██  ▀▄ ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ █ ▀ ▀▄▀ ▀▄▀ █ ▀▄█ █▄█ ▀▄█▄█ ▀▄█▄█▄▀ ▀ █ █▄▄▄▄▄▄▄█\n█▄▄█ ▀█▄▄██▀▄▀█▀▄▄█ ▄█▄ ▀█ ▄  ▄▄██ ▄▄▄▄█  ▄▄ █▄▄▀██▄▄▄▀▄▄▀█\n█▀█ ▀▄▄▄▀▀▄▄ █▀█▀▀▀▄▄▄   ██ ▄ ▀ ▄ ▀ ▀▀▄  █▀█▀▄▀▀▀▄ ▀██▀██ █\n█▀▀ █▀ ▄▄▄▀█  ▄█▄ █▄ ▄ ▀███ █▄█▀ ▄ ▀▄▄ ▄▄ ██ ▄█ ██ ▄  ▀ █▀█\n██▀█  ▄▄▄▀▄██▀█▀▀▄▄▄  ▀█▀▄▀█▀█▄▄▀ ▀█▄▀█▀▀█ ▄▀█▀█▀█▀ ▄ ▄▄ ▀█\n█▀ ▀█▄ ▄█▀  ██▄▄ ▄▄▄▄▀ █▄█▀▀  ▀█▀ ▀█ ▄█▀▄█ █▀ ██ ▄▄▀▄█▀  ▀█\n█▀▀▀▄ ▄▄ ▀ ▀█▄▀▄▄ ████ ▀█▄▀█ █▀▀▄  ▀██▀█▀ ▀ █▀▄█  ▀▄ ▄█▄ ▄█\n█▀▀ ▀▀▀▄▀ ▀▀▄▀███ █  █▄ ▄ █ ▀▄██ █▄█▀▄██ ▄▄█ ██▄▀█▄█▄▄ ▄▄▀█\n██  ██▄▄ ▄▄█▄ █▄█ ▀█▀ █▀▀▀▄█▀▀▄▄▀ █▀▄█▀▄▄▀▄██▀█ ▄▄▀ █  ▄▄▄█\n██ ▄ ██▄▄█▄█▄▄█ ▄▀█ ██▄ ▄██  ▄▄█▄▀▀  ▄▀▄▄▄██▄ ▄ ▄█ ▄ ▄▀▄▄▀█\n█▄▄▀▀ ▄▄▄  ▀ ▄██▄▄▀▀▄▀█▄▄ █ ▄▄▄ ▄▄ ▀▄███▀ ▄ ▄██▄  ▄▄▄ ▄▄▄▀█\n█▀ ▀▄ █▄█ ▄█  ▄ ▄█▄█▄ ██▀█  █▄█ █▄▄▄▄▄▄▀ ██▄█ ▄█▄ █▄█ ██▀▄█\n█  █ ▄ ▄  ▀██▄▀▄▀▄▄▀▄▄▄▀▀█    ▄ ▄ ██▄▄▀███▄██▀ ▄  ▄   ██▄ █\n███▄ █▄▄█  ▄█▀▄█▄▄█ █▄▄ ██▀▀█▄▄▄▄█ ▄▀▄▄▄▄ █▄ ██▄▄█ ▀ █▀   █\n██ ▄▀▄▄▄███▄▄▀ █ ▀█▀█▀ ██ ▄██▄▀▄▄▄▀▄█▄▀  █▄█ ▀  ▀ █ ▀█▄▄█▄█\n█ █▀█▄▀▄█▄▄ ▀▄▄█  ▄▄▀ █▄ ▄█▄  ▀█ ▄█▀▄ ▀█▄ ▄▄  ▄ █▄▄  ▀▄██ █\n█▀██ ▄▀▄ ▀▄▀███▀ ▄ ▄█ █▄▀▄ █ ▄▄ ▄▄▀▄▀ ▀▄▄▀▄▀▄▀██▀  █▀ ██ ▄█\n█▀  ▀▀▀▄▀█▄  █▀█▄█ ▄▀▀ █▀█ ▄ ▄▀ ▄  █   ▀ ▀▀█  █▄█ ▀ ▄▄▀█▄ █\n█▄ █▀█▀▄▀ ▀  ▀▄█ ▄█▄ █ █▀▀█ ▄   ▀ █▄▄  ▀▀▀█▄█▀ ▀▀ ▄ ▄ ▄█  █\n████▀▀▄▄▄██▀ █▄ ██▄▄ ▄ ███ █▄█ ▀██▄▄▀ ▄▄▄▄ ▄▄█▄▄ ▀█ ██ ▄▀▀█\n█ ▀ ▀▀▄▄ █ ▀██▀█▄▄ ▄█ ▄▀▄█▀█ ▀▄ ▀▄█ ▀▀▀ ▄▀▀██▄▄██ ▀▄▀▀▄█▀▄█\n███████▄█ ▄ █▄ ▀█ ▄▄▀▄  █▄▄ ▄▄▄   ▀ ▀▄ ▄▄▄▄▄█▄█▀█ ▄▄▄  ▀███\n█ ▄▄▄▄▄ █▄ ███▄ ▄▄ ▀██▄▄▄▄▀ █▄█  ▀▄█▀▄▀▄  ██▄ █▀█ █▄█ ▀▄ ██\n█ █   █ █▀▄▄█▄▀▄█▀▄▄▀ ▄▀▀ ▀     ▀ ▄▄▄▄█ ▄▀ █▄  ▄▀▄▄ ▄ ▄▀ ▀█\n█ █▄▄▄█ █▀▀  ▄█▀██ ▄▄▄  █▀▀▀▄ █▀▄▄▄█▀▀▄█▄▀  ▀▀▄▀ ▄▀▄█ ▀██▄█\n█▄▄▄▄▄▄▄█▄███▄▄▄▄██▄▄▄▄▄██▄██▄▄▄▄▄███▄██▄▄█▄████▄███▄▄██▄██\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:48:11.619Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:48:11.695Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.458Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.460Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.462Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.489Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.491Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.494Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.680Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.682Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.684Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.687Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:10.737Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:14.460Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:14.463Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:14.465Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:14.467Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:14.469Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:14.472Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:18.338Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:18.345Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:18.359Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:49:18.650Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:18.652Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:18.654Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:49:22.145Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀     ▀▄▄██▄▄█ ▄   █▄▄▄██▄▄▀ ▄ ▄▀  ▄▀█▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄▄▄█ ▄▄██ █ █▄█▄███▀█ ▀ ▄▀█▄█ ▀▄█▄▄▄▄▀▄ ██ █   █ █\n█ █▄▄▄█ █  ▀██ ███ █▀█ ▄▀▄  ▄▄▄ ▄▀▄▀▀▄█  ▄▄▄▀▄ ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ █ ▀ ▀ ▀ ▀▄▀ █▄▀▄█ █▄█ ▀▄█▄█ ▀ ▀▄█ █▄▀ █ █▄▄▄▄▄▄▄█\n█▄▄█ ██▄▄▀ █▄▄▄██▄█▄▄██ ▄▄▄▄▄ ▄▄██ ▄ ▄▀█  ▄▄▄█▄█ █▀▄▄▄▀▄▄▀█\n█▄█▄▀▀█▄█▀ ▄█▄▀█ ▄▀▄▄▄   ██  ▄ ▀  █ █▄▀█▄ █▀▄▄▄▄▄▄▀▀█ ▀██ █\n█▀▀▀  █▄▄█ █▀ ▄██▀█▄ ▄ ▀██▄  ▄█▀▄ ▄▀▄▄▀█▄ ██▀ ▄  █▄▄▀ ▀▄▄▄█\n██▀█ ▄▄▄▀ ▀ ▄▀▀  ▄█ ▀▄█▄▀  ▄▀▄ ▄▀ █▄▀▄██▄ ▀█▀▀▀ ▀▄  ▀███▄██\n██▄ ▄██▄█▀ ▀█ ▀ ▀▄▄ ▄ █▀▀▄ ▀   ▄▀  ▄ ▄▄ ██ ▄▀ ▄▄ ██▀ ▀█ ▄ █\n███ ▄ ▄▄ ▀ ██ ▀▄█▄▀ ▀██ ▀█ █ █▀▄▀▀ █▄  ▄▄ ▀▄ ▄██▄█ ▄▄▄█▄▄ █\n█ █ ▀█ ▄▄▄ ▀█▄███ ▄  ██ ▄ ▄▀ ▄ ▄▄▀█▄▀▄▄▄▄▄██▄▀█▄▀██▄█▄ ▄█▀█\n█▄█▄  █▄ █ █▀▀▀██ ▀█▀  ▀▀▀▄█▀▄█▀  ▄▀▀▀  ▀▀▄▄▀█▀█▄  ▄  ▀▄▄▄█\n█▄▀█▄█▄▄█▄█▄▀▀▀ ▄ ▄▄██▄ ▄▄▀▄▄ █▄▄▀▀ ▀  ▄  ██  ▄▀▄▄ ▄▄  ▄▄██\n█▀ ▄█ ▄▄▄  ▄█▄▀ ▄▄▀▀▄▀█▄ ▀█ ▄▄▄ ▄▄▄▀█ ▄▄█▄ ▀▀▄▀▄▀ ▄▄▄ ▄▄▄▀█\n██▄ ▀ █▄█  ▀   █▄█▄██▀██▄█▄ █▄█ ▀ ▄▄█ ▀  ▀▀▄█ █▄█ █▄█ ▀  ▀█\n█▄▀▀ ▄ ▄ ▄█▀█▄█ ▄▀█▀█     ▀▄ ▄▄▄▀ ██▀  ██ ██▀▀█ █ ▄▄▄ ▄▄ ▄█\n█▀▀▀█ █▄▄ ▄ ▄ ▄ ██▄ █▄█ ██  ▄▄▄▄ █ ▄█ ▄▄▄▄█▄▄▀██▄▄▀▄ █  ▄▄█\n██ ▄█▀▀▄█  ▀▀█▀█ ▀▄▄▄█ █▄▄██▀█▀▄▀▀█▄█  ▄▄▀ ▄ ▄ ▄  ▀ ██ █▀▄█\n█▀ ▄▄ █▄▀▀█▄▀███   ▄▀ ▄  ▄█▄  ▀█  ▄▀▄▄ ██  █▀ █▀█▀▀█ ▀▀ ▄ █\n█ ▀▄▄▀ ▄█▄▄ ▄▀▄█ ▄ ▀█   ▀▄▀▄ ▄▀ ██▀▄▄  ██▀▀█ █▀▀  █▀▀ ▀▄ ▄█\n███████▄ ▄ ▀▄▄███▄▄▄▀▀ ▀▀█ ▄▄█ ▀▄  █▄ ▀▀▀▀ ▄█▄███▄▀██▄▄▀ ▄█\n█  █▀▀█▄  █ █▀▀▀  █▄▄▀ █▄▄█ ▀█ ▄▀ ▀▄▄▄▄█▀     ▀ █ ▀ ▀██▄  █\n█▀█▄▀▄▀▄█ ▀██▀▄▀ █▄▄ ▄ █▄█ ▀█▄▀▄██ ▄█ █▄  ▀██▀▄█ █▀▀▄▄█▀▀▀█\n█ ▀ ▀▀▄▄▀▄▄▀ ▀█ ▄█▀ ▀▀▄▀█▀▀▄▄▄▄  █▄ █▄▀▄▄▄▄▀█▄▀▄█▀█▄▄█ ▄▀ █\n███████▄█ ▄▀█ █▀█▀▄▄▀▄▄ █▄▄ ▄▄▄   █    █▄ ██ ▄▀ ▀ ▄▄▄ █▀ ▀█\n█ ▄▄▄▄▄ █▄▀█▄▄▄█ █▀ ▀  ▄ █▀ █▄█ █▀▀  ▀ █ ▀ ██ ▄▀▀ █▄█ ██▀██\n█ █   █ █▀▄▀ ██ █▀▀ ▀ ▄▀▀ ▀ ▄▄  █ ▄█▄ █▀ █ █▀▄██▀▄ ▄▄▄▀▄  █\n█ █▄▄▄█ █▀▄▀█▀████ ▄▄▄███▀ █  █▀█▄██  █ ██▀██▄▄▀▄ █▄ ▄▀██▄█\n█▄▄▄▄▄▄▄█▄▄▄▄▄███▄█▄█▄▄▄██▄███▄▄▄▄███▄██▄▄▄█▄██▄█▄▄▄████▄██\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:49:22.147Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:49:22.381Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.077Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.079Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.082Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.108Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.110Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.113Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.406Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.408Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.411Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.414Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:19.416Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:23.491Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:23.494Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:23.496Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:23.498Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:23.500Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:23.502Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:27.359Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:27.362Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:27.365Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:50:27.781Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:27.783Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:27.786Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:50:31.279Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄█▀██ ██▀▀▀ ▀ █▄ ▄▀▀█▄▄█▄██▄▄▄██▄  ▄  ▄ ██ ▄▄▄▄▄ █\n█ █   █ █ ▀▄▄ ▀▄▄▄▀▀▄▄▀█▀▀ ████▄█▄██▄ █  █ ▀█▄▀▄ ██ █   █ █\n█ █▄▄▄█ █▄▄██▀█▄▀▀▀▄ ▀▄▄ █▀ ▄▄▄ █▄ ▀▄▀▄ █ █▀ █▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█▄█▄█ █▄▀▄▀▄▀▄▀▄█ █▄█ ▀ ▀ █ █▄▀ ▀ ▀▄▀▄█ █▄▄▄▄▄▄▄█\n█▄▄ ▄█▀▄█ █▄█▄ ▀ █▄█▀█▄ ▄ ▀      █ ▄▀▀ █   ▀▄█▄█▀▀ █▀ ▄ █▄█\n██▄▀  █▄██▄██▀ ▀▄▀ ██ ▄▄█▀▄██▄▀▀█ █ ▀█▀▄▄██▄▀▀██▄▀ █▀▄ ▄ ▄█\n█▄█▀ █▀▄▀▀▄▀█▄▄  ▄█▄ ▀█▄ █▀▀█▀█▀ ██▄  ▀▀▀██▄▄█ ▄██▀▀███▄▄▀█\n█▀▄▀██▄▄█▀ █▀ ▄█▀ ▀▄██  ▄▀ █ ▄█▀█▀ ▀█▀▄█▀█▄ █▀ █ ▄█  ▀█▀▀▀█\n█▀██▀█▀▄▀█▄ ▀▄ ▄▀ █▀██ ▀▀██▄▄▄ █▄ ▄▀▀█ █ █▀█▄▄   ▄▄█ ▀█  ▄█\n█▄▄█▄ ▀▄▀▀▄▀ █▀▀ █▀▀▄▄██ █  █  ▄▄▄█ ▄ ▄▄▄▄▄ █ ▀    ▀ █▀█▄██\n█  ▀▀ ▄▄██▀▄ ▄ ██ ▄▀██▀ ▀█▀▀  █ ▀▀▄▄ ▀ █▄  ▀▀██▄▄  ▄  ▄  ▀█\n█▄▀▀   ▄▀ ▀ █▀▀▄▀▄▀▀ ▄▀   █▀▀▄█ ▀▄▀▄▀██▄ ▀██▀█▄ ▀▀▀█ ▀▀▄█ █\n█▄ █  ▄▄▄█▀ ▄ ▀  █▄ █ ▀▀██▀▀▀██▄▄▄▄█   ▀█▀▄█ ▀ ▄▄▄▄ ▀▀▀█  █\n█ ▀ ▀ ▄▄▄ ▄▄▀▀▀▀ ▀▄▄▀▀█▄ ▄▄ ▄▄▄ █▄ █▄█▄█▄ █▄▄ ▄▄  ▄▄▄ █▀▀██\n█▄  █ █▄█ ▀▀▄   ▄ █▄██▀▀█▄█ █▄█ ▄▄█▀▀▀████ █   ▀▄ █▄█  ▄▄ █\n█▄▀▄█▄ ▄▄ █  ▀█ █▄  ██▄█▄▄█ ▄▄ ▄▄▄▀ █▀█▄█▄▀█▄▄▀█▀ ▄▄  ▄█▄▀█\n█▄▀█▀▀▄▄██ ▄▀▀ ▄ █▄▀ ▄▄▄▀▀█  █▀▀██ ▄ █ █    ▀█▄▄▀ ████  ▄▄█\n█▀▄ ▀▄█▄█▄██ █ ▀▄▄█▀▄  ▄█  █▄█ █ ▄█  ▀▀▀▄█ ██   ▄▀ ▄▀ █▄  █\n███ ▀ █▄▄█▄   █▀██▄ ▀██▀ ▄█ ███ ▄▀▀██ ▄ ▀▀▄▄▄█ ▄█ █▄▀▄ ████\n█▄▀▀█▄█▄▄▀▄▄▄▄ ▄ ▄▀▀  ▄▄▄▀█▀ ▄▄█ ▄ █ █▄▄▄██▀▀█▄▄███▀ █▀ █▄█\n█▄▄▄█▀█▄ ▄▀█▀▄  ▀ █▀ █▄█ █▀ ▀  ▀█▄▄▀▀▀▄▄ █▀█▄▄█  ▀ █▀  ▀▀ █\n█▄▀ █ ▀▄▀██ █▄▄▀▄▄█▄▄ █  ▀▀█    ██ █▀ █▀██▀▀█ █ █▀▄▀█ ▄█ ██\n█   ▄▀ ▄█▀█▀ ▄ ██▄▀▀ ▄ █▄ █▄██  ▀▀▄█▀█▀█▄   ▀▀█▄█   ██▄█▀██\n█ ▀ ▀▀▄▄▀▀ ██▄▀▄█▀▀▄ ▀▀ ▄█▄▄▄▄██ █▀▄▄█▀▄█▄ ▀█▄▄▀▀▄▄ █ ▀█ ▄█\n███████▄█▀▀ ███▄ ██ ▀▀ ▀█▄█ ▄▄▄ ▄█ █▄ ▀ ▀██▄▄▀ ██ ▄▄▄ ▄██ █\n█ ▄▄▄▄▄ ██▀█ ▄▀ ██▀█ ███ ▄▄ █▄█ ▀▀ ▄ ▀█   ▄▄ █ ▀  █▄█ ▀▀▀██\n█ █   █ █▀▄  ▄▄▀▀█▀█ ▄▄█ ▀▄ ▄     █ █▀▄█▀▀▀▄▄▄▀    ▄   ▀▀▄█\n█ █▄▄▄█ █ ▄█ █▄   █▄▄▀ ▄█▀██▀▀█▀█▀  ▄ ▄  ▀█▄ ██▄ ▄▀ ▀██▄█▀█\n█▄▄▄▄▄▄▄█▄▄█▄▄███▄▄█▄▄▄▄████▄████▄██▄████▄█▄███▄▄▄▄███▄▄███\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:50:31.283Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:50:31.436Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.139Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.141Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.144Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.171Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.173Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.177Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.469Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.471Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.474Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.477Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:28.480Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:32.881Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:32.883Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:32.885Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:32.887Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:32.889Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:32.891Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:36.698Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:36.701Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:36.703Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:51:37.068Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:37.071Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:37.077Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:51:40.578Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀ ▄▄▄▀██▄▀▄▄▄█   ▄ █▀▄ ▄▄█▄  ▀ ▄    ██▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄   ██▄▄▄ █▀▄███▄██ █▄ ██  ▄██▀▄██ ▄▄▀▄ ██ █   █ █\n█ █▄▄▄█ █  ▀█ ▀▀███▀▀█ ▄▀▄  ▄▄▄  ▄▄▀▀▄ ▄██▀ ▄█ ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ █▄▀▄▀▄▀ █▄▀ █ ▀▄█ █▄█ ▀▄█▄█ ▀▄▀▄▀ ▀ ▀▄█ █▄▄▄▄▄▄▄█\n█▄ █ ██▄▄▀█▄  ▄▀ █▀▄▄▄█ ██  ▄ ▄▄██ ▄▄▄██ ▄█▄ ▀ █▄▄█▄  ▀▄▄▀█\n█▀█▄▀▀ ▄▄█▄▄▄█▀███▀▄▄▄  ▄▀▄  ▄▀▀▄ █ █▄▀▀  █▄▀ █ █  ▀ ▀▀█▄ █\n█▀▄█▄▀█▄ ███▄▄▄█▄▀█▄▀▄ ▀ █▀█▄ █▀ ▄█ ▄▄▀█ ▄▀█ ▄█ █▄ ▄ ▄▀ ███\n█▀  ▀▄█▄██▄ ▄ ▄█ █▄█▄  █████▀▄  ▀▀███   █▀▀▀▀▀▀█▄█▄█▀██▄ ██\n██ █▀▄▀▄ ▄ █▄▄▀▄ ▄▄ █▀▄█▀▄▀    ██▄▀██ ▀ ▀▀▄▄█▄▀▄██▄▀▄▀▀ ▀▄█\n█  █ ▀ ▄ ▀ ▄ ▀▀▄▄ █▀█ ▀  ▀▄█ ▀▀▄ █▄▀▀  ▀██▄█▄███▄█▄▀▄▄█▄▄ █\n█▄▄▄ █▀▄▄▄▄█▄████ █▄ █▄ ▄ ▄ ▄▄ █ ▀███ ▄▄█▄▄▄▄██▄▀█▄▄   ▄█▀█\n█▄██▄▄▄▄▀ ██ ▀▀▄█   ▀ ▀▀▀▀▄█▀ ▄▀ ▀█▀ ▄█▀ ▀█▄█▄▀▀▄ ▄▄▀█ █▄▄█\n█ █ ▄▄ ▄▀▀▀▀██▄ ▄▀▄ ██  ██▀ ▄ ▄█▄▀▀ ▄ ▀▄▄▄▄█▄▄▄▀ █▀█▄▄▀▄ ▀█\n█▀ ▀▄ ▄▄▄   █▄▄  █▀▀▄▀█▄▀▀▄ ▄▄▄ ▄▄ █▄      ▀█▀ █▄ ▄▄▄ ▄▄▀▀█\n██▄█▀ █▄█ █ █▄  ██▄█▄ ██▀▄▄ █▄█ █▄ █▀▄▄▀▄█▀▄▀ ▄█▀ █▄█ ▄▄▄ █\n█▄▀▀▀  ▄▄ ▄▀█▄▄█▄▀   ██  ▄█▄ ▄▄▄▄▀▄█▄▄▄██▄▄▄▄ ▀█▀   ▄ ▄▄▄▄█\n█  ▄ █▀▄ ▄█▀███▄ █▀▄██▄▄▄█ ▄▄▄▄▄▀▀ ▄▀ ▄▄▄▄▄█▄█ █▄ ▀▀▄█▄█▀▀█\n██▄██▀▄▄▀█ █  █  ▄▄▄▄▀▀▀▄▀▄▀▀▄▀▄▄ █▄▀▀█▀  █▄▄█  ▀▀█▄ █ ██▄█\n█▀▄██▄ ▄▄▀▀███▄▄  █ ▀  ▄ ▄█▄  ▄▄   ▀█▄ █▄ ██▀ █▀█▀▄ █▀ ▀▄ █\n█▄▀ ▄▄▀▄▄  ▀ ▄▄▀ ▄█ █ █▀▀▄ ▄ ▄▄ ██▀█▀▄▀▀█▀▀▄▄ ▀█  █▀▀ ▄█ ▄█\n█▀▄█ █▄▄ █▀▄██ ▄█▄▀ ▀▀ ███ ▄▄▄  ▄  █▄ ▄  ▀ ▄  ▀██▀▄▀▄▄██▄▄█\n█ ▀▄ ▀█▄▄▀ █▀▄▀▄█▀█▄ ▄ █▄ ▀ ▀▀ ▄█ ▀ ▀ █ ██▀█████▄ ▄▄ ▄█▄  █\n█▀▀▄▄▀▀▄█▄▀█  ▀███▄▄█▄ █▀█▀████ ▀███▀▄██▀  ▄ ▀█▄ █▄▀▄▄▄█▄▄█\n█ ▀ ▀▀▄▄███▀▀██▄▄ ▄▀ ▀ █▄  ▀▄▄   █▄▀ ██▀ ▀█▀▄▄ █▄ ▀▄▀▄ ▄█ █\n███████▄▄▀▄▀▀▀ ▀▄▀  ▀██▄█▄▀ ▄▄▄   █ ▄ ▀▄  ▄█  ▄ █ ▄▄▄ ▀▄█▄█\n█ ▄▄▄▄▄ █▄ ▀▄▀▀█▀▀ █▄█▀   ▀ █▄█ ▄ ▀ █▄█ ██▄▄ ▄█▄▄ █▄█ █▄▄▀█\n█ █   █ █▀▀▄▀▀█ █▀█ ▀  ▀▀ ▀▄    ▀  ▄▄ █▀▄▀ ▄█▄▄▄ ▄ ▄  ▄ ▀▀█\n█ █▄▄▄█ █▀ ▄█▄▄ ██▀ ▄▄ ▄█▀   ▄█▀█▄▄█▄ █ █▀▄▀▄▄ █  ▀█▄ ▄▄█▄█\n█▄▄▄▄▄▄▄█▄▄▄▄██████▄██▄▄▄▄▄██▄▄▄▄▄██▄▄▄▄▄▄██▄█▄██▄█▄▄▄▄█▄██\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:51:40.604Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:51:40.810Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.477Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.480Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.482Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.508Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.510Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.513Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.806Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.809Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.812Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.815Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:37.818Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:42.194Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:42.196Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:42.199Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:42.201Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:42.203Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:42.206Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:46.022Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:46.039Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:46.081Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:52:46.407Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:46.409Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:46.412Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:52:50.100Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀▀█▄ █▄█▀▄▄▀██   █▄▄▀▄▀▄▄▀▀▄▄█▄▄  ▀██ ▄▄▄▄▄ █\n█ █   █ █▀▀ ▀▄▀█ █  █▀█▄▀▀▄▀█▄█ ▄▄██ ▀█▄▀▄▀▀▄▀█ █   █ █\n█ █▄▄▄█ █▀▀▀▀▀  ▀██  █▀█▄ ▄▄▄   ▄▄ ▀███▀██▀ ███ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█▄▀ █ █▄█▄█ ▀▄█ █▄█ █ █▄█▄█ █ █▄▀ █ █▄▄▄▄▄▄▄█\n█▄▄  ▄▀▄▄▄█▀█▀▄▄▄▀▄▄ █▀█▀▄ ▄   ▀ ▀█▄ ▄ ▄▀▀   █▄█▄▀ █▄▀█\n█▄▄▀▄ █▄ ██ ▀ ▀▀▄ ▀ ▄ ▀█  ▀▄█▀▄██ ▀▀▀▄ ▀█  ▀█▀ ▄ █ ██▀█\n█ ▄█ ▀▄▄▀█▀█▀▄ ▀▄▄▀▄▄▄▀▀▄▀▄▀█ ▀  ██▄▄▄▄▄▄██▀▀▄ ▄ ▄█▀▀▄█\n█ ▄▄█  ▄ ▀▄ ██▀█ █ ▀ ▄█▀█▀▀█▀█▄ ▄▀▄███▄▄ ▄▄▀  █▄█▄█████\n██ █▄▄▄▄▄  ▄▄█▀█▀█▄ ▀▄█▀ ▄█ ▀▄   █▀█ ▄ ▄██▀▀ ▄▄▄ ▄ ▄ ▄█\n█ ▀▄ ██▄█ ▄▄ ▀▀█▀█▀▄█▄ ▄▀  ██▀▄▀█▀▀▄▄▄██▄▀█▀ █ ▄ ▄ █▀██\n█▀ ▀  ▀▄██▄▄▄▀▄███▄ ▀▄▀▀▀  ▀▀▀▀▀ ▀█▄ ▄██ ▀  ▀▄█▄▄ ██▀██\n█▀ ██▄█▄▀█  ▄█▄ ██ ▄ █ ▄▄▀▀████▄█▀▄█▄▀▄▄  ▄  ▀█  █ █▀██\n█▄▄█▄ ▄▄▄ ▄█▀▄▄▄▄▀   ▄▄▀▄ ▄▄▄   ▄█▄▄▄ ▀▄██▀▀▄ ▄▄▄ ▀▄ ██\n██▄ ▄ █▄█ ▄▄▀ ▀▄▄ ██▄▄█▄  █▄█  ▀▀▀▄▀█▀▀▄  █ ▄ █▄█  ▄▀██\n█▄▀ ▀▄▄▄  ▄███▄▀█▄   ▄███▄▄▄ ▄  ▄▀▄▄ ▄ █▀▀█▀█ ▄ ▄ ▀▄▄██\n███▀▄ ▄▄█▄▀ ██▀█ ▀  █▀ ▄█ █ ▄▄▀▀▀ ██▀ ██▄▀ ▀█▀▀██▀▀▄███\n█ █▄▄█▀▄ ▄▄█▀▀▀█▀█▀▄ █▄▀ ▀▄█▀▀  ▄▀█▄▄▄▄▄▀▀ ▀▀█ ▀█▀█ ▀██\n█▄█ ▀▄ ▄ █ ▀▄█▄ ▀█▀ ▄▀▄▀█▀█▀█▄▀  ▀▀▄▀█▀▄  █▄█ ▄▀ ▄▀█▀▀█\n██▄▄▀▄█▄▄███▄█▀▀▀▄▄  ▄▀█▀█ ██▄ ▀▄██▄ ▄▀▄█▀▀ ▀▄▄▄▀ ▀  ▀█\n██▀█  ▀▄▄▄  ▀█▄ ▄▄ ▀▄  ▄▀▄▄ ▀▄▄▀  ▄▄█▄▄ ▀▄ ██ ▀▀ ██▄█▀█\n█ ▄██▄ ▄█▄▀█▀▀▄▄▄▀█▄▄▄▀▀█▄▄█▄█ ▀██▀█  ▄▄▀▀▀▀█  █▄▀  ▄▀█\n█▄ ▀▄▄▄▄▄▀██  █▄▄ █▄▄█▀▄▀▀ █▄▄▄██   ▀▄ ▄ ████▀▀▀▄ ▀█▄▀█\n████▄██▄█▀▄▄▀  █▄█▄▄▀██▀  ▄▄▄ ▀▀▀█▄█▀▄▀█▀▀  ▀ ▄▄▄ ▀█▄▄█\n█ ▄▄▄▄▄ █▄▀ ▄█▄█▀▀▄▀▀▀▀▄▀ █▄█ ▄▀      █▄ ▀█▀▀ █▄█ █████\n█ █   █ █ ██▄█▄▄ █▀▄▀▄▀▀█  ▄▄ ▄ ▀▀█▄  █▄██▀▀█  ▄▄▄▄ ▄██\n█ █▄▄▄█ █ ██████▀█▄▀▄▀▄▀█▄▄ ▄▀▄▀▀▀▄ ▀▄▄ ▀▀▄  ▀▀▄▄ ▀█▀▄█\n█▄▄▄▄▄▄▄█▄███▄▄▄▄█▄▄█▄██▄▄▄▄███▄███▄█▄████▄▄▄▄█▄█▄█████\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:52:50.103Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:52:50.194Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:46.805Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:46.807Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:46.810Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:53:46.837Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:46.876Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:46.881Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:53:47.135Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:47.137Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:47.140Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:53:47.143Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:47.145Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:51.715Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:51.718Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:51.720Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:51.722Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:51.725Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:51.727Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:55.439Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:55.442Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:55.445Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:53:55.666Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:55.668Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:55.675Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:53:59.435Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀▀▄▄▀ ▄▄ ▄▄ ▀▄  ▄ ▀▀▄ █▄▄   ▀  ▀   ██▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄▄▄███▄▄▄▄▄ ▄██▄▄████▄ █▄███▄█▄▄▄ ▀██▀▄ ██ █   █ █\n█ █▄▄▄█ █ █▀▄█▄ ███▀▀██▄▀▄  ▄▄▄ ▄▀▄█▀ ▄▄▀ ▄▄█▀ ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ █ █▄▀▄▀ █ ▀ █ ▀▄█ █▄█ ▀▄█▄█ █▄█ █▄▀ █ █ █▄▄▄▄▄▄▄█\n█ ▄█▄▀█▄▄██▀█▀▄█▄▄▀▄▀▄  ▄█   ▄▄▄██ ▄▄▄▄█  █▄▄▀▄████▄  ▀▄▄██\n█▄▄ ▄ ▀▄▄▄▀█  ▀███▀▄▄▄  ▄█▄ ██▀ ▄ ▀▄██▄▀█▀▄▄██ █▀▄ █▄▄▀█▀▄█\n██▀█▄▀█▄ ██  ▀▄██ █▄ █ ▀▄▄   ▄█▀▄▄█ ▄▄ ██▄▄█▄▄█ ▄█▀█▄▄▀▄▀▄█\n█▄▄▀▀▄▀▄ ▄▄  ▀▀█ ▀▀▄▀▄ ▄██▀▄▀█▄ █ ▀█ ▀██▀▄█▀ ▄█▄ ▀ █▄█▄▄▄██\n█ ▀▀ █▀▄ ▀▄▀▀██ ▄█ ▄▄  ▀ ██▀  ▀██▄ █ ▄█ ▄▀ █▀▄█▄▄█   ▀▄▄▄▄█\n██ ▄█▀ ▄ ▀   █▀▄█▄▄█▄█ █████ █  ▀▄ █▀▀▄▄ ▀▄▀█▄█▄█ ▄█ █▄▄▄ █\n██▀▀  ▀▄█▀▄█ ▄███ █▄ █ ▄▄ ▄ ▄ ▄█ ▀██▀ ▄▄ ▄█▄ ▀█▄▀███▄▄▄█▄▀█\n█▀█▄▀▄ ▄▄▀ █▀▄▄ █ ▀█▀ ▀▄▀▀▄██▄ ▄▀ ▄▀ ▄▄  ▄ ▄▀▄▀▄▀▄▀▀ ▀ ▄▄▄█\n██ ▄▀█▄▄ ▄ █▀█▀▀▄▀▄ ██ ▄█▄█▄  ▄█▄▀▀ ▄▄▀█▄▄▀█▀ ▄ ▄█▄▄▄▄▀█ ██\n█▀█▄▄ ▄▄▄ █▀▀  ███▀▀▄▀█▄▀▀▀ ▄▄▄    ▀▄▀▀▄▀▄▄█▀██   ▄▄▄  ▄ ▀█\n█▄▄█  █▄█  ██▄█▀█▄▄██▀██ ▄▄ █▄█ ▀  █▀ █  ▀█▄▀▄▄▄█ █▄█ ▄████\n█▀▀▄▀▄ ▄▄▄▀███▀█▀▀▄▄▄▄ ▄▄▄█ ▄▄ ▄  ▄█▄▀██▀▄▄█  ▀▄▄     ▄▄█▄█\n██ ▄███▄▄▄ ▀██▀▄█▄▄ ▄▄  █▄ ▄█▄▄▄ ▀ ▄ ▄███ ▀▄█▀▄▄  ▀ ███▀▀▄█\n█▄▄█▄▀█▄▄██▀▀▀█▀ ▄▀█▄ ▀ ▄▀▀▀▀ ▀▄▄▀█▄▀█ █▀▄▄█▄█ ▄▀ ▀ ▄▀ ▄█▄█\n█ ▄ ▀▀▄▄ ▀▀█▀▄▀   ▄ ▀  ▄ ▄█▀  ▀ ▄▄ ▀▄▄▀▄  ██ ▄▄ ▀ ▀██ ▄ █ █\n█▀██▀▄▀▄ ▀▀▀█▀ ▄ ▄▄▄█ ▄▀▀▄▀  ▄▀ ██ █▀▄  ▄ ▀▀▄▀▄▄▄██▀█▄██ ▄█\n██▄   ▀▄██▀▄  █▄▄▄▀ ▀▀█▀▀▄ ▄███▀▄  █  ▄▀▀█ █▄▄▄▄▀█  ▄█▀█ ▄█\n██ █ █ ▄█ ███ █  ██▄   █▀▀▀ ▄▀  ▀ █ ▀▄██▀█▀▄█▄  ▀▀▄▄▀▀█▄ ▄█\n█▀█▀   ▄█▀██ ▄ ██▄▄▄█▄ █▄▄▀███▀█ █ █▀ ▄█   ▄▄▀▄█ ███▄█▄██ █\n█ ▀ ▀▀▄▄▄█▄▄▄▀█▀█ ▀▄▄ ▄▀  █▀▀  ▄ █▄  ██▄ ▀ █▀ ▀▀▄▀█▄█▀▀▄▄▄█\n███████▄▄▀▀ ▄ █▀ ▀▄▄ █ ▄▀█▀ ▄▄▄ ▄▄█  ▄ █▄▄▄▄▄ ▄ █ ▄▄▄ ▀ ▀▄█\n█ ▄▄▄▄▄ █▄ ▀▄▀ ▄██ ▀▄█ █▄▀▀ █▄█ █ ▀▄▄▀▄▄  ▀███  ▀ █▄█ ▄▄ ██\n█ █   █ █▀  ▀█▄ █▀▄▄▀ █▀▀ ▀ ▄   ▄▄▄▄▄ ▄▀ ▀▀▄█▄▄██▄▄   ▀█ ▀█\n█ █▄▄▄█ █▀ ████▄██▀ ▄▄█▄█▀   ▄█▀█▄███ ▀   █   ▀▄▄▄▄█▄ █▄█▄█\n█▄▄▄▄▄▄▄█▄▄█▄█▄▄███▄██▄▄██▄█▄▄▄▄▄▄███▄██▄▄▄█▄██▄▄▄▄▄█▄█▄▄██\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:53:59.443Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:53:59.617Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.084Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.087Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.089Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.117Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.120Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.124Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.318Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.321Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.324Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.327Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:54:56.329Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:01.047Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:01.050Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:01.053Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:01.055Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:01.057Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:01.059Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:04.759Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:04.761Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:04.764Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:55:05.273Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:05.276Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:05.279Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:55:09.774Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄▄█▄  ▀▀▀▄█ ▀▀▄  ▄▀█▄▄▄ ▀▀█▄▄▄██▀▄▄▄█ ▄ ██ ▄▄▄▄▄ █\n█ █   █ █ █▀  ▀▄█▄  █▄█▄   ███ ▀ █▀▀▄ █▀▄█▄▀ ▄▀▄ ██ █   █ █\n█ █▄▄▄█ █▄ ███▀▀▀▀▀█ ▀▀  █▀ ▄▄▄ ▀▀▄▀▄▄▄ ▀ ▀█▀█▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ █▄█▄█ ▀▄█▄▀▄█ █▄█ ▀ ▀ █ ▀ █ ▀▄█ ▀▄█ █▄▄▄▄▄▄▄█\n█▄ ▄▄▀▀▄█▄ ▄▀▄▀▀█▄ █ ▄    █▄  ▄  █ ▄▀█▀▄▄ ▀ █▀▄▄█  █▀ ▄ █▄█\n█▀▀ ▄██▄▄█  ▄  ▀█  ██ ▄▄ █▄▄▀▄  ▀ █  █   █ ▀▀▀▄██▀▀ ██ ▄▄▄█\n█▄▄ ▄▀█▄▀▄█▄█ ▄ █▄█▄ ▀█▄ █▀▀███▀▄█▀▄  █ ████▄█▄██▄▀ █▀█ █ █\n██ ▄   ▄▀▀▀▀ ███▄▀▀  ▀▄ ▄  █ ▄▀█  ▀█ █▄  ▄█▄▀▀▄▀██▄█▀▄▀▀███\n█▄▀▄██▀▄█▄▄ ▄▄▄▄▀▀█▀██▄█ ███▄▄▄▄█ ▄▀▀███ █ █▄▄  ▀█▄█▄▀▀▄ ██\n█▄▄▄▄ █▄█  █▀ ▀▀█ ▀  ▀▀█▄█▄▀▀▄▄██▀▀ ▄  ▀ ▀▀▄▄▀▀ ▀  ▄▄ █▄▄▀█\n█  ▀ ▀█▄▄ ▀█ ▀ ██  ▀██ ▄▀█▀ ▄ ▀▀██▄███▀█▄ ▀ ███▄▄  ▄▄▄▄▄ ▀█\n█▀██▄ ▄▄█▀▀██▄▄█▀▄██ ▄▀▀  █▀▀▀█▀ ▄▀▄█▀███▄  ▀▀  █▀ ▀▀▀ ▄█ █\n██▀▄██ ▄  ▄▀▄▀   █▄▄█ █▀█▄▀▀██▄█▄▄▄█ ▄▀▀▀██▄ █▀▄█▄  ▀█ ▄  █\n██▄   ▄▄▄ ▄▄▀▄▀█▀▀▄▄▀▀█▄█▀  ▄▄▄ ▀  ▀▀▄█▀██▀▄▀▄██  ▄▄▄ ▀▀▀▀█\n█ ▄█▄ █▄█    █ ▄▀ █▄██▀▀ ██ █▄█   ▀ ▀█▄█▄█ ▄▄▄█▀▄ █▄█ ▀█▀▄█\n█ ▀██▄▄▄▄▄▄ ██▀ █ ▄▀ ▄ ▀▀▄▄ ▄  ▄█▀ ▀█ █  ███ ▄█ ▀ ▄ ▄  ▄▄▀█\n██ ▄██ ▄▀█▄▀▄ ▀ ▀█ ██▄▄ ▀ ▄▀▄█▀▀▀█ ▄ █▀▄▄▄▄ ██▀█▀ ██▄▄▄▄ ▀█\n█▄▀ ▀▀▀▄█▀▄▀ ▀▀ ▀ ▀█▄▄▀▀▀▄▀█▄  ██▀▀▄ ▀█ ██▄▄██▄ █ █ █▀██▄▄█\n█▄▄▀▀▀█▄▄  ▄▀▄▄▄██  ▀███ ▄█▀████▄█ █▀ ▀▀▄█▄▄ ▀▀▄▀█▄█▀█▄█▄██\n█▀▀▄▀▄ ▄ ██▄ █▀▄ ▄█▄    ▄▀▄  ▄▄▀▀█ ▄▄▀▄ █▀▀█▄ █▀▄▄ ▀▄ █▀█▄█\n█▀█ ▀▄▀▄ ▄  ▄▄█▀  ▀█ █▄█▀▄▀ ▀ ███▄▄▀▀█▀█▄▀ ▄█▄  ▄▄█   █▄█ █\n██   ▄▄▄▄█▄ ▄▄█  ▀█▄ ▀█ ██▀█▀▄█ ▀█▄▀ ▄▄▄▄▀▀█▄▀▀███▄▀█▄███▀█\n██ ▀▄▀█▄▀  ▀█ █▄██▀▀ ▄ █  █▄ █▄ ▄▀▄▄ █▄▄    █▀▄▄▀ █▄ █ ▀▀▀█\n█ ▀ ▀▀▄▄▀ ▀ ▄█▄    ▀▄█▀ ▀▄█▀ ▀▀▀  ▀█▄█▄██ ▀ ███▀▄▀█ █▄▀▄█▄█\n███████▄▄ ██ ▀▀ ▀▄▄ ▀ ████▀ ▄▄▄ ▄▀ █▄ ▀ ▀█▄█ █ ▄█ ▄▄▄ █▄▄ █\n█ ▄▄▄▄▄ ██  ▄▄▀▀▀█ █▀██▀█ █ █▄█ ▄▀ ▄▀█ ▄▀▄█▄▀▄▀ ▄ █▄█ ▀ ▀██\n█ █   █ █▀ █▀▀▄▄▀███ ▄▀█ ▀▄▄ ▄  ▄ █ ▀█▄▄▄▀▀▄▄  ▀▄▄▄▄ ▄▀█ ▄█\n█ █▄▄▄█ █ ███ ▀▀    ▄▀▀▄█▀█▄▄▀█▀▄▀▀ █ ▄█▀▀  ▄  ▄ ▄▄ █▀▄██▀█\n█▄▄▄▄▄▄▄█▄▄▄█▄▄▄██▄███▄▄█████▄███▄██▄█▄██▄▄████▄▄██▄▄▄█▄███\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:55:09.777Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:55:09.895Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:05.631Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:05.634Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:05.636Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:56:05.663Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:05.666Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:05.669Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:56:05.964Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:06.014Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:06.017Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:56:06.020Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:06.022Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:10.502Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:10.505Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:10.507Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:10.510Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:10.512Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:10.514Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:14.227Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:14.280Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:14.284Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:56:15.626Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:15.628Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:15.631Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:56:18.921Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀ █▄ ▀████ ▄▀▄▄   ▀ ▀ ▄  ▀█▀▀ ▀ ▀ ▄  ▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▄▄ █ ▄█▄ ▀█▄██▀▀▀█▄▄ ▄ █ ▄▀ ▀▀▄▄ █▀█ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▀███▀▀▄█▄▄▄ ▄█▀ █ ▄▄▄  ▄▄▀ ▀▀▀▀▄    ▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄█ █ ▀▄▀ ▀ █ █ █ █▄█ ▀▄█ ▀▄▀▄▀▄█▄█ ▀ ▀▄█▄▄▄▄▄▄▄█\n█▄▄ ▄ ▀▄▄ ▀ ▀▄▀▀▄█   █▄▀▀▀▄ ▄   ▀█▀█▀▄████▀  █ █▀▀▄█▄▀▄▀▄██\n█▀ █ █▀▄██ █ ▀▄ ▀█▀ ▀▀▀ ▄▄ ██ ▀███ ▄▀█  ██  ▄▄▀ ▄▄█▄▄▀▀▀ ▀█\n█  ▄▀ █▄▀ █▄▀▄▄▄▀▄▀ ▄▄▀▄▄▀█ ▀▀▀█ █▄▄▀ ▀▄██▀▀▄███ ▀▀▄▄▀█ ▀▀█\n██ ████▄  █▀█  ▀▀█▀▄▀█ ▀█▄ █ █▀ █▀ ▀▄ ██    ▄▀▀▀▀▄███▄▀ ▄██\n██▀ █  ▄  ▀  ▄▄█▄█▄▄▀█▄▀   ▄▀   ▀█▀█▄ ██▀▀▀  █▄█▄▀ █▀█ ▀▀ █\n█ ▀▄▀▄▄▄▄▄█ ▄█▀█▄▄ ▄ █▀ ▀█▀▄█ █  ▀█▄▀█▀▄ █▄▄▄▀█ █▄▄▀█ ▀▀ ▀█\n█▄▄██▄ ▄▀▀▄█▀▀▀█▄▀▄▄▄█ ▀▀▄▀ ▄▀▀ █▀██▀ ▀███   ▀▄█▄▀ █▀█▀ ▀▀█\n█  ▄▀█▄▄█ ▄  ▀▀▄▄   ▄█▀█▀█▀ ▀▀ ▀██▄ ▄▄█▀▄▀█ ▄█▀  ▀▀  ▄▀▀▀▀█\n█▀▀ ▀ ▄▄ █▄██▄▀▀▄█▀▄█▄▄▀▄▀▀▀▀██▀▄  █▄  █ █ ▀ ▀▄█▀ ▄▄▀██   █\n█▄▀█  ▄▄▄ ▄▀ ██▀██▄█ ▀▄█▀   ▄▄▄   █▄█  ███▀▀ ▄ █  ▄▄▄ █ ▄██\n█ ▀▄▀ █▄█ ▀▄ ▀███▄▄▀ █▄█▀ ▀ █▄█ ▄█ ▄   ███▀▀▄█▄▄▄ █▄█ ▀▀▀ █\n█▀█▀  ▄▄▄▄▄▀▄▄   ▀▀▀▄▄ ▄▀▀▀▄▄▄ ▄▄▀▄ ███▀ ▄▀ ▀ ▄██▄▄ ▄▄ ▀▄██\n█▀▀▄▄▄▀▄▄█▄▀▀▀█▀██▄▄▀█▀▀▀▀▄██▄▀  ▀▀█   ▄▀▀▀ ▄█ ██▀█▀ ▄ ██ █\n█ ▀█▀ █▄ ██▀▄▀▀██ ▄▄█▄█ ▀  ▄▄▄▀  ▀▄▄█ ▀█▄ ▀▄▀▀▀▄█▄▀▀ ▄▀▀▄██\n█ ▀▀▄▀▄▄█▀█▄▀▄  ▀█ ▄▀▀▀█▄ █ ▀█▀▀█▀▄█▄ ▀▄ █ ▀▄▀ ▄█▄ ▀▄████ █\n█▄█▀ ▀▀▄ █▄▀▀█ ▀▀█▀ ▀ ▀█▄ █▄▀█ ▄▀▄▀█ ▄▀▄▀▄ █▄██▄▀▄▄█ █  ▄▄█\n█▀▄▀▀█▀▄█▄▀██▀▀ ██▄ ▄▄▀█  █▀█▄ ▄▀█▀█▀  ██▀ ▀ █▄██ █▄▄█▀████\n█▄▀▄  █▄▄▀▀▄▄ ▀▀▄█▀ ▀█▀  ▀█▀█▄▄ ▀▀▄▀█▀█████▄ ▀▄▀▄▄ ▀▄▀▄▀▄██\n█▀▄▀█▄█▄  █████ ▄█▀  █▀▄▀▀█▀▄█▀ ▄▀█▄ ▄▀▄▀█▄▀██▄██ ▀ █▄▄█▀ █\n█ ▀ ▀▀▄▄██▀█ ▄▄█ ▄  ▄▀▄  ▀▀ █▄▀▄▀▀█  ▄▄ █ ▀▀▀█ ▀▄█▄█ ▀  ███\n███████▄▄▀ █▀█▀▄ ▄   ██▀▀ ▀ ▄▄▄  █ █ ▄ ▄██ ▀ ███▀ ▄▄▄ ▄▀▄▀█\n█ ▄▄▄▄▄ █▄█▀█▀▄▄  ▄ ███ ██▄ █▄█ ▀▀▀▄█▄▄▀▀▄█ ▀█▀██ █▄█   ▄▀█\n█ █   █ █  ██▄█ ▄▀▄▄▄█▀█▀▄▄ ▄▄ ▄ ██▄▄▄███▀▀  █▄▄▀▄ ▄ ▄▀ █▄█\n█ █▄▄▄█ █ █▀▀ ▄▄▄ ██▄█ ▀▀█▀ ██▀██▄▄▀█▀▄▄█▄█ ▀ █▀▄▄ ▄█▀█▀███\n█▄▄▄▄▄▄▄█▄█▄█▄██▄▄▄▄▄▄▄██▄▄█▄▄█▄▄▄▄▄▄▄▄█████▄██▄▄▄▄▄▄█▄█▄██\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:56:18.924Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:56:19.011Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.002Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.005Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.008Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.038Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.121Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.125Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.333Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.336Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.341Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.344Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:16.347Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:20.086Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:20.089Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:20.092Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:20.094Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:20.097Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:20.100Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:23.790Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:23.793Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:23.798Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:57:24.037Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:24.040Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:24.043Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:57:28.423Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀▄█ ▄█▄ █▄  ▄▄▄ ▄▄█  ▄▀█▄▄▀ ▄▄   ▄ ██▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄  ▀▀█▄█▄▄█ █▀▄▄▄█████ ███ ▀█▀▀▄█▀█▄█▀▄ ██ █   █ █\n█ █▄▄▄█ █ ▀  ▄▄ ██ █▀█▄▄▀▄  ▄▄▄ ▀▄▄▀█▀█ █▄▄ ▀  ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ ▀ ▀ ▀ ▀ █▄▀ █▄▀▄█ █▄█ ▀▄█▄█ ▀ ▀▄▀▄▀ ▀▄█ █▄▄▄▄▄▄▄█\n█▄▄█▄▀▀▄▄█ ▀▀█ ▀▄█▀ ▄▄ ▄█▄  ▄ ▄▄██ ▄ ▄██  ██ ▀▀▄▄▄█▄▄▄▀▄▄▀█\n██▄█ ▀▀▄ ██▄██▀█ ▄▀▄▄▄  ▀▄█▀ ▀▀▀  ▀▄▀ ▄ █▀█▄ ▄   ██▀▀ ▀██▄█\n█▄ ▄ █ ▄ ▄ ▄▀▄▄██▀█▄▀▄ ▀█▄█ ▀ █▀ ▄▀ █▄▀▄▀ ██ ▄█▀▄▄▄▄  █  ▄█\n█▀ ▀▄▀ ▄█  ▄  █▀▄█ ▀▀ ▄  ██▄▀▄   ████ ▄█  ▄▄ ██ ▀ █ ▀▀ █▄▀█\n█▄  ▄█ ▄ █    █▄▄▄ ▄▄▀ █▀▄ ▀  ▀▄█  ▄▄▄█ ▄████ ▄█▄██▀██ █▀▄█\n█▀ ▀▄ ▀▄ █▄▄█▀▀▄█ ▀▀▀▄█  ▀▄▄▄▀▀▀██▄▀▄▄ ██▄█▀▄ ▄█▄▄▄▀   █▄ █\n█▄▀█ ▄█▄▀▄▀ ▄▄███ ▄  █▄▄▄ ▄  ▄██▄▀ ▄█ ███▄██▄██▄▀█▄▄▄▄███▀█\n█▄▄█▄ ▀▄▄ █▀ ▄█▀█ █ ▀ ██▀▀▄█▀  ▄ ▀▄  ▀ ▀▀▀▀ █ ▀▄ █ █▀▀ ▄▄▄█\n██▄██▀█▄█▄█▀▄  ▀█▀▄ ██▄ ██▀ ▄ ▄█▄▀▀ █  █ ▄█▄ ▄   █▄▄▄ ▀▄ ▀█\n█  ▄█ ▄▄▄ ██▀ █▀▄▀▀▀▄▀█▄▄█▄ ▄▄▄  ▄ ▀▄██▄█▀▀▄█▄▄█▀ ▄▄▄  ▄ ▀█\n█  ▄▀ █▄█ ▀  ▄▄▄▄█▄█▄▀██ █▄ █▄█ █ ▄▄▄ █  ▀ ▄▀ ▄▄▀ █▄█ █▀▄▀█\n██  ▄▄ ▄ ▄ ▀█▀█▀▀▄█▄▄ ▄▄▀▀▄  ▄▄▄▀ ███ ██▄▀█  ▄ ▀  ▄ ▄ ▄▄ ▄█\n█ ▀█▀▀▀▄██   ▀▀▄▄▄▀▄█▄▄▄▄▄ ▀▄▄▄▄ █ ▄ ▄▄█  ██▄▀ ▄▄██ ▄▄ ▄▄ █\n█  ▀▀▀ ▄▀█   ▄▀▄ █▀█▀ ▄█  ▀▄ ▄▀▄▀▄▀ ▄ ▄█▄▀▀ ▀▄▄▄▀█▄▄▄▄ ▄█▄█\n█▄█ ██▄▄  █▀█▀ █   ▄▀  ▄ ▄█   █▀ ▄█    ██ ██  █ █  ▄█  ▄█▀█\n█ █▀█▀▄▄█ ██▀█ ▀ ▄ ▄█ █ ▀▄ ▄ ▄▀▄█▄▀▄  ▄▀▄ ▄▄▀▀▀██▀█▀████ ▄█\n██▀▄▀ ▀▄▄▄ ▄▀█▄▀▀▄▀ ▀▀█▀▀▄ ▄▄██ ▄  ██ █ ▄█▀█▀▄▄█▀██▄█▄▀   █\n██▀▄▄██▄█▄█ ▄█▀████▄   █▀ █  ▄▄▄█▄█ ▄▀██▀█ ▀ ▀▄    ▄█▀▄█▄ █\n█▄█▀▄▄█▄  ▀▀ █▄█▄▄▄▄ ▄ █▄█ ██▄▄█ █ ██▄▄▄ ▄█▄█▀▄█ █▄  █▄█▀██\n█ ▀ ▀▀▄▄▀   ▄▀█▄█▄ ▄█  ██▀ █▀▄ ▄ ▄▄  █▀▄█▀▀▄▀   ▀▀▀  █▀▄▀▄█\n███████▄▄▀▀▄▄█▀▀█  ▄▄█▄▄█▄  ▄▄▄   █   ▄█  ▄█  █ ▀ ▄▄▄  ▄▄ █\n█ ▄▄▄▄▄ █▄███▀▄  ██▀ █▄██▄▀ █▄█ ██▄ █  ▄  █▀▄▀▄▀▀ █▄█ ▀▄ ██\n█ █   █ █▀   ▄ ▀█▀▄▄▀ █▀▀ ▀▄▄▄  ▀ █▄█▄█▀▄█▀█  ▄█▄▄  ▄  ▀▀ █\n█ █▄▄▄█ █▀▄ █▄ ▄███ ▄▄▀▄█▀▄▄ ▄█▀██▄█▀▀█ ▄█ ▄█▄▄▀▄  ▄▀▄ ▄█▄█\n█▄▄▄▄▄▄▄█▄▄█▄▄█████▄██▄▄██▄███▄▄▄▄███▄▄▄▄▄▄▄▄████▄█▄█▄██▄██\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:57:28.427Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:57:28.519Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.454Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.457Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.460Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.488Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.538Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.547Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.784Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.788Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.792Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.828Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:24.831Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:29.248Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:29.251Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:29.255Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:29.259Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:29.262Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:29.268Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:33.037Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:33.043Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:33.047Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:58:33.349Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:33.352Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:33.355Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:58:36.960Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀  ▀ ▀▀█▀█▀ ▀▀▄▀ ▀▀▄█  ▀▄▀█▀▀ ▀▀█▄▄██▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▄▀█▄ ▄▄▄  ███▄▀ ▀█▄█  ▀▄  ▀▀ ▄█▄ ▄▀▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀██▀▄▄▄▄███▄ ▀ ▀ █ ▄▄▄ █▀▀▀▄ ▄▀█ ▄▄▄▀▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█▄█ ▀ ▀▄▀▄▀ █ █ █ █▄█ ▀▄█ ▀▄▀ ▀ █▄▀▄█▄▀▄█▄▄▄▄▄▄▄█\n█▄  ▄ ▀▄▄▄█ █▀▄▀▄█  ▀▄▀██▀ ▄▄▄▄ ▀█▀█▀▄▄██▀█ ▄█▄▄▀  █▄█▄▀ ▀█\n█ ▀ █▄▀▄▄▀▄ ▄ ▄ ▀▄▀ ▀▀▀   ▀▄▄  ███▄ █▄▄▄▀▀ ▀▀█▀▄█▀▀▄▄ ▀▀ ▀█\n█▀▀██ ▀▄▄█▀ ██▄▄▄▄▀  █▀▄ ▀ ▄█▀▀█ ▀▄▄▄▄▀▄▀▀▀  ██▄ ▀▀██▀▀ ▀▀█\n█▀█▀█▀█▄█ ▀ █ █ ▄▄▀▀▄▀▀▀  ▄▄ ██▄ ▀ ▄▄▀██  ▄▀   ██▄▄ ▀▀  ▄██\n█ ▀ ██▄▄▄█ █▀▄▄▀▄█ ▄ ▄▄▀ ▀ ▄▀ ▄▀ ▀▀█▄▄▀██▀▄  ███ ▀ ▄▄▀█▄█ █\n█▀▄ ██ ▄▀█▀▄▀▄▀██ ▄▀▄█ ▄▀ █▄▀ ▄▀▄▀█ █ ▀█ ▀██▀ █▀ ▀█▄▄ ▀  ▀█\n██ █▄▀ ▄▄█ ▀█▀▀█▄▀ ▄▄█▀▀▀▄  ██ ▀▄▀▄▄ ▄ █▀▀ ▀█▀▄█▄▀ ▄▄███  █\n█ ▀▄██ ▄ ▀▄▄  ▄▄▄ ██▄█▀█▀█▀  ▀▀ ▄█▄▀ ▄▄ ▀▀▄▄▀ ▀ ▄▄  ▀ ▀▀▀▀█\n███▀▄█▀▄▄ ▀▄▀ ▀▄▄▄▀▄█▄▀▀  ██▀█  ▄  █▄ ▄█▀█  ▀███ ▀▀█▀▀█ ▄▄█\n█ ▄▄▄ ▄▄▄ ▀▀▀▄ █ ▄▄█ ▀▄█▀▄█ ▄▄▄  ▄█▄█▀▀   █▄█▄ ▀▀ ▄▄▄ ▀  ██\n███   █▄█ ▀█ ▀ █▄█▄▀ █▄█▀▀▀ █▄█ ▄█▄▄ ▄██▀▀▀▀ ▀█▄█ █▄█  ▄▀▀█\n█  ██  ▄ ▄█▄██▄ █▄█  █▀█▄▀▀▄  ▄▄▄▄▄▀ █ ▄▄▀▀█ █ ▄ ▄  ▄ █▀▄▀█\n█ █ █▀█▄▄█ █▄▀▄▀▄▄▄▄ ▄▀█  █▀██▀  █▀█  ▀▄▄▀ ▀▄█▄▄▀█ ███▀▀█ █\n█ ▀ ▄▀█▄▄▀ ▄▄▀▄█    ██▀▀▄█▀▄▀█▀ ██   █▀▄▄▄███▀ ▄██ ▀▄█ ▀ ██\n█   █▀▄▄▀▀█ ▀▄█▄▀█▄ ▀▀▄▀▄ ██▀█▄▄▄▀██▀ ▀▄▀█▄ ▄▀█▄▀▀   ▄█▄█▀█\n█  ▀ ▄█▄▄█ █▀█  ▀█▀▄▀ ██▄ █▄▀█▄▄▀▄ ▄ ▄▀ ▄  █▀▀█ ▄█ █▀█▀▀▄▄█\n██▀▄ █▄▄ ▀█ ▄▄▄▄▄▄ ▄▄▄▄▀▀▀█▀▄█▀ ▀█▀█▄  ▄ █▀  █▀███ ▀▄▄▄ █▀█\n█ █▀▀█▄▄█▀█▀█▀ ▀▄█▀ ▄ ▀ ▄ █▀▄▄▀▄█▀▄█████  ▀ █▀▀▄▀▄▄▀▄▄▀▀ ██\n█▀  ▄  ▄▄▀█▄█▄ ██▄▀ ▀█▀▄ ▀█▄█▄██▄▀▄▄▀  ▄█▀▄▀▄▀████▀▀▄▄█▄▀▄█\n█ ▀ ▀▀▄▄▀ ▀▀█▀▀█  ▄▀▄▄▄ ▄█▀▄ █ ▄▀▀█▀█▄█▀ █▄▀▀  ▄▄▄▄▀▀▀▄▀▄▀█\n███████▄█▀▄▄███ ██ ▄ ▄▀█▀ ▀ ▄▄▄ ▄█ █▄▄▀███  █▀▄▄█ ▄▄▄  ▀▀██\n█ ▄▄▄▄▄ █▄▀ ▀█▀▄▀▄▀█▄▀▄▀ ██ █▄█ █ █▄ ▄█   ▄▀▄█▀▀▄ █▄█ █▀ ██\n█ █   █ █   ▄███▄▀ ▄▄█▀█▀▄▄ ▄  ▄▄▀██▀ ▀▄▀█   █▄▄▄  ▄▄▄▄▀▄▄█\n█ █▄▄▄█ █  ▀██ ▀▄ ▄ ▄█▄█▀██  █▀██▄▄▀▄ ██▄▀ █▄▀▀▄   ██▀▀▀███\n█▄▄▄▄▄▄▄█▄█▄▄▄▄██▄▄▄█▄██▄▄▄██▄█▄▄▄▄▄▄▄▄█▄█▄█▄█▄██▄▄███▄█▄██\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:58:36.970Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:58:37.111Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:33.788Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:33.791Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:33.795Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:59:33.825Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:33.828Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:33.831Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:59:34.119Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:34.121Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:34.125Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:59:34.128Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:34.130Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:38.527Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:38.531Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:38.534Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:38.538Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:38.542Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:38.545Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:42.298Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:42.302Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:42.306Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:59:42.486Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:42.490Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:42.493Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:59:46.377Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █ ▀▀▄█ ▀ ▀██ ▄ █  ▀ ▄█ ▄▀▀▄▀ ▀▀▄▀▄▄  ▀▀▄ ██ ▄▄▄▄▄ █\n█ █   █ █ ▄▀▀  █▄ █████ ██▀██ █ ▀▄ ▀█▄▀ ▄▀▄▀ █ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▄▄██▄▀▀█▄ ▀█ █▀   ▄▄▄ ▀▄▄▀█▀█  ▄▄  ▀▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ ▀ ▀ █ ▀ ▀ ▀▄█ █▄█ ▀▄█▄█ ▀▄▀ ▀ █ ▀▄█ █▄▄▄▄▄▄▄█\n█  ▀▀ ▄▄▀▀█▀▄▀▀▄▀█▀▄█▀▄█ ▀▀  ▄▄ ▄ ▄█▀▄▄▀▄▀▄▀▀▄█▄▀ ▀▀ █▄  ▄█\n███▄▀█▀▄ ███▀ ▄  ▀▄█▀▀▀█▀▄ ██▄█ ██▄▀ ▀ ▀ █▀▄▄▀█▀ ▀▄ ▄ ▄▄▄██\n██▄██▀ ▄▄▀▀▄ ▀▀▀▄▄▀ ▄▀▄▄▄▀▄  █▀██▄ ▄  ▄▀▄▀▀ █  █▀▀▄  ▀▀ ▀▄█\n█▄▄ ▀▄▄▄▄██▀█▄▀▄ ▄▄ ▄█▀ ▄█▀█ ▀ ▀▀▀█▀▄█▄███ ██▀█ ▀▄██ ████▀█\n█▄ ▀   ▄▄▄▀█▄▀█▄▀█  █▀ █▄▀▄ ▄ ▄▀▄ ▄▄▄▄▀ ▄▀ ▀▀▄▀█▀ █▀ █▀█▄▀█\n█▄▄▀ ██▄█▄▄   ▀███ ▀▄▀▄▄▀▀ ▄█▀▄▄▄▀███▀▄ ▄█▄▄ ██▄█ ▄▀▄ █▄▄██\n████▀ ▀▄▄  ██ ▄ ▀▀▄ ▀ ▄█▀▄██▄█ ▀█  █  █ ██  █ ▀█▄▀▄▀▄▀▀ █▄█\n█▄█▄▄▀█▄ ▀██▀▄▄█▄█ █▄█▀█▄ ▀ █▀▀▀██▄█▄▀██▄▄▄█ ▀ ██  ▄ █▀▄▀▀█\n█▄▄ ▄██▄▄█ ▄ ▄▀▄ ▄▀▄ ▀▄█▄▀▄ ▄▀  ▀███  ▄▀ ▀    ▀█  ▄▀▄█▄▀█▀█\n██▀ ▄ ▄▄▄  ▄▀ █▄▄ ▀  ▀▄  ▄▄ ▄▄▄   █▀▄▀▄█ ▄▀▀▄█▀▄▄ ▄▄▄ ▄█ ▀█\n███▄█ █▄█ ██ █▄▀▀█▄▀█▀▀█ ▀▄ █▄█ █  ██▄▄▀ █ ▀▀▄███ █▄█ ▄█▀▄█\n██▀▀ ▄▄▄   ███  █▀▀█▄▄▄▄▄█ ▄ ▄ ▄███▄██ ▄█▄█▄█▄▀▀█▄ ▄▄▄▄█▄██\n█  ▄▄▀ ▄▀▄█ █▄▀ ▀▄ ▄▄ ▄█ ▀▀▄ █▀ ▀▄▄█▄▄▄▀▄█  █ ▀▄██▀▀▀▄█▀▄▀█\n████▄ ▄▄▄  ▄▄▄▀▀ ▀ ▄▀▀▄▀▀█  █▀▄██  ███  █▄▄  █▀ ▄█▄▀▄ ██ ▀█\n█▄▄▄ ▀▀▄▀ ▀▀▀▀ █▄██▄▄▄▄▀▄  ▄▄█▀██ ▄█  █▀▀█▀ █▄▄████▄▀▄▄  ██\n██▄▄▀ █▄█ ▀▀ ▄▀█▀ ▄▀▀ ▀ ▀██▄▀ █▀▀█▀▀▀██▄██▄█▀█▀█▄▀▄▀▄▀ ▄▄▄█\n█▄▄▄▀▄█▄▄▀██▀██  █▄ ▀▀▄▀▀  ▄▀▄█ ▄ ▄█▄▄▄  █ ▀▀ ▀▄▀▀ ▄ ▄▄▀▄ █\n█▀ █▄ ▄▄  █▀▀▀█ ██▄█ █▀██▄▀▀█▄▀█▀█ ▄▄▀▀▄▄▄ ███ █▀▀▄█▀▀█▄▄██\n█▀█▀▀██▄ ▄  ▀▀█ ▄▄▀ █▀▄▄   █ ▄█▄█▄▀▄ ▄█  ▀▀ ▀▄ ██▀▄▀▀█▀ █▄█\n█ ▀ ▀▀▄▄█▄ █▄ ▀█ ▀▄▀▄█▀▄ █▄ █ ▀██ ▄█ ▀▄▄███▄█  ▄▄  ▀ ▄ █▄██\n███████▄▄ ▀▄▀▀▀█▀▄█▄▄  ▀  █ ▄▄▄ █▄▀█▄▄▄▀▄▀ ▀▀ ▀▄▀ ▄▄▄  ▀▀ █\n█ ▄▄▄▄▄ █▀  ▄▄  ███ █▄▀▀ ▄▄ █▄█  ██▀▄▀█ ▀▀ ▄ ▀▀█▀ █▄█ ▀▄▄██\n█ █   █ █▄█▀ ▀  ▀▀  ▀ ▀▀▀▄▄▄   ▄█ ▀▄▀▄▄ ▄▀ ▀  ▀█ ▄  ▄▄▄▀▀▀█\n█ █▄▄▄█ █▀▀▀   █▄█▀▄▄█▄▀▄   ▀▄▄ █▄▄█ ██▄▄▀▄▄▀▄▄▄ ▀ ██ ▀████\n█▄▄▄▄▄▄▄█▄█▄▄████▄█▄█▄▄████▄███▄███▄▄▄██▄█▄██▄██▄█▄█▄█▄██▄█\n"
+  },
+  {
+    "timestamp": "2025-05-15T23:59:46.380Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-15T23:59:46.482Z",
+    "level": "info",
+    "message": "QR Code gerado e salvo em:",
+    "details": "C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:42.914Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:42.917Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:42.920Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-16T00:00:42.947Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:42.949Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:42.953Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-16T00:00:43.135Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:43.172Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:43.176Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-16T00:00:43.179Z",
+    "level": "info",
+    "message": "Arquivo QR code apagado: C:\\Users\\Familia Santos\\Desktop\\archer\\clientes\\ativos\\GlobalTur\\config\\qrcode\\qrcode.png"
+  },
+  {
+    "timestamp": "2025-05-16T00:00:43.182Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  }
+]

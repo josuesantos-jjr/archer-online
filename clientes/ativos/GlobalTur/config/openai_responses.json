@@ -1,0 +1,10 @@
+{
+  "lead_prompt": {
+    "LEAD: SIM": "Resposta predefinida para LEAD: SIM",
+    "LEAD: NAO": "Resposta predefinida para LEAD: NAO"
+  },
+  "summary_prompt": {
+    "prompt1": "Resumo predefinido para o prompt1",
+    "prompt2": "Resumo predefinido para o prompt2"
+  }
+}

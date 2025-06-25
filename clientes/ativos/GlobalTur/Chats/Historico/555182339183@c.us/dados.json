@@ -1,0 +1,18 @@
+{
+  "name": "Não identificado",
+  "number": "555182339183",
+  "tags": [
+    "nao-disponivel"
+  ],
+  "listaNome": null,
+  "data_ultima_mensagem_enviada": "2025-05-16T13:26:30.324Z",
+  "data_ultima_mensagem_recebida": "2025-05-16T13:25:38.433Z",
+  "intencao": "INDETERMINADO",
+  "ultimaAnalise": "2025-05-16T13:25:41.112Z",
+  "ultimaInteracao": "2025-05-16T13:25:41.112Z",
+  "status": "ativo",
+  "origem": "monitoramento_conversa",
+  "interest": "Analisar depois",
+  "orçamento": "Não identificado",
+  "nivel_followup": "1"
+}

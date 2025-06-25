@@ -1,0 +1,20 @@
+{
+  "name": "Não identificado",
+  "number": "555184061446",
+  "tags": [
+    "abordagem-nao-solicitada",
+    "desinteresse",
+    "negativa"
+  ],
+  "listaNome": null,
+  "data_ultima_mensagem_enviada": "2025-05-19T10:30:48.103Z",
+  "nivel_followup": "1",
+  "data_ultima_mensagem_recebida": "2025-05-16T13:39:54.727Z",
+  "intencao": "SEM_INTERESSE",
+  "ultimaAnalise": "2025-05-16T13:40:07.110Z",
+  "ultimaInteracao": "2025-05-16T13:40:07.110Z",
+  "status": "ativo",
+  "origem": "monitoramento_conversa",
+  "interest": "Não",
+  "orçamento": "Não"
+}

@@ -1,0 +1,222 @@
+/* ChatAna.module.css */
+
+.chatContainer {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 300px; /* Largura base */
+  height: 400px; /* Altura base */
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  transition:
+    width 0.3s ease,
+    height 0.3s ease;
+}
+
+.minimizedContainer {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+  flex-shrink: 0;
+}
+
+.headerTitle {
+  font-weight: bold;
+}
+
+.headerActions button,
+.minimizedContainer button {
+  /* Estilos baseados em .actionButton, mas menores */
+  background: #00b894;
+  color: white;
+  border: none;
+  padding: 2px 6px; /* Menor padding */
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.75rem; /* Menor fonte */
+  margin-left: 5px;
+  transition: background-color 0.2s;
+}
+.headerActions button:hover:not(:disabled),
+.minimizedContainer button:hover:not(:disabled) {
+  background: #00a383;
+}
+.headerActions button:disabled,
+.minimizedContainer button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.chatControls {
+  padding: 10px 0;
+  display: flex;
+  gap: 5px;
+  flex-shrink: 0;
+}
+
+.chatControls button {
+  /* Estilos baseados em .actionButton, mas menores e com cor diferente */
+  background: #e74c3c; /* Vermelho para limpar/excluir */
+  color: white;
+  border: none;
+  padding: 4px 8px; /* Padding um pouco maior */
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem; /* Fonte um pouco maior */
+  flex: 1; /* Ocupa espaço igual */
+  transition: background-color 0.2s;
+}
+.chatControls button:hover:not(:disabled) {
+  background: #c0392b;
+}
+.chatControls button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.chatBody {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* Ocupa altura restante */
+  overflow: hidden; /* Evita overflow geral */
+  flex-grow: 1;
+}
+
+.messagesContainer {
+  padding: 10px 0;
+  overflow-y: auto;
+  flex: 1; /* Ocupa espaço disponível */
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.userMessage {
+  text-align: right;
+}
+
+.assistantMessage {
+  text-align: left;
+}
+
+.messageContent {
+  padding: 5px 10px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.5;
+  max-width: 80%; /* Evita que a mensagem ocupe toda a largura */
+}
+
+.userMessage .messageContent {
+  background-color: #dcf8c6;
+}
+
+.assistantMessage .messageContent {
+  background-color: #f1f1f1;
+}
+
+.inputArea {
+  padding: 10px;
+  border-top: 1px solid #ccc;
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.inputField {
+  flex: 1;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.sendButton {
+  /* Estilos baseados em .actionButton */
+  background: #00b894;
+  color: white;
+  border: none;
+  padding: 8px 16px; /* Padding padrão */
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.875rem; /* Fonte padrão */
+  transition: background-color 0.2s;
+}
+.sendButton:hover:not(:disabled) {
+  background: #00a383;
+}
+.sendButton:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* --- Media Queries --- */
+
+@media (max-width: 768px) {
+  .chatContainer {
+    width: 280px; /* Um pouco menor */
+    height: 380px;
+  }
+}
+
+@media (max-width: 480px) {
+  .chatContainer {
+    width: 90vw; /* Ocupa mais largura */
+    height: 60vh; /* Ocupa mais altura */
+    bottom: 10px;
+    right: 10px;
+    left: 10px; /* Centraliza horizontalmente */
+    margin: 0 auto; /* Centraliza horizontalmente */
+  }
+  .minimizedContainer {
+    bottom: 10px;
+    right: 10px;
+    left: auto; /* Garante que não centralize */
+  }
+  .headerTitle {
+    font-size: 0.9rem;
+  }
+  .headerActions button {
+    padding: 2px 4px;
+    font-size: 0.7rem;
+  }
+  .chatControls button {
+    padding: 3px 6px;
+    font-size: 0.75rem;
+  }
+  .inputField {
+    padding: 6px 10px;
+    font-size: 0.9rem;
+  }
+  .sendButton {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+  }
+  .messageContent {
+    max-width: 90%; /* Permite mensagens um pouco mais largas */
+    font-size: 0.9rem;
+  }
+}

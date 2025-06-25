@@ -1,0 +1,248 @@
+[
+  {
+    "date": "16/05/2025",
+    "time": "11:48:11",
+    "type": "User",
+    "message": "Oi Ana"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:49:12",
+    "type": "IA",
+    "message": "Olá, sou a Ana da Global Tur, tudo bem? É um prazer te conhecer!\n"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:49:33",
+    "type": "User",
+    "message": "Como tá o tempo hoje?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:50:30",
+    "type": "IA",
+    "message": "Que bom que está tudo bem!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:50:41",
+    "type": "IA",
+    "message": "Aqui em [Localização da Global Tur, se souber, senão diga \"na Global Tur\"] o tempo está [Condição climática]."
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:51:02",
+    "type": "IA",
+    "message": "Mas, falando em coisas boas, você viu que o Everton me pediu pra conversar contigo e entender rapidinho o que mais possa lhe interessar — assim conseguimos te mostrar só o que realmente faz sentido, fechado?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:51:04",
+    "type": "IA",
+    "message": "É rapidinho!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:54:11",
+    "type": "User",
+    "message": "Claro pode sim"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:55:06",
+    "type": "IA",
+    "message": "Ótimo! Vamos lá então!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:55:20",
+    "type": "IA",
+    "message": "Que tipo de imóvel te interessa mais?\n🏡 Casa\n🏢 Apartamento (pronto ou na planta)\n🌄 Terreno\n💼 Qualquer boa oportunidade de lucro"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:57:27",
+    "type": "User",
+    "message": "Motorhome"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:58:26",
+    "type": "IA",
+    "message": "Motorhome é top demais, a liberdade que ele proporciona é incrível!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:58:37",
+    "type": "IA",
+    "message": "E quanto você pensa em investir hoje?\n💸 Até R$ 500 mil\n💰 De R$ 500 mil a R$ 900 mil\n💼 Acima de R$ 900 mil"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:42:23",
+    "type": "User",
+    "message": "No motorhome 2 milhões"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:42:42",
+    "type": "User",
+    "message": "E quanto tem de desconto no Pix?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:43:22",
+    "type": "IA",
+    "message": "2 milhões é um ótimo investimento para um motorhome de alto nível, hein?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:43:38",
+    "type": "IA",
+    "message": "Uau, 2 milhões é um investimento e tanto!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:43:45",
+    "type": "IA",
+    "message": "Com esse valor, as opções de motorhome são incríveis e super equipadas!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:43:57",
+    "type": "IA",
+    "message": "Sobre o desconto no Pix, o Everton terá todas as informações sobre as formas de pagamento e possíveis descontos."
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:43:57",
+    "type": "IA",
+    "message": "😉"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:44:02",
+    "type": "IA",
+    "message": "Como você pensa em fazer esse investimento?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "13:44:10",
+    "type": "IA",
+    "message": "💵 À vista\n📆 Entrada + parcelas\n📈 Longo prazo (pra valorizar e lucrar depois)"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:46:51",
+    "type": "User",
+    "message": "A vista com desconto especial do Everton"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:47:44",
+    "type": "IA",
+    "message": "Show!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:47:54",
+    "type": "IA",
+    "message": "Investimento à vista é sempre uma jogada inteligente, ainda mais com um bom desconto do Everton!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:47:54",
+    "type": "IA",
+    "message": "😉\n\n"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:48:05",
+    "type": "IA",
+    "message": "Com um investimento à vista, o Everton pode te apresentar as melhores opções e negociações exclusivas.\n\n"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:48:16",
+    "type": "IA",
+    "message": "Que tal agendarmos um bate-papo rápido com ele para você saber mais detalhes e garantir esse desconto especial?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:48:23",
+    "type": "IA",
+    "message": "Tem alguma preferência de horário para ele te ligar ainda hoje?\n"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:51:28",
+    "type": "User",
+    "message": "Pode ser às 01:36h da madrugada, melhor horário"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:52:21",
+    "type": "IA",
+    "message": "Entendi!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:52:28",
+    "type": "IA",
+    "message": "01:36h é um horário bem peculiar, mas se é o melhor para você, tudo bem!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:52:29",
+    "type": "IA",
+    "message": "😅\n\n"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:52:35",
+    "type": "IA",
+    "message": "Vou combinar com o Everton para te ligar nesse horário."
+  },
+  {
+    "date": "16/05/2025",
+    "time": "14:52:41",
+    "type": "IA",
+    "message": "Pode ser por ligação ou prefere que ele te mande uma mensagem?\n"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "16:45:54",
+    "type": "User",
+    "message": "Pode ser por ligação sim"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "16:46:48",
+    "type": "IA",
+    "message": "Combinado!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "16:46:54",
+    "type": "IA",
+    "message": "Já agendei com o Everton a ligação para as 01:36h da madrugada."
+  },
+  {
+    "date": "16/05/2025",
+    "time": "16:47:05",
+    "type": "IA",
+    "message": "Ele vai te apresentar todos os detalhes sobre o motorhome e o desconto especial para pagamento à vista."
+  },
+  {
+    "date": "16/05/2025",
+    "time": "16:47:05",
+    "type": "IA",
+    "message": "😉\n\n"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "16:47:12",
+    "type": "IA",
+    "message": "Agradeço o contato e fico à disposição caso precise de algo mais!\n"
+  }
+]

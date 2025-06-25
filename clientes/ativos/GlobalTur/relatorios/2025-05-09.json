@@ -1,0 +1,26 @@
+[
+  {
+    "data": "2025-05-09T14:05:35.373Z",
+    "numeroTelefone": "5519971103290",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 1,
+    "limiteDiario": 100
+  },
+  {
+    "data": "2025-05-09T21:18:41.098Z",
+    "numeroTelefone": "5519981526108",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 2,
+    "limiteDiario": 100
+  },
+  {
+    "data": "2025-05-09T21:19:16.021Z",
+    "numeroTelefone": "5519991456556",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 3,
+    "limiteDiario": 100
+  }
+]

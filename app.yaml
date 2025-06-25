@@ -1,0 +1,3 @@
+runtime: nodejs20
+env: flexible
+entrypoint: npm run start

@@ -1,0 +1,25 @@
+{
+  "name": "Nome do cliente: Josué",
+  "sobrenome": "",
+  "telefone": "5519971103290",
+  "tags": [
+    "interesse-apartamento",
+    "busca-imoveis",
+    "orcamento-ate-500-mil",
+    "poder-compra-medio",
+    "investimento-ate-500-mil",
+    "compra-a-vista"
+  ],
+  "listaNome": null,
+  "lead": "não",
+  "data_ultima_mensagem_recebida": "2025-05-17T13:19:54.066Z",
+  "intencao": "PEDIDO_INFORMACAO",
+  "ultimaAnalise": "2025-05-17T13:19:57.432Z",
+  "ultimaInteracao": "2025-05-17T13:19:57.432Z",
+  "status": "ativo",
+  "origem": "monitoramento_conversa",
+  "data_ultima_mensagem_enviada": "2025-05-17T13:21:16.658Z",
+  "interest": "Sim",
+  "nivel_followup": "1",
+  "orçamento": "Sim"
+}

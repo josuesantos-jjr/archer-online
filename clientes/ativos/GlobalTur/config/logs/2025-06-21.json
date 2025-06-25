@@ -1,0 +1,4691 @@
+[
+  {
+    "timestamp": "2025-06-21T15:52:46.656Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:52:46.669Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:52:46.670Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T15:52:46.673Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T15:52:46.682Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T15:52:46.690Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:52:54.945Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T15:52:54.946Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:52:54.954Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:53:02.872Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T15:53:02.881Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:53:02.892Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:53:05.414Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀ █▀█▄ █▀ ▄ ▀ ▀▄▄▄█ █ ▄▄▀▀█▀▀ ▀▀▀  █▄▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀█ ▄▀▀███▀ ██▄█  ▀█▀▄▄▄ █ ▄▄▀ █▄▄▄▄▀▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▀▀██▄▀▄█ ▄▄ ▀▄▀ █ ▄▄▄ ▄▀▄▀   ▀  ▄▄▀ ▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ █▄▀▄▀▄▀ █ █ █ █▄█ ▀▄█ ▀▄▀▄█ ▀▄█ █▄▀▄█▄▄▄▄▄▄▄█\n█▄  ▄▄▀▄▄▄ ▄  █▀▄█▄ ▀▄▀█ ▀ ▄  ▄ ▀█▀█▀ ▀██▀  ▄▀▄▄▀  █ ▀▄▀ ▀█\n█▄█▀▀ ▀▄▀  ▀▄█▄ ▀█▀ ▀▀▀ ▄▄██   ██▀ ▄▄▄█▀█▀  ▄ █▀▀ ▄▀██▀▀▄▀█\n█ ▄ ██ ▄▄ ▄▀▄ ▄▄▄▄▀ ▀▄▀▄▄▀▄ ▀█▀█ ▀▄█▄  █▀▀▀▀ ██▄▀▀█▄█▀▀▄███\n█ █ ██▀▄▀█  ▀   ▀███▄▀█▀ █ █ ▄▀  ▄█▄▀▀ █▄█▄▀ ▀▄▄▄  ▄▀█   ██\n█▄▀▄ ▀ ▄ ▀▄▄█▀▀▀█▄▀▄ █ ▀▀ █ ▀   ▄▀▀█ ▄▀█▀▀▀  █▀▄▀▀ ▄██ ▀█▀█\n█▄███ █▄▄ ▄ ▄▄▀█▀ ▄   ▄█ ▄▄██ ▀ ▀▀█▄ █▀█ █▀▀█▀█ ▀▄ █ ▄▀ ▄██\n█▀▀▄▄█▄▄█▄ ▄▀▄▀█▄▀ ▄▄█▀█▀▄   ▀ ▀█▀▄█▄ ▀██▀  ▄█ █▄▀ █▀███ ▀█\n█  ▀ █▄▄███▄ ▀▀ ▄ ▀▀▄█▄█▀█▀ ▄█▀ █▄▄▀   █▀▀█ █▄ ▄▄ ▀▄▄ █▀▀▀█\n█▄▀█▀ █▄  ▀█ ▄▀███▄ █▄██ ▀██▀▀▀ ▄  █ ▄▀▄███▀▄▀██▀ ▄▄ █▄▀ ▄█\n█▀█   ▄▄▄ ▀█▀▀ ▄▄ ▄█ ▀▄██▀█ ▄▄▄ ▄ █▄▀█ ██▀▄▀▀▀█   ▄▄▄ ▀  ██\n█▀▀▄▀ █▄█ ██▀▄▄▄██▄▀ ▄▄██▀▀ █▄█  █▄▄▄▄▀▄ ▀▀ ▄█▄█▀ █▄█ ▄▀▀ █\n█▀█▀█▄ ▄▄▄▀█▀█▀▀▄▄▄▄▄▀▄   █▄ ▄  ▄██▀▄█▄▀▀▀▄▀█ ▄▄█▄    ▀ ▀██\n█▀██▄ ▀▄▀████▀█▀▄█▄ █▄▀█▀▀▄▄▄█▀ ▄█▀█▄▄▀▄▀█  ▄█▀▄█ ▀█▄█▄ ▄ █\n█  █ ▀▀▄▄▀ ▀▀▄▄▄ ▀██▄█ ▄█▄   ▀▀ ▄▀▄ ▀▄█▄█  ▀▄▀▀ ▄▄ █▀ █▀ ▀█\n█▀██▀  ▄▄█▀▀█ ▄▄▀█▄▄▀▀██▄ █▀▀█ ▄▄▀▀██  █ ▀   ██▄▀▀▀▀▀▄ ▀█▀█\n███▀▄█▀▄▀ ▀▀▀█ ▄▀█▄▀▀ ██▄ ▄ ▀██▄ █▀▄▄▄ ▄█▀█ ▀  ▄██▀▀▄▄█▀▄▄█\n█▀ ▄ █ ▄█▀ ▄██ ▀▄█▄ ▄▄██▄▀█▀▀▄▄█▀█▀█▀ ▀█▄█  █▀███ ▀█▄▄█▀▀██\n█▄█▀▀█ ▄██▄▀▀▀  ▀▄▀  ▀▀ ▄▀█▀▀▀▄▄▀█ ▀▄▀ ██▀▄▀█▀    ▄█ █  ▄██\n█▄██ █▄▄█▀▄▀█  ▀▄▄▀  █▀▄  ▄ ▀▄▀▀ █▄▄▄ █▄ █▀ ▄█▄██▀▀▄▄▄█▄▄▀█\n█ ▀ ▀▀▄▄▄█▀▄ ▄▄▀▄▄▀▄▄█▀  ▀▀ ▄ ▄▄███ ▄█▄  ▄   ▀▀█▀▀▀▀▄█▀  ██\n███████▄█▀  ▄▄  █▄▄  ███▄▀█ ▄▄▄ ▄▀▄█   ▄██▀ ▀███▀ ▄▄▄  ▀▀▀█\n█ ▄▄▄▄▄ █▄▀██▄▀█ ▄█▄ ▄  ▀ ▄ █▄█ ▀▄▄▄█▄ █▄ ▄█ ▀ █▄ █▄█ ▀  ██\n█ █   █ █ ▀ ▀▄█▀▄▀▀▄▄█▀█▀▄▄    ▄▄█▄█▄ ▀▄▄██▀▀██▄▄▄▄▄ ▄▄▄█▄█\n█ █▄▄▄█ █ ▄▄▄ ▀▄▄ ▀ ▄██▀▀█ ██▀▀███▄▀█▄█▄▀▀▄█ ▀▀  ▄▀█▀▀ ▀███\n█▄▄▄▄▄▄▄█▄█▄▄▄█▄█▄▄▄████▄███▄▄█▄▄▄▄▄▄▄██████████▄▄█▄████▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T15:53:05.418Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:53:05.419Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.069Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.076Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.097Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.534Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.547Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.557Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.575Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.931Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.937Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:03.976Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:54:13.438Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:13.452Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:13.456Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:13.460Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:13.466Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:13.473Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:28.359Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:28.383Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:28.407Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:54:44.888Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:44.908Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:44.921Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:54:49.232Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▄▄   ███▄ ▄▀ ▀▄▄▄█ ▀▄▄▀█▀█▄▀ ▀ ▀  █▄▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▀█  █▄▄█ ▀█▄ █  ▀█▄██▀▀▄▄▀▀▀█▄█▄▀▀ █ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▄▀▄█ ▄▄█ ▀▄ ▀▄▀ █ ▄▄▄ ▄▀██▄▄ █  ▄▄█▀▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄█▄▀ ▀▄█▄▀ ▀▄█ █ █▄█ ▀▄█ ▀▄█▄█ █ ▀ █▄▀▄█▄▄▄▄▄▄▄█\n█▄  ▄▄█▄   ▀▄▄▀▀▄▄▀▄▄▄▀█   ▄    ▀█▀█▀▄▄█▄█ ▀▄██▄▀  █ ▀▄▀▄██\n█▀▄▄▄ ▄▄ █▀▀▄▀▄ ▀▀▀ ▀▀▀ ██ ▄▀█▀█▀█  ▀█▄▄▄ ▀   ▄██ █▄▀▀▀▀▄██\n█▄▀▀▀▀▄▄ ▄▀▀▀▄▄▄█▄▀ ▀█▀▄▀▀▀ ██▀█ ▀██ ▄▀██▀▀▀▀██▄ ▀█▄█▀▀ █ █\n██ ▀▀▄▄▄▀▀▀ █  █ ▀█▄   ▀▀▄ ▄ ▄▀▄▄ ▄▀▀█ ▄▀ ▄  ▀██  ▄ ▀▀▄▀▄▀█\n█   ▄  ▄██▀▄█▀▄█▄▄▄  █▀▀  ▄▀▀ ▀ ▄█▀█▀▄▀▄██▄ █▀██▀▀ ███▄▀▀ █\n█  █   ▄▀█  ▀█▀█  █▀ █▄▄█  ▄▀▄ █▀▄█▄▄▄█▄█▀ █ ▀▄▀▄▄ ▄█   ▀▀█\n███▄▄ ▄▄██▀  █▀█▄▀▀▄▄█▀▀▀▄ ▀▀█▀ ▄▀▀▄  ████▀  █▄█▄▀ █ ▀██ ▀█\n█▀███  ▄▀▀▄▄  ▀ ▄ ▀▀▄███▀█▀ █▀█▄▄▄█ █▄▀▄ █▄▀███▀▄▀▄▀▀█ ▀▀▀█\n█ ██▀▀█▄█▀ ▄██ ▄▄█▄ █▄▀▀▀▀▀███▀▀▄  █ ▄ ▄▀█ ▀ ▀█▄   █▀▀█▀ ▄█\n█▀▄██ ▄▄▄  ▀█▄██ █▄█ ▀▄██▀█ ▄▄▄ ▄ ▀ █▄▄█ ▄█ ▄▀  ▄ ▄▄▄ ▀ ▄▀█\n█   █ █▄█ ▄▄█▄ ▄▀▄▄▀█▄▄█▀▀█ █▄█ ▀█▄█▀▄▀▄██▀  ▀▄█▄ █▄█ ▄▀█ █\n██▀██  ▄ ▄▄█▀▀██▀ ██▀▄▄ █ ▄▄▄▄ ▄ ▀▄  ▄▄▀▄ █▀█▀█ █▄▄  ▄▀▀ ██\n█  ▀▄ ▄▄ ▀█ ▀▄  ██  ▄▄▀▀ ▀▄▀█▄▀  ▀▀█▄  ██▀▀▀▄█████▀▀▀▄▄▀ ▀█\n████▄ █▄▀▄▀▄▀▀█▀▀▀█ ▀▄█  ▀█▄  ▀ █▀▄▄▀▀█▀█   ▄ ▄██▄▄▀▄   ▄▀█\n██  ██▄▄▀▄▀█ ▀██▀█  ▀▀▀▀▄ ██▀█  ▄█▄▄▄▄ ▄▄▀▄▀▄▀ ▄█▀ ▀▄█▀█▄▀█\n█▄  ██▀▄█ █   █▄▀█ █▀ ▀▀▄ █▄▀█▀▄ █ █▄▄▀▄  ▄▀ ▀█▄ █▄█    ▄▄█\n█▀  █▄▀▄█▀ █ ▄▄ ▀▄▄▄▄▄██▀ █▀▄██▀▀█▀█▄  █▀▀▀▀▀▀███ ███▄ ▀█▀█\n█▄ ▄▄▄█▄▄▀█▀▀▀██ ▀▀  █▀ █▀▀▀█▄ ▄█▀▄▀ ██▄▀█ ██▀█▄▄▄▀▀███ ▄██\n█      ▄ ▀ ▄█▄ ▄ ▄▀ ▀▄▀▄  ▄▀█▄█▀▄██▄ ▄ ███▀▀▄▀ █▀█▄ ▀▄▀▀▀▄█\n█ ▀ ▀▀▄▄ ▀▄ ▄▄▀ █ █▄▄  ▀█ ▄▀█▄▄ ▀▄▄▀█ ▄█ ▀▄▀▄██  ██▀ ▀  ▄▀█\n███████▄▄▀  █▄█▀▄▄ ▄ █▀█▀▀  ▄▄▄  █▄█▄▄█▄██▀▀ █▀▄▀ ▄▄▄ ▀▄ ▀█\n█ ▄▄▄▄▄ █▄█  ██▀ ▄▀▄▀  ▀▄▀█ █▄█ ██ ▀▀▄  ▀▀ ▀▀█▀ █ █▄█   █▀█\n█ █   █ █ █ ▀█▀▀▄▀▄▄▄█▀▀▀▄     ▄ ▀███ ██ ▀▀ ▄▀ █▀▄▄▄ ▄███▄█\n█ █▄▄▄█ █ ▀ ▀▄█▀▄ ▀▄▄█▄█▀█ ▀▀█▀████ ▄▄▄ ██▄▄ ▀▀▄▀▄ ██▀▀ ███\n█▄▄▄▄▄▄▄█▄████▄▄▄█▄▄▄███▄█▄█▄██▄▄▄▄▄▄▄▄▄███▄▄█▄▄▄▄█▄▄▄█▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T15:54:49.270Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:54:49.286Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T15:56:33.305Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:33.310Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:33.314Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:33.318Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:33.321Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:33.327Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:40.069Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:40.070Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:40.075Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:56:52.696Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:52.706Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:52.721Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:56:55.531Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀█  ▄▀█▀█ ▀ ▀█▄ ▄▄█ ▄▄   ▄▀  ▀▀   ▄▄▀▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▄█ ▄▀▄█▄█▀███▄  ▀█▄▄█▀▀█▄ ▀ ▀ ▀▄▄ ▀▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀█▄▄█▀ ▄█▄▀▄  ▀▀ █ ▄▄▄ ▀ ██▄▀ ▀█▀▄▄ ▄▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ █ ▀▄█▄▀ █ █ █ █▄█ ▀▄█ ▀▄█▄▀▄█ ▀ ▀▄▀▄█▄▄▄▄▄▄▄█\n█ ▄▄ ▄▀▄ ▄▄█ ▀▄▀▄▄▄▄▀▄▀▀▀ ▄▄    ▀█▀█▀▄▀▄▀█▀▀ ▀ ▄█▀▄█ ▀▄▀ ▀█\n██ ██▄▀▄▄▀▄█ ▀▄ █ ▀ ▀▀▀ ▄▄ █▄ ▀▄▀▀▄ ▄█▄▄  ██ ▀▀▄▄ ▄▄█▄▀▀▄██\n█▀▀██ ▀▄▀▀▀▀▄▀▄▄▄▄▀ ▄▄▀▄ ▀▄▄▀▀▀█▀▀█▄▀▄▀█ ▀█▀█▀▄▄   ▄▀█▀▄ ██\n█▄▄█ ▀█▄▀▀▄ ▀ ▄▄█ ▀▀▀▄  ▄▀ ▄▀██ ▄█▀▀▄▄ ▄▄ ▄▀▀ ▀▀█ ▄▀██▀ ▄▀█\n█▀▀▄██ ▄ ██ ▄█ ▀▄█▀▄▄▄▀▀▀  █▀  ▀▄▀ █ ▄ █▀▀▀ ▀██▄  █▄██▀ ▄ █\n██ ▄█ █▄ █▄  ▀▀█▄    █▀█▀ ▀██ █▄▄ ▀▄▀▄ ▄▀█▀ ▀█▄▀▀▀▄  ▀  ▄▀█\n█▀▀▀ █▀▄ ███ ▄▀█▄▀  ▄█▀█▀▄▀ █▀▄  ▀▀██▄██▀█ ▀▄▀▄█▄▀▀▄▀▀▄▄▀▀█\n█▀ ███▄▄ ▀█▄▄▄▄ ▄ ▀ ▄█▀▄▀█▀ ▄ ▄█▄██ ▄▄▄▄▄▀▀ ▀▀▄██ █▄ ██ ▀▀█\n█▄ ▄ ▀ ▄   ▄█▄▄ ▄▄ ▄█▄▄▀▀ ▀█▀█▀ ▄  █▄  █ ▀█▀▄▀ ▄▀ ▀██▀█▀▄ █\n█▀ ▀█ ▄▄▄    █▀▄▀ ▄█ ▀▄██▄▀ ▄▄▄ ▄ ▀▄███ ██ ▀▄▀ ▄▄ ▄▄▄ ▀ ▄██\n██ ██ █▄█ █▀▄ ▄█▄▄▄▀▀█▄█ ▀▀ █▄█ ▄▀█▄ ▄▀███  ▄▀█▄▀ █▄█ ▀█▄▀█\n█▄    ▄▄ ▄    ▄▄█▀ ▄██ ▀▄ █  ▄  ██▄  █ ▄ ▀█  ▀▄ ▄▄   ▄▀▀▄▀█\n█▄▀▀▄█▀▄  █▀ ▄▀ ▄▄▄▄ █▀▀  ▄▀▀▄▀  ▀▀██ ██▀▀▀▀▀▀▄█▀ █ ▄▄▄  ▀█\n█▄ █▀▀▄▄  █▀  ▄▀▀██ ▄  ▄ █  █▀▀   ▄▄█▀▄ ▄▀ ▀▀█ ▀▄█▄▀▀█▀▀█▀█\n████ ▄▄▄█▄ ▀ █▀▄▀█▀▄▀▀▄▀▄ ▄▀▀█▄▄ ▀▀▄  ▀█ ██▀▄███▀█▄█▄▄███ █\n█▀ ▄▀ ▀▄  ▀█▄   ▀█  ▀ ▀▀▄ ▄ ▀█▄  █▀▄ █▄  █ ▀ ▀  ▀▀▀▀▀█▄▀▄▄█\n███▀██▄▄ ▄  █▀▀▀▄█▄▄▄▄▀▀ ▀█▀▄▄█▄▀█▀█ ▄▀▄▀▀▀▀ ██▄▀▄█ ██▀█▀▀█\n██▄▄ ▄▀▄▄█ ▀▀██ ▀▄▀ █▀▀ ▄██▀▄█▄ ▀▀ ██ ▄▀██▀▀▀█ ▄█▄▀▀██▀ ▄██\n█  ▀▄▀▄▄ ▄▄█▄ ▀▄▄▄▀  ▄▀▄▀▀▄▀▀▄ ▄█▀▄▄▄ ▄█▀▀▀▀▄▀▄▄▀ ▄█▄▄▀  ▀█\n█ ▀ ▀▀▄▄▀▀▄▀▄▀ ▄▀▄▀▄ █▄▀▄ ▄▄ ▀▄▄▄▄▄  ▄▄▄ ▀▀ █▀▀▄ ▄ █▄▄▀▀█▀█\n███████▄▄▀  █▀  ██▄▄▀█▀█▀ ▀ ▄▄▄ ▄▀▄██ ▀██▀ ▀▄▀█▄▀ ▄▄▄  ██ █\n█ ▄▄▄▄▄ █▄ ▀  █▄▀▄▄▄█▄ █▄▀▄ █▄█  ▀▀▀▄▄█▄▄ ▀▀ ███  █▄█ █▀ ██\n█ █   █ █   █ ▄▄▄▀▄▄▄███▀▄ ▄   ▄ ███▄▄ ███   ▀▄▄▀▄ ▄▄▄ ████\n█ █▄▄▄█ █ ▄██ █ ▄ ▀ ▄█▀ ▀██▄██▀█▄█▄  ▄█▄▀ ▄▀▄▀███  █▀█ ▀███\n█▄▄▄▄▄▄▄█▄▄██▄▄▄█▄█▄▄▄▄██▄▄█▄▄█▄▄▄▄▄▄▄▄▄████▄████▄██████▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T15:56:55.545Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:56:55.554Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T15:57:52.741Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:52.742Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:52.746Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:57:53.042Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:53.049Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:53.055Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:57:53.100Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:53.107Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:53.121Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:57:53.132Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:56.818Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:56.822Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:56.824Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:56.826Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:56.830Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T15:57:56.834Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:58:03.364Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T15:58:03.365Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:58:03.371Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:58:09.022Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T15:58:09.025Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:58:09.028Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:58:12.696Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀ █▀▄▀▄▄  ▀▀ ▄█▄▄█   █ ▄▀  ▀▄▄ █▀ ▄ ▄█▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄█▄▄█▄██▄▄▄▀███▄████▄▄▀▄▄▀██▄▄▀ █▀ ▄▄▀▄ ██ █   █ █\n█ █▄▄▄█ █ ▄  ▄▀███▄▄▀██▀▀▄  ▄▄▄ ▄█ ▀▄█▄▄▀▄ ▄▄▀ ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ ▀▄█▄▀▄▀ ▀ ▀ █ ▀▄█ █▄█ ▀▄█▄█ █ █▄█▄▀ █ █ █▄▄▄▄▄▄▄█\n█  █▄▀█▄ ▀ ▄ ▀ ▀█▄▀  ▄  ▄█▄▄ ▄▄▄██ ▄▄▄▀█▀ ▄█▄██▄▄▄█▄  ▀▄▄▀█\n█▄ ▄ ██▄█ ▀█ ▀▀█▀▀▀▄▄▄   ██ █▀    █▄▀▄█▀█ ▀█▀▄▄▄▄█▄ ▀▄▀█▀ █\n█ ▀▀▀█▄▄   ▀▀▄▄█ ▀█▄ █ ▀██▄▄▄▄█▀▄▄  ▄ ▄█   █▄▄▄ ▄█ ▄  ▀   █\n█▄  ▀ ▀▄▀█▄▀▀▀▄▄ ▀▄█ █   █ ▄▀█ ▄ ▀ ████  ▄█▀█▀▀▄█   █▀▄██▀█\n█▄▀▀▀█ ▄▄▄█ ▄██ ██▀ ▀▀▄█▄█▀█   ▄▀  █▄▄█▀ ▀▄▄▀ █▄▄█▄  █▀▄█ █\n█ █ ▄▀ ▄▄█▀▄▄█▀▄ █  ▀▀█▀▀█ █▄▀▀ ██▄▀▄ █ ▀▄▄█▄▄█▄▄█ ███▄█ ▄█\n█ ▄▀▄▄█▄▄ ▄█▄▀███ ▀  █▄▄▄ █▀▄ █▄▄█▀▄▄▄▄█ ▄█▄ ▀█▄▀█ ▄ ▄▄██▀█\n█▀██▄▄ ▄█ ▀███▀▄█ ▄█▀  ▀▀▀▄██ █▀  ▄ ▄▄▄▀██▄█▀▀██ █▀█▀▀ █▄▄█\n███ ▀▀█▄▄▄▀▄▀▄█▀▄  ▄██ ▄███▄▄▄██▄▀▀   ▀▄  ▄▄  █ █▄▀█  ▀▄ ▀█\n██ ▄▄ ▄▄▄ ▀▀  █▀▀ ▀▀▄▀█▄▄█  ▄▄▄ ▄ ▄█▀▄▀▀ ▄▄▄▄█▀▀▄ ▄▄▄ ▄▄ ██\n█▄▀▄▄ █▄█  █ █▀▄▀▄▄█▄▀██▀▄▄ █▄█ ▀▄▄▄  █▀ ▀ ▄█▄▄▄█ █▄█ ▀▄▄▄█\n██▀▄█▄ ▄   ▀▄▀ █▀██▄▀▄█▄ ▀▄  ▄ ▄█▄█▄███▄█ █▄ ▀███  ▄ ▄▄█  █\n█ █ █  ▄▀█▀▄ █ ▀█▄█▄█▄  ▄█ ▀██▄▄ █ ▄█▄▀▄  ▄▄ █▄█▄█▀▄▄█▀█▀▀█\n█▄▄ █  ▄▄█ ▄ ▄ ▄▀▄ ▄ ▄██ ▀█▄ █▀▄▄█▀▄▀ ▄██▀▄▄ ▄▄  ▀▀▄▀ ▀█▀ █\n█  █▄█▀▄▄█▀▀▀▄▄     ▀ ▄  ▄█   █▄█▄▄ █▄▀▄▀▄▄█▄▄▀ █▄▀  ▀█▄▄ █\n█ █▀ ▀ ▄ █▄█▀    ▄▀██ ▄▀▀▄   ▄▀ ██ ▄▀█▀▀  ▀██▀ ██▀ █▀▀▄▄ ▄█\n███ ▄▄█▄▀   ▄█▀▀█▄▀ ▀▀█▀▄█ ▄████▄  █ ▄█  █▄▄█▄▄██   ▄▄▄▀▄▄█\n█  ▄  ▀▄█▀▀▀  █████▄▀▄ █▀██ ▀▀  █▄█▄▀▀██▄█▄▀▄██▄ ▀▀ ▄▀ ██ █\n███ █▀ ▄██▄▀ ▀█▀▄▄▄▄██ █▄█ ▀▀█▀▀▄▀▄▄▀ ▄██▄▄▄ █▄█▄███▄▄▀█ ▀█\n█ ▀ ▀▀▄▄█ █▄▄█ ██ ▄▄▄ ▄ ▀▄ ██▀ ▄▀ █ ▄▄▄▄▀████▄▄▄▀ ▄▄▀▄▀▄█ █\n███████▄▄▀█ ▄▀█ ▄▀ ▄ █▄▄██▀ ▄▄▄   █ ▄▄ █▄ ▄█▀ ▄▀▀ ▄▄▄ ▄▀█ █\n█ ▄▄▄▄▄ █▄█▄▀█▀ █ █▀ ▀▀     █▄█ ▄▄▀  ▀█▄  ▀█▄ ▀█▄ █▄█  █ ▀█\n█ █   █ █▀▀ ▄▀▄▄█▀▄ ▀ ▄▀▀ ▀▄    ▀▄█▄ ▄▄▀▄█▀▄  ▄██ ▄▄▄ ▄█▀▀█\n█ █▄▄▄█ █▀ █ ▄▄▄██ ▄▄▄▀▄█▀█▄▄▄█▀▄█▄█▄█ ▄ █▄▄█▀██▄▄▀█▄ ▄██▄█\n█▄▄▄▄▄▄▄█▄█▄█▄▄████▄▄▄█▄████▄█▄▄▄▄███▄██▄▄▄█▄█▄▄▄▄█▄██▄█▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T15:58:12.705Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:58:12.710Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T15:59:21.360Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:21.367Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:21.373Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:21.380Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:21.392Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:21.397Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:27.313Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:27.321Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:27.342Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:59:32.812Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:32.821Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:32.831Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:59:35.674Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▄▀▄█  ▄▀▄▀▀▀▄▄  ▄█  ▄  ██▀█▀▄██ ▄▄██▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▀ ▀█▄▄█▄  █▄▄█▀ ▀██▄██ ▄ ▄▀ █▄▄▄ ██▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀ ▀▀▀▄▄▄█▄█▄  █▀ █ ▄▄▄ ▄▀██▄▄▀▀█▄▄▄▄█▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀ █▄█ ▀▄▀▄▀ █ █ █ █▄█ ▀▄█ ▀▄█ █ █ ▀ ▀▄▀▄█▄▄▄▄▄▄▄█\n█    ▄█▄  ▄▄▄█ ▀▄█▄ ▀▄▀▀ ▀▄ ▄   ▀█▀██  ███  ▀▀█▄█▀ █▄▀▄▀▄██\n█▄█▄█▀ ▄ ▄▀▀ ▀▄ ▀▀▀ ▀▀▀ █▀▀█▀▄▀██▀▄ ▄ ██▄▄▀█▄█▄█ ▄▄▄ █▀▀▄██\n███ ▄ ▄▄  ▀█▀▄▄▄▄█▀  █▀▄ ▀▀▄█▀▀█ ▀█▄▄▄ ██▀▄▀ ▀▄▄▀▀█▄█▀▀ ▀▀█\n█▄ ██▄▀▄▀ ▀█▄▄▀▄█▄▀  ▀▀▀█ ▄█▀▄█▄  █▄▀▀▀▄ ▀▄█▀▀  ▀██▄██  ███\n██▀▀██ ▄██ ▀▀  █▄▄  ▀▄▀▀ ▀▄▄▀ █  █▀▄   ▄▀▀ ▀▄█▀▄▄▀ ▄▀██▀▀▄█\n█▄▀▄▀▀▄▄ ▄█▀▀▄▀███▀▀▄▄▀ ▄ █▄▀▄ █▀▀▀ █▄██▀▀▀   █ ██  ▄ ▄▀▄██\n█   █ ▀▄  ▄▀▄▀▀█▄▀ ▄▄███▀▄  █▀  ▀▀▄▄▄ ▄██▀▄  ▀▄█▄▀▀█▀███ ▀█\n██ █▄▄ ▄▄ ▄ █▄█▀▄ ▄█▄██▄▀█▀   ███▄▄  █   ▄▄▀██ ▀ ▀▀▄▀▀▀▀▀▀█\n█ ▄ █▀▄▄  █▄▀█▄▀█▄ ▄█▄▀█▀ ▀███▀▀▄  █▀▄▀█▀█▄  █▄▄▀  ▄▀██   █\n█     ▄▄▄ ▄▄▄▄▀▄ ▀▄█ ▀▄█▄▀▄ ▄▄▄ ▄▄▀▄▀▄▀▄▄  ▀ ▀█ █ ▄▄▄ ▀ ▀██\n█ ▀▄█ █▄█ ▄█ ▄▀█▄█▄▀▀▄▄█  ▀ █▄█ ▄█▄█▄  ▄██▀ ▄██▄▀ █▄█ ▀██▀█\n█▀██▄ ▄▄  █▀▀█▀▄   ▄▀▀ ▄█ █▄▄▄   █▄▀▀██▀▄▀▄▀▄█▀█▀▄ ▄ ▄█ ▄▀█\n█▀█▄█▀▄▄ ▀▄▀█ ▀ ▄█ ▄ ▄▄▀  █▀▄▄▀ ▄█▀██ █▄▀▀ ▀ ▀█▄█▄  ▄█ █ ▀█\n█ ▀█▄█ ▄█ ▄▀  █▄██ ▄▄  █▀▀ ▄▀▄▀ ▄ ▄▄▄▄ ▄▀███▀█  ▀█▄▀█▄▄▀███\n█    ▄ ▄█▄ ▀ ▀▀▀▀█ ▄▀▀▀▀▄ ██▀██▀▀███ ▄ ▄█▀   █▄██ ▀███▄▀█▀█\n█▀▀█ ▀ ▄█▄▄▀▄▀██▀█▄ ▀ ▄█▄ █▄▀█▄▄ █ ▄▄▀▀▀▀ █ █▀██▀█▀▀▄██▀▄▄█\n██▄█▄▀█▄█▀ ▀▄▀ ██▄  ▄▄▀▀ ▀█▀▄▄ █▀█▀█  ██▀█ ▀ ▀███▄▄▄█▄▄▀▀▀█\n██ ▀ █ ▄█▀ ▄▄ ▀█▄▀▀ ▄█▀ ██▀▀▀█▄ ██▄▀ ▄█▄█ ▀▀▀█▀▄█▄▄▀ █  ▀▀█\n█ █▀ ▄ ▄█  ██ ▄▀▄▄▀ ▀█▀▄▄▀▄█▄▄██▄█▄█▀▄▀▄▀█▄  ███▀█▄▀█▄ ▀ ▀█\n█ ▀ ▀▀▄▄▄▄▄▀▀▄ ▄▀▄█▄▀▄ █▀ █▄██▄▄███▀ ▄▄▄▄▀ ▀▀ ▄▀█▄ ▀▀▄▀▀▄██\n███████▄█ ▄ ▀▄█▄██▄▄▀███▄▀▄ ▄▄▄  █▄██▄█▄ ▀▀▀ ▀ ▄▀ ▄▄▄ ▄▀▀ █\n█ ▄▄▄▄▄ █▄█▄  ███ ▀▀██▄▄█▄█ █▄█ ▀▀ ▄▄▄  ▀█▀▀▀  ▄█ █▄█   ███\n█ █   █ █ █▄▀▄▄ ▄▀▄▄▄███▀▄ ▄ ▄ ▄▀▀▀▄▄▄█▄█▀ ▀█▀██ ▄  ▄▄▄ ███\n█ █▄▄▄█ █ ▄▄ ██ ▄ █▀▄█ ▄▀█▄█▀▀▀████ █▀▄ ▀▀  ▄▀ ▀▀ ▀██▀▀▀███\n█▄▄▄▄▄▄▄█▄▄██▄█▄▄█▄▄████▄▄▄██▄█▄▄▄▄▄▄▄▄▄███▄▄███▄▄██▄█▄█▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T15:59:35.681Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T15:59:35.684Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T16:00:32.937Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:32.953Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:32.987Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:00:33.427Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:33.450Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:33.478Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:00:33.508Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:34.709Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:34.760Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:34.778Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:00:44.975Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:44.987Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:44.993Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:45.000Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:45.002Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:45.013Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:51.947Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:51.959Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:00:51.968Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:01:03.903Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T16:01:03.910Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:01:03.920Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:01:05.987Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▄▄ ▄▀▄█▀█▄ █ ▄   ▀▄▄▄  ███   ▀██  ▀█▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▄█▄▀▀██▄█▀██▄▄ ▀▀█▄▄█▄▀█▄▄ ▀█▀▀▄▄ ▀▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▄  ▀▄█▄█▀█▄ █▀▀ █ ▄▄▄ ▀█▀█▀█ ▀█  ▄ █▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ ▀▄▀▄▀▄▀ █▄█ █ █▄█ ▀▄█ ▀▄█▄█▄█▄▀ █ ▀▄█▄▄▄▄▄▄▄█\n█▄▄ ▄ ▀▄▄▄▄▄▀ ▄█▀▄▀▄▀▄▀█▀  ▄▄   ▀█▀█▀ ▀██▀  ██▄▄▄▀▄█ █▄▀▄▀█\n█ ██▀ ▄▄ █▄▄  ▄ ▀█▀ ▀▀▀ ▀█▀▄▀▄▀███  ▄▀▄█▀ █▄█▄ ▄▄▀ ▄▄ ▀▀ ▀█\n█▀█▀▄▄▀▄▀▄▀▀██▄▄▄▄▀ ▀█▀▄▀ █ █▀▀█▄███ ▄ ███  ▄▀██▄▀▀▄ ██▄▄██\n██▄▀▄▄█▄▄█▄▄ █▄▀█▄██ █▄▀▀ ▀█▀▄█▄ ▀▀▀ ▄█▄█▀▀ ▀  █ █ █▄▀ ▀ ██\n█ ██▀▄ ▄█▄█▀   █ ▄▄ ▄▄▀▀▀ ██▀  ▀██▀█▀ ▀██▀ ▀ █▄▄▀▀ █▄▀█ █ █\n█▄▄ ▄▄█▄█▀▄ ▄▀▀█ █ ███▄▄   ██ ██  █ █▄▄▄ ▀▀ █ █▀█  ██▀ ▀▄██\n█▄█▀▄▀ ▄▀ ▀ ▀▄▀█▄▀ ▄▄█▀▀▀▄▀▀▀▀▄▀███▄▄  █▀█  ▄▀ █▄▀▀▄▄▀█▄▀ █\n█▀█▀▀ ▀▄▀▀  ▀ ▀ ▄ ▀▄▄██▀▀█▀  █▄█▄▄▄ █▀ █  ▀  ▀█▄  ▀█▄▀ ▀▀▀█\n█ ▀▀██▀▄ █▀ ▄▀  ██ ▄█▄▀▀▀ █▀█▀▀ ▄  █  ▄▄▄▀   ▀▄█▀▀ ▄▀█▄   █\n█▀▄▄▄ ▄▄▄ ▄ ▄▄▀▄▀▄▄█ ▀▄█▀ ▄ ▄▄▄ ▄▄▀ █▀▄▄█▀▀█▀█▀▀▀ ▄▄▄ ▀  ██\n█▄▀▄█ █▄█ ▄▄ █  ▀▄▄▀ ▄▄█▄▀▀ █▄█ ▄▀██▄ ▀▄▄▀▀ ▄██▄▀ █▄█ ▄ ▀ █\n█▄█    ▄  ▀▄ ▀ ▀█ ▀▀ ▄ ▄▄▄▄ ▄▄▄▄█ █  ▄██▀▄▀ ▄ ▄█▀ ▄    ▀███\n█▀  ▀▄ ▄ ▄ █ ▀▄ █▄▄▄ ███▀ ▄▀ ▄▀  █▀█ ▄▀▄▀█▄ ▄█▄█▀█▄█▀▄▀▀▄▀█\n█▄ █▀▄▄▄▄███▄▄█ ██▀▄▀ ▀█ █   ▄▀ █▀  ▀▄▄██▀ █ ▀▄▄ ▀ ▀▀▀▀ ▄▀█\n█ ▀▄██ ▄ █▄█▄▄▄▄▀█▄ ▀▀▀▀▄ ▄▄▀█▄  █▄▄▄▄▄▄██  ▄██▄██▀▄▄▄▀ ▄▀█\n█ ▀   ▀▄ ▄▀█ ▀ █▀█▀▄▀ ▄ ▄ █ ▀█ ▄ █▀█▀█▄▄▄ ▀█▀▀  █▄ █▄█▄▀▄▄█\n█ █  ▄▄▄ ▀█▄█ █ ▄█▀▄▄▄█▀▄▀█▀██▀ ▀█▀█▄ ▀███ ▀██▄▄█ ▀█▄█▄█▀██\n█▄▄ ▄█▀▄ ▀▄▀▄ █ ▀▄▀  ▄▀ ▄▄█▀▄█ ▄██▄█▀▄█    ▀▄█▄  █ ▀█    ██\n█▀ █ ▄ ▄█ █▄█▄ ▀ ▄▀ ▀█▀▄▄▀▄▄▄█▄▄▄██▄▀ █▄█▀▀▀▄▀█▄█▀█ ████ ▀█\n█ ▀ ▀▀▄▄▄▄▄▀▄▄▀▄██▀▄▄█▄▀▄ ▄▀██▄▄█ █ ▄▄█ ▀▄▄ ▀▄▄▀ ▄ ▀ ▀▀ ███\n███████▄▄▀ █ █ ███  ▀▄▀▀█▀█ ▄▄▄ ▄█▄█ ▄▀▄██  ▄▀▄▄█ ▄▄▄ █▄ ▀█\n█ ▄▄▄▄▄ █▄ ▀  ▀ ▄▄ █▄█ ▄▀▀▄ █▄█ ▀▄█▄▄  ██ ▀ ▀▄▄▄▄ █▄█ ▄  ██\n█ █   █ █ ▀▄ █▄▄▄▀▀▄▄█▀▀▀▄ ▄▄  ▄ ██▄ ▄▄█▀█  ▄██▄ ▄▄▄  ▀▀█▄█\n█ █▄▄▄█ █  █ ▀▄█▄   ▄█▄▄▀█▄█ █▀████▀▀█▄▄ ██ ▀ █▀  ▀█▀▀ ▀███\n█▄▄▄▄▄▄▄█▄███▄█▄▄▄▄▄▄▄███▄▄█▄██▄▄▄▄▄▄▄█▄███▄███▄██▄██▄██▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T16:01:05.994Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:01:06.000Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T16:03:38.738Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:38.740Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:38.742Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:38.746Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:38.748Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:38.751Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:44.496Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:44.510Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:44.536Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:03:50.520Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:50.524Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:50.528Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:03:52.395Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀▄█▄█▄▄ █▀   █▀ ▄▄ ▄▄ █   ▀█  ▀▄ ▄ ▄█▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄██▄ █▄██ █▀█▄█▄▄██▀█  █████▄▄▀█▄█▄██▀▄ ██ █   █ █\n█ █▄▄▄█ █ █  ▄▄▄██ █▀█ ▄▀▄  ▄▄▄ ▀  █▄█▀ █▄ ▄▀  ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ ▀▄█ ▀ ▀ █▄▀ ▀ ▀▄█ █▄█ ▀▄█▄█ █ █ █▄█ █ █ █▄▄▄▄▄▄▄█\n█▄▄▀ ██▄ █▄   █▀██▄ █▄  ▀█▄ ▄ ▄▄██ ▄▄ █▄  ▄▄ █▀▄█▄█▄ ▄▀▄ ▀█\n█ █▄▀▀ ▄ ▀▀▀▀▄▀█▀ ▀▄▄▄  █▄▄    ▀▄▄▀ ▄ ▄ █▄▄  ▀█▄▄▄ █  ▀█  █\n█▀ ▀▀▄▀▄██ ▄█ ▄█▄ █▄▀▄ ▀▀██▀ ▄█▀ ▄▄   ▄▄ ▄▄▄  █▀ █▀█▀▄█ ▄▄█\n█▄▀▀▄█▀▄ ▀▀▄▄█ ▀▀█▀▄▀▀▀▄ ▄▄▄ ▄▄ █▄▄▄ █▄▄▀▀███▀▄▄ ▀▀█▄ ██ ██\n█▄▄█▄██▄█▄▀▄█ █▄ ▄▀ █ ▄█▀█▄▀   ██  █ ▄▀ ▄█▄▄   ▄ ▄▀ ▄▀  ▀ █\n█  ███▀▄▄▄▀ ▀ ▀▄▀▄▀ ▄▄▀▄█  █▄█ █▀▀▄█▀▀▄▀▄▄ █▄▄▄█▄▄▀▀█▄█▄  █\n█▀▄▀██▄▄█ █▀▀████ █▄ █ ▄▄ ▄ ▄▄▄█ ▀ █▀▄██  █▄ ▀█▄▀█▄▄▄▄█▀▄▀█\n██▀█▄▄▀▄▀█ ▀  █▄█ ▀ ▀   ▀▀▄█ ▀▄ ▀ ▄ ▀▀▀  ▄▀█▄▀█  █▀▄▀▀ █▄▄█\n█▄▄▀ █▄▄█▀▄▄▄▄ █▄ ▄▄██   ██▄▄▄▀█▄▀▀ ▄  █  ▀█ ▄▄▀█▄ ▄ ▄ █ ▀█\n█▄ ▄▄ ▄▄▄ ▀ ▄▀   ▄▀▀▄▀█▄█▄▄ ▄▄▄ ▄  ▀▄▄ █▄▀▀█ ▄▀█▀ ▄▄▄ ▄▄███\n█▄▀█  █▄█ ▀▀█▀▀▄▄█▄██ ██ █▄ █▄█ ▀▄▄█  █  ▀█▄█▄▄█▄ █▄█ █▄▄▄█\n█▀▄ █▄ ▄▄▄█▀█ ▀ █▀  ▄ █▄▀▄▀   ▄ ▀ █▄▄ ▄█▄▄▀██▀ ▀▄ ▄▄▄ ██▄ █\n█▀▄▄▀██▄█▀▀▀█ ▀▄█▄▀ █▄ ▄▄█▀█ █▄▄▀█ ▄▀▄█▄ ▄▄▄ █▄▄▄█ █▄█ ▀▀▄█\n█ ▄█▀█▄▄██ ▀██ █ ▀█▄▀▄ ▀█ ▀▀█▄▀▄█▄▀▄▀  ▄▀▄▄▀▄▄▄▄█  ▄ ▄▀██▄█\n█▀██▄ █▄▀ ▄▀ █     ▄▀  ▄ ▄▄▄  ▀▀ ▄▄ ▄ ▀█ ▄█▄ ▄▄▀█▄ ▀█ ██▄ █\n█▀▀ ▀▀█▄██▄ ▄ █▀ ▄█▄█  ▄▀▄▀▄ ▄▀▄▄▄▀▄▀ ▀▄  ▀  ▄  █ ▄▀▀██▄ ▄█\n█ █  ▀ ▄▄▀▄ █▀▀▀ ▄  ▀▀▄█▀█ ▄ ▄█▄▄  █▄ █  ▀ ▄█▄▄███▀ ▄▄▄▀▄ █\n█▄▀▄▀█▄▄▄ █ ▀ ▄█▀ █▄▄█ █▄██ ▀▀█ █▄█▄ ▄▄█▄ ▀▀█ ▀ ▀▀▄ ▄▄ █ ▄█\n██▀▀██ ▄▀▀▄▀█ █▀▄█▄▄ ▄ ██▄▀▄█▄ ▄▄▀ ██ █▄▄▄████▄▄▄▀▄ █▄▀▀▄██\n█ ▀ ▀▀▄▄▀ ▄▄ ▀▄█ █ ▄▄▄ █▀█▀█▀▀   ▄▄   ▀▄ █ ▄▄█▀▀█ ▀▄▀▀▀██ █\n███████▄▄▀█▀ ▄▀  ▀▄▄ █  █▄▄ ▄▄▄  ▄█ ▄ ▀█ ▄█▄█ █ █ ▄▄▄    ▄█\n█ ▄▄▄▄▄ █▄▀▀▀ ▄█ █  ▀ ▄█ █  █▄█ ▀▀█ ▄██▀█▀ █▀█▄▄▄ █▄█ ██ ▀█\n█ █   █ █▀█     █▀ ▄▀  ▀▀ █ ▄   █▄▄█ ▄▄ ▀▀▀█▀▄█▄▀▄▄▄  ▀▄▀ █\n█ █▄▄▄█ █▀▀▄  ▀▀███ ▄▄  █▀▀█▀ █▀▄▄▄█▀ ▄  ▄ ▄▀     ▄█▄ ▀██▄█\n█▄▄▄▄▄▄▄█▄▄██▄█▄▄██▄█▄▄▄████▄▄▄▄▄▄███▄██▄▄▄█▄█▄██▄▄▄█▄██▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T16:03:52.413Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:03:52.424Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T16:04:50.558Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:50.571Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:50.594Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:04:50.927Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:50.941Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:50.974Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:04:50.996Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:51.250Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:51.266Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:51.290Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:04:55.279Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:55.284Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:55.291Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:55.297Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:55.304Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T16:04:55.308Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:05:01.647Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T16:05:01.666Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:05:01.713Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:05:35.715Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T16:05:35.749Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:05:35.764Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:06:35.837Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T16:06:35.856Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:06:35.885Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:06:36.468Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T16:06:36.494Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:06:36.525Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T16:06:36.568Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T16:06:37.460Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T16:06:37.481Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T16:06:37.516Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:37:10.186Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:10.189Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:10.191Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:10.193Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:10.198Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:10.200Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:20.828Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:20.836Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:20.848Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:37:27.612Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:27.644Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:27.664Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:37:45.013Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀ ▀▀   ▄▀ ▀▀█  ▄ ▄█▀▀▀▄▀▄▀██▀▄█  ▄   ▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▄██ ▀▄▄▄▀▀██▄▄▀ ▀█▄▄ ▄ ▄▄▀▀▀▄▀▄█▀▀▀█ ▄ ██ █   █ █\n█ █▄▄▄█ █▀██ ▄██▄█▀ ▄ █ ▀ █ ▄▄▄ █▀▀▀█▀▄█▄▀ ▄▀▄▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀ ▀ █ ▀▄▀ ▀ █ █ █ █▄█ ▀▄█ ▀▄█▄▀ █▄█ ▀ ▀▄█▄▄▄▄▄▄▄█\n█ ▄   █▄  ▀▀▀▀▄█▀▄▄  ▄ ▀█▀ ▄    ▀█▀██ ▄▄██   ▀█▄▄▀ █▄█▄▀ ▀█\n█  ▄█▄▄▄▄▄▄▄▀▄▄ ▀█▀ ▀▀▀ ▀ ▀▄▄ ▀█▀▀ ▄██▄ ▀██▀█ ▄ ▄▀ ▄▀▀▀▀▀██\n█▀█▄█ ▀▄▄█  ▀ ▄▄▄█▀ ▀▄▀▄▀  █▀█▀█▄▀██▄▄▀█▀█ ▀ ██▄▀  █▀▀▀ ▀▀█\n█ ███▀ ▄█ ▀▀▄  █▄█▀ ▀█▀███ █ ▄▀ █ ▀▀ ▄█  █▄██▀▄█▀█▀█▄▀  ▄▀█\n█   █▀ ▄▄ ▀▀█▄▄█▄█▄▄▀█▀█  ██▀    █▀██ ▀███▀ ▄██▄▀▀▀▄▀▀█ ▄▀█\n███▀ █▄▄█ ▄█▀▄▀█ ▀▄▀▀█ ▄▄  ▄█ ▀▀▀▀█ ▄▀ ▄ ▀█▄ ▀▄ █▄█ █▄▀▀▄██\n█ ▀▀▀▄▄▄██  ▀▄▀█▄▀▄ ▄██▀▀▄ ▀▄▀▀▀▀▀██▄▄ ▄█▀▀ ▀█▄█▄▀▄▄▀██ ▀ █\n█ ▀ █▄█▄█▀ ▀█ ▀█▄  ▄▄█▄ ▀█▀ █ ▀▀▄█▄ ▀▄ ▄▄▀█▀██▀ ▄▀ ▄▄▄ ▀▀▀█\n█ ▀█▄█▄▄▀ ▀█▀▀▄ ▄▄▀▄█▄██▄▀▀███  ▄  ██▄ █▄▀ ▀ ██▄ ▀ ████▀  █\n██ ▀█ ▄▄▄ ▀██▄▄███▄█ ▀▄█▄ ▀ ▄▄▄ ▄▄▀   ▄█▄▀█ ▀▀▀▀  ▄▄▄ ▀ █▀█\n█▀▀▄█ █▄█  █ ▀▄▄█▄▄▀▀▄▄█▀▀▀ █▄█ ▄▀██▄ ▀▄█▀▀ ▄▀▄▄▄ █▄█ ▄ █▀█\n█▀▀█▀▄▄▄ ▄▄▀▄▄█▀ ██▄ ██▄▀ ▄▄ ▄▄ ▄▄▄ █ ▄▄█▀█   ▀██▄  ▄ ▀▀ ██\n█ ▄▀▀█▄▄██ █ ▄▀▀▄▄▀▄▀▄▀█ ▀█ ▄█▀  ▀▀█ ▄▀█▀█▀▀██▀▄▀  █▄▄█████\n█▀▄▀ █ ▄▄ █ █ █▄▀ ▄ ██ ▀█   █▀▀  ▀ ▄  ▀█▄▄█ ▀ ▀ ▀█ █▀▀  ▄▀█\n█▀▀ ███▄██ ▀█ ▀▀▀█ ▄▀▀▄▀▄ ▄█▀█▄  ███ ▄ █▀▀▄  ▀ ▄▀▄▀ ▄███▄▀█\n█▄▀▄ ▄█▄▀▄█  ▀ █▀██▀▀ ▄█▄ █ ▀█▄▄▀▄ ▄▀█▀▄▀█▄██▀▀▄▀█▄▀    ▄▄█\n█▄▀▀▄  ▄▄▀█ ▀▀████▄▄▄▄▀▀▀ █▀ ▄▀▄▀█▀█▄▄▀█▀▀ ▀ █▀██ ▀▀▄▄▄█▀▀█\n██▄▀▄█▀▄▄█▀▄▄▄██▀█▀  ▄▀ ▄ ▀▀█  ▄█▀▄▀▀ ▄▀▀▀  █▄   ▀▄▀▀ █▀▀██\n█ ▀  ▄ ▄██ ▀  █ ▀▄▀ ▄▄▀▄ ▀▄▄█▄▄ ▄▀██▄ ▀▄█▀▀  █▄██ ▀▄▄▄ █ ▀█\n█ ▀ ▀▀▄▄  ▄█▄█▀▄▄█▀▄ ▄▀█ ██▄ ▄▄▄██▄▀ ▄▄▄ ▄   █ ▄▄█ ▀██  ▀██\n███████▄▄  █▀   ▄▄▀▄ ▄▀█ ▀▄ ▄▄▄  ▀▄█▀▄ █▀▀▄  ▀███ ▄▄▄  ▄█ █\n█ ▄▄▄▄▄ █▄▀ ▀▄█▄▄▄█ ▀ ▄▀ ▀▄ █▄█  ▀▄ █▀█ ▀█ ▀ ▀██▄ █▄█ █▀▄▀█\n█ █   █ █ ▄  ▄  ▄▀▄▄▄█▀█▀▄▄▄ ▄ ▄████▄ ▀▄██▀▀█▀▄▄▀ ▄ ▄ █▀▄██\n█ █▄▄▄█ █ ███▀▄▄▄ ▄▄▄██▀▀██▄▀▀▀██▄█▀▀█ ▄ ██▄ ▀▄ ▄ ▀█▄█  ███\n█▄▄▄▄▄▄▄█▄█▄▄▄█▄▄▄▄▄█▄██▄███▄██▄▄▄▄▄█▄█▄██▄▄███▄████▄███▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T20:37:45.034Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:37:45.042Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T20:38:27.747Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:27.770Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:27.803Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:38:28.638Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:28.683Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:28.712Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:38:28.763Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:29.673Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:29.688Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:29.701Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:38:42.012Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:42.048Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:42.059Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:42.065Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:42.073Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:42.078Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:53.632Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:53.655Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:38:53.682Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:39:09.140Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T20:39:09.168Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:39:09.200Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:40:09.234Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:09.238Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:09.249Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:40:09.760Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:09.764Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:09.770Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:40:09.779Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:10.105Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:10.110Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:10.115Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:40:14.975Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:14.978Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:14.981Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:14.986Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:14.991Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:14.996Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:21.504Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:21.531Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:21.560Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:40:30.037Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:30.058Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:30.071Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:40:32.930Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀▄▄▄ ▀▀▀▄  ██▄█▄▄▀▄▄▄▄▄▄▄▀█ ▀▀██▀▄█ ▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀ ▀██ ▄▄█▀▀██▄▄  ▀█▄▄▀  █  █▀▀ ▄▄▄█▄▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀ ▄█ ▀ ▄█▀ ▄  ▄▀ █ ▄▄▄ ██▄▀▀▀▄▀ ▀▀▄▄▄▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ ▀ ▀▄█ ▀ ▀ █ █ █▄█ ▀▄█ ▀▄▀ ▀ ▀ ▀ ▀▄▀▄█▄▄▄▄▄▄▄█\n█▄▄   ▀▄▄▄▄▀▀▀ █▄▄ ▄▀█▄▀▀▀▄▄▄   ▀█▀█▀  ▄▀▀  ▄▀█▄   █▄█▄▀▄▀█\n██ ▄ ▄▄▄▀▄▄▄▀ ▄ █▀▀ ▀▀▀ ▀  █▀ ▀▄▀▀  █  ▄▀█  ██▀▄▄█ █ ▀▀▀▄▀█\n█▄█ ██ ▄▀▀▄▀█▄▄▄ ▄▀ ▀█▀▄▀ █▀▀█▀█▀▀█▄▄  █▀██▀ ███ ▀█▄█▀█ ▀▀█\n█▄█▄█▄█▄██▀▄█▀▀▄▀▄█▀▄▄▀▀█  ▄▀██ ▀▀██ ▄███▀▄▀▀█ █ ▀ ▄ ▀▀ ▀██\n█ █ █▄ ▄▀ █▄ █▄██▄  ▀█▀█  █▀▀   ▀█ █ ▄▄▄ █▀▀ ███▄▀▄▄▀█▄█▀▀█\n█▀█▀██▀▄▀▄▀ ▄█▀██▄█▀▀▀▀▄█ ▀█▀ ▀▄ █▀ ▀█  ▄▄  █ █ ██  ▄█▀ ▄██\n█▀█ █▄ ▄ ▄▀▄▀ ▀█▄▀ ▄▄██▀▀▄ ▀█▀█  ███▀▄▀▄▀█   █ █▄▀█▄█▀▀▀▀▀█\n█ █▄  ▄▄▀ █ ▄ ▄▀▄ ▀▀▄█ ▀▀█▀  ▀█▀▄█▄▀▄▀▀█▄   ▀▀█▄ █▀▄ ▀  ▀▀█\n█▀█▄▄▀▀▄▄██▄ ▄█▄▄▄▄ █▄▄▀▄▀██▀█  ▄  █   █▀▀▀ █▀█▄█▀ ██▀█▀  █\n█   ▀ ▄▄▄ ▀█ ▄██ ▀▄█ ▀▄█▄▄▄ ▄▄▄ ▄ █▄ ▄▀▄▄  ▀ █▀▀▀ ▄▄▄ ▀  ▀█\n█▄ ▄█ █▄█ ███▄ ██▄▄▀ █▄█▄▀▀ █▄█ ▄█▄█   ▄ ▀█ ▄▀▄█▀ █▄█ ██ ▀█\n█▄▀█▄  ▄▄▄ ▄▀█▀▀█ ██▄▄▄ █▀▄▄  ▄  █▄ ▄▄▄▄█▀ ▀▀███ ▄▄▄▄ ▀▀▄██\n█    ▄▄▄▄█▄ ▄▀▄▀██▄ ▀▄▀█ ▀█▀▄▄▀  ▀▀█▀ ▀█ █▀  ▀▄▄█▀███▄▄▄ ▀█\n█  ▀ ▄▀▄ ▄  ▄▀ ▄▄ █▄▀▄  ▄▀▄  █▀ ██ ▄█ ▄▄▀██ ██ ▄▀▄▄▀▀▄ ▀ ▀█\n█▄███▄ ▄█▄▄▀▄▄▄▀▀█▀▄▀▀█▀▄ █▀▀█▄█▄▀█▄▄▄▀▄█▀█▀▄▀█▄▀█▀▀█▄█ ▄ █\n█▄ ▄██ ▄ █▀▀▄▄ █▀███▀  ▀▄ █ ▀█▄▄▀▄▀█▀██    ▀█▀ ▄▀▄▀▀▀▄ ▀▄▄█\n██ ▄██▄▄▄██ ██ ▀█▄▄ ▄▄▀█▄▀█▀██ █▀█▀█▀▄████▀  ██▄█▀  ▄█▀▀▀▀█\n█▄█▀█ ▄▄▄█▄ ▄█▀▄▀▀▀ ▄█▀ ▄▀▀▀▀▀ ▄▀▀▄█▀ ▀▄▀█ ▀▀█▀ ▄█ ███▄▀█▀█\n█▄██▄▀ ▄█▀▀ █▀▀█▄█▀ ▀▄▀▄▀ █▀█▄▄▀▀▀█▄ ▄ ██▀█ ▄███▀█▄ ▄█▄▀█▀█\n█ ▀ ▀▀▄▄▀▄▀▀▀▄▄█ █▄█ ▄█▀▄  ▀ ▄ ▄ ▀█▀ ▄██▄▀ █▀ ▀  ▀▄▀▄▄▀  ██\n███████▄▄▀█▄ ▀  ▄▄▄ ▀▄██ ▀▀ ▄▄▄ ▀▀▄█  ▀█▀▀  █▀▄▄█ ▄▄▄ ▄██ █\n█ ▄▄▄▄▄ █▄▀▄ ▀▄▀▀▄ ▄ █ ▄█ █ █▄█ ▄▀███▄▄ ▀▀  ▀▀ ▀  █▄█  ▀█▀█\n█ █   █ █ ▄ █ ▄ ▄▀▀▄▄█▀▀▀▄▄▄▄  ▄▄▀▄▄▄▄▀▄ █   ██▄▀▄▄▄▄▄ ██▄█\n█ █▄▄▄█ █ ▀  █▄▄▄ █▄▄█ ▄▀█▄▀██▀█▄█▄▀▀██▀▄ █ ██ ▀█▄ ██▀  ███\n█▄▄▄▄▄▄▄█▄▄▄█▄█▄▄▄▄▄▄███▄▄▄████▄▄▄▄▄▄▄▄▄▄███▄█▄██▄█▄▄██▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T20:40:32.939Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:40:32.944Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.094Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.116Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.137Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.590Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.593Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.599Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.603Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.886Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.891Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:30.897Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:41:35.472Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:35.476Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:35.478Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:35.481Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:35.491Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:35.494Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:41.440Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:41.476Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:41.498Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:41:47.302Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:47.308Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:47.325Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:41:49.328Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █ ▄ ▀ ▀▀█▀█ █ ▀▄▄▄▀ ▀█  █▀▄█▄ ▄▄▀▄  █▄▀▄ ██ ▄▄▄▄▄ █\n█ █   █ █ ▀ ██▄█▄▀█▄█▄▄▀▄█▀██   ▀█▄█▄███▄  ▀▀█ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▄█▀▀▀▀▀█▀ ▀███▀   ▄▄▄  █▄▀▀▀▀ ▀▀  ▀▀▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄▀ █ ▀ ▀ ▀ █ ▀▄█ █▄█ ▀▄█▄█ █▄█▄█▄█ ▀ █ █▄▄▄▄▄▄▄█\n█ ▄▀█  ▄███▀ ▀▀▄▄▄  █ █▀▄▀█▄▄   ▄ ▄█▀▄▄ ▀█▀▀█ ▀█▀ █▀▄▀▄   █\n██▄███ ▄▄█▄▄▀ ▄ ▄█▄█▀▀▀██ ██  ▄ ▀▀▄▀ ▀▀█▄ █▀█▀▄▄ ▀▀  ▄▄▄▄██\n█▄ ▀ ▀ ▄▀▄▀▀█ ▀▀ ▄▀ ▄▀▄▄   █▄▀▀██▄███▄▄▀ ▀▄ ▀▄▀█▀▀█▀▄██ ▄ █\n█▄█▀█▀█▄▀█████ █ ▀█ ▀█▀▄▀█▀▄ ▀ █▀█▀▀▀▀██▄▄▀ ▄█▀██▄█▄▄▀▀▄▄▀█\n█ ▄▄ █▀▄█ █▀█▄█  ▄▀▄█▀ █▀▀  ▄   █▄▄█▄ █▀█▀  ▀ ▀█  █▀▄█▄▀▀ █\n█▀█▀█▀▄▄  ▀███▀█ ▄█▄▄▀▄ █▄▀▄█▀▀███▀▀  ▀█▀ ▀█▄██▄▀▀ ▀▀▄▄█▄██\n██  ▀ ▀▄▄▄▄▀▀▄▄ ▀▀▄▄▀  █▀▄▄█▄█ ▀█  █ ▄▀▀▄▀ ▀▀ ▀█▄▀▄▀▀██ ▄▄█\n█▀█▀▄  ▄█ ▄█▄█▀ ▄█▀▀▄███▄ ▀  ██▄▄██▄ ▀█▄█▄▄██▀ ▀█▄█▀ ▀██▀▀█\n█▄▄▄▄▄▄▄ █▀▀▀▀▀▀▀▄   ▀▄▀▀▀ ▄ █▄▀▀███▄ █ ██▀ █▄ ▄ ▀█ ▄█▄ ███\n█  █  ▄▄▄  █▀██▄▀█▀  ▀▄  ▄  ▄▄▄ ▄ ▀▀▀▀█▄▄█▄██▀█▀█ ▄▄▄ ▄█▄██\n█ ▄▀  █▄█   ▀▄█▄▄▄▄▀▄▀▀█▄▀  █▄█ █▄▀▄ ▄▄▀ █ ▀▀  █▄ █▄█ ▀ ▄██\n█▄█▀▄ ▄▄▄ ████▀▀▄  ▄▀  ▄█    ▄▄ ▄▀▄██ ▀▀▄▀▀▀▄█ █     ▄██▀██\n█ █▄  ▄▄█▄██▀ ▀ ▄▄  ▀▀ █▀  █ ▄▀ ▀ ▄█▀ █  █▀ █▄ ██▀██ ▄  ▄ █\n██ █▀▀ ▄▀█▄█▄███ ▄▀▄▄▄▄▀▀▀ ▀ ▀▄███▄▀▄▄▀ █▄ ▀▀▀██ ▀▄▀ ▀██ ▀█\n█▀▄▄█ ▀▄▀█▀█ ▄█ ▄█ ▄▄▄▄█▄   ▄█▀▄▀  ▄▄▄█▀▀▀▀▀▀▄█▄▀▀▄▄▀▄ ▀▀▄█\n██▀█ ▀▀▄▄▄▀▀▄█▀▀▀ ▀█▀ █ ▀██▄▀ ▀▀ █  ▀█▄▀▄▀▀ █ █▀█▀ ▀  █▄▄▄█\n█▀█▀   ▄▄    █▀█▀▄▄▄▀▀▄▀   ▄▀█▀▀▄ ▄█▄ ▄ ▄▀▀▀▀▄▀▄█▀▀ ▀▄ ▀▄▄█\n██▀▄███▄ █▀   █  ▄▄█▄ ▀█ ▄▀▀▀ ▀▀▀█▄▄ ▄ ▄▄▄ ▀▄ ▄▀ ▀▀▀▀▀██▀██\n█ █▀▀█ ▄█▄ ▀▀█▀▀▄▄▀ ▄ ▄▄█▀  ▄▄  ▀▄ █ ▄▄▀██▀ █  ▄█▄▄▀▀█▄ ▄██\n█ ▀ ▀▀▄▄▄ █ ▄▄ ▀▀  ▀▄  ▄█▄▄▀▄▀▀█▀▀██  ▄ ▄ ▄██▄ ▄▄▀ █▀▀█▄▄██\n███████▄█  ▄▀ ▀▀▀▄ ▄█  ▀▄▀  ▄▄▄   ▀█▄▄█ ▄█ ▀█▄ ██ ▄▄▄ ▄█▀▄█\n█ ▄▄▄▄▄ █▀▄█▄▀ ▄▄▀███ ▀█▀▀█ █▄█    █▀█▄▀▀▀ ▄ ██ ▄ █▄█ ▄▄ ██\n█ █   █ █▄▀█▀▄▀▀▀▀▄▄▀ █▀▀▄▀▄▄▄ ▄▄▄▀▄  ▀ ▄█ ▀▀ ▀██▄▄▄    ▀ █\n█ █▄▄▄█ █▀█▄█ ▄▄▄██▀▄█ █▄ ▀▀▀▄▄ ▄██▄▄█▀▄▀█▀ ▄██ ▄█▄▄█▄▀████\n█▄▄▄▄▄▄▄█▄▄██▄▄█▄▄▄▄▄█▄█▄█▄▄▄▄█▄███▄▄▄██▄█▄▄█▄▄▄▄▄██▄█▄██▄█\n"
+  },
+  {
+    "timestamp": "2025-06-21T20:41:49.337Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:41:49.340Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.398Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.402Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.411Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.797Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.801Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.807Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.813Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.937Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.940Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:47.950Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:42:52.633Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:52.642Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:52.646Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:52.648Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:52.651Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:52.654Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:58.497Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:58.512Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:42:58.522Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:43:03.061Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T20:43:03.071Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:43:03.085Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:43:04.873Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀▀▄ ▀█▀▀▄▀ ▀ ▄  ▄█  ▀▄▄██████▀▄▄▄ ▄ ▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▄██▄ ▄▄█▀ ▄█ ▄▀▀▀█▄▄▄█▀▄█ ▀ ▀▀█▄██ ▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀███▀██▄█ ▄▄ ▀▄▀ █ ▄▄▄ ▄▄▄▀▄▀ ▀ ▀  █▄▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀ ▀▄█ ▀▄▀▄▀ █▄█ █ █▄█ ▀▄█ ▀▄█▄▀ █ ▀ █▄▀▄█▄▄▄▄▄▄▄█\n█ ▄  ▄█▄ ▄▄▀█ ▄▀▄▄▀▄▀█▀▀ ▀▄▄▄▄  ▀█▀█▀ ▀▄▀▀▀▀█▀█▄ ▀ █▄█▄▀▄▀█\n█ ▄█▀ ▀▄██▀ ▀▀▄ ▄█▀ ▀▀▀ ▄  █▄▄▀███▄▄▄ ██▄▀█▄▀▀▄█▄ █▄█▀▀▀███\n█  ██▀▀▄▄█▄ ▄▀▄▄▀▄▀  █▀▄▄▀▀▀▀▀▀█ ██▄▄▄▀███▀▀▄█▄█  ▀▄▀█▀ █▀█\n██▄▄██▀▄▀  ▀ ▀  ▀▀▀▄██▀█▀█ ▄▀█▀▄▄ ▀ ▀▄  ▀██ ▄▀▀ █▄ ▄▄▄   ██\n█ ▄▄ █▄▄▀█▄  ▀ ▀▄█▄  ▄█▀▄▀ ▀▀  ▀ █▀█▄  ▄█▀ ▀ ▀▄▄▀ ▄▄█▀▄█▀▀█\n████   ▄ █ █▄ ▀█ ▀█  █▄▀ ▀██▀ ▀▀ ▀▀ ██▀█ ▀▄▀█▄▄▀█▄▄▄ █  █▀█\n███ ▀▀▀▄ ▄▀▀▀█▀█▄▀  ▄█ ▀▀▄  █▀   ███▄▄▄█▀▀  ▄█ █▄▀ ▄█▀▀█▀▀█\n█▄█▀  ▄▄▄██▄▄██▄▄ ▀ ▄█  ▀█▀ ▄  ██▄▄ ▀▀ ▄▄ ▄ ▀▀▀ ▄ ▄▀██ ▀▀▀█\n█▄▄▀ ▄▀▄█▄▀██ ▀▀██ ▄█▄█▀ ▀█▀ ██ ▄  █ ▄ ▄ █▀▀ █▄▄▀▀ ███▄▀  █\n██ ▀▀ ▄▄▄  ▄█▀  ██▄█ ▀▄█▄▀  ▄▄▄ ▄▄▀  ▄█ ▄ ▄▀   ██ ▄▄▄ ▀  ▀█\n██▀█▀ █▄█ ███ ▄▀▄▄▄▀▄▄▄█▀▀▀ █▄█ ▄█▄▄ ▄ █ ▀  ▀█▄▄▀ █▄█ ▄  ▀█\n█ ▄█▀ ▄▄  ▄▀ ▀▀▀▀█ ▀▀▄▄▄▀ ▄▄  ▄▄ ▀█ ▀▄█▄▄▀▀ █▀▀ ▀▄▄  ▄   ▀█\n█▀██ ▀▀▄▀▄▀▄██▀█▄▄  ▀█▀█▀▀▄▄▄█▀ █▀▀█   █ █ ▀▀▀ ▄▀██▀██▀█▀▄█\n███ █▄▀▄█ ▄▄▄▀▄▀▄ ▀ █ ▄ ▄▄█▄▀▄▀ ▄▀ ▄▄ ▀█▄ █▄▀▀▄▄▀▀ █ ▄   ▀█\n██▄▄▄▀ ▄  ▀█  ▀█▀█▄ ▀▀██▄ ▄▄▀█ █ ███ ▄▀█▀█  ▀█▀▄▀ ▀█▄█ ▀▄ █\n██▀▀▄▄█▄ ▄   ▀██▀█▀▀▀ ██▄ █▄▀█▄▄▀▄▀▄ █▀▄▀██ ▄▀▀ ▄▄ ▀ ▀ ▀▄▄█\n█ ▄▀ ▀ ▄▀██   ████▄▄▄▄██▀▀█▀ ▄█▀▀█▀█   ▄▀▀   █▄██▄████▄▄▀▀█\n█▀█▄▀▄▀▄▀▄▄█ ▀ █ ▄▀ ▄ ▀ █▀▀▀██  ▀▀▄█▄ █▄█▀ ▄▀██▄▀▀▀▀██▄ ███\n█▀  ███▄  ▄▄▄ █▄█▄▀  █▀▄  █▄█▄ █▄▀▀▄▄  █▀▀  ▄█▄██▄█ ██▄██▄█\n█ ▀ ▀▀▄▄▄   █ ▀▄ ▀██  █ ▀▀▄▄██▄▄  █ ▀██ ▀█▀▀█▀▄ ██▄▀█▄ ▀ ██\n███████▄▄  ▄██▄▄▄█▄▄ ███  ▄ ▄▄▄ ▀▀ █  ▀██▀█ ▄▀█▄▀ ▄▄▄ █ █▄█\n█ ▄▄▄▄▄ █▄▄   ▀▀ ▀█▀▄▀█▀▀▄▄ █▄█ █  ▄▄ ▀▀▄▀▄██ ▀▄█ █▄█ ▀  ██\n█ █   █ █ █▀▀▄▀█▄▀▄▄▄█▀█▀▄     ▄ █▄█▄▄▀█▄▀▀▀ ▀█▄  ▄ ▄ ▄▀▄██\n█ █▄▄▄█ █ █ ▄▀▄▀▄ ▄█▄█▄▀▀█  █▀▀██▄▄▀▀▄███▄▀ █▄▀▄▄  █▀▀█▀███\n█▄▄▄▄▄▄▄█▄████▄█▄█▄▄█▄██▄█▄█▄▄█▄▄▄▄▄█▄█▄██▄▄▄█████████▄█▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T20:43:04.878Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T20:43:04.883Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T20:44:03.214Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T20:44:03.291Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T20:44:03.359Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:43:25.937Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:25.976Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:25.993Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:43:26.003Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:26.012Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:26.031Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:43:26.058Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:28.088Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:28.098Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:28.107Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:43:40.656Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:40.666Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:40.673Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:40.687Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:40.699Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:40.711Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:49.922Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:49.929Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:49.937Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:43:59.629Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:59.636Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:43:59.643Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:44:01.436Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄  █ █▀█▀▀▄▄█ █  ▄▀▀█    ▀▀█▀▄██▄█ ▄▀ ▄ ██ ▄▄▄▄▄ █\n█ █   █ █  █▄▄▀▄█▄  ████▀▀ ███▄█ ▄ █▀  ▄█▄▄█ █▀▄ ██ █   █ █\n█ █▄▄▄█ █▄█▄▄█▄ ▀▀ █ ▀█  █▀ ▄▄▄ ▀ ▀███ ▄▀  ▀ ▄▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█▄▀ ▀ █▄▀▄▀▄▀▄▀▄█ █▄█ ▀ ▀ █ █ █▄▀ ▀▄█▄█ █▄▄▄▄▄▄▄█\n█   ▄██▄▀ ▄▀ ▀█▀█▄▄█▀█▄▄▀ █ ▄    █ ▄▀█ ▄▄  ▀ █▄▄▀▀ ██▄▄ █▄█\n█▀██ █▄▄▀▀ █ ▀ ▀▀▀ ██ ▄▄▄▀▄▄  ▀ ▀ █▄█ █▀▄▀▄   ▄█ █ ▀▀█ ▄▄ █\n██▀▀▀█ ▄ █▀█ ▄▄ ▀▄█▄▀ █▄█▄█▄▀██▀ █▀▄ ▄▀▀██▄▄ ▀▀▄██▀▀▀▀█▄███\n█▀▀  ▄ ▄▀▄ █▄▀██▀  ▀ ▄█▀ ▄ ▄▀█▀▀▄▀▄▄█▀ █▄ ██ ▄▀███▄▄█▄ ▀███\n█▀ ▄ ▄▀▄▄▀▀▀█ ▄   ▀█▄▄▄▀ ██▄▄▄▄▄ ▄▄ ▀▀█▄▀█▀█▄▄   █▄▄ ▀▄▀▄▄█\n█▀ ▀▄▄▄▄  ▄▀▀▀▀▀ ▄▄█▄█▀██▄  ▀  ▀▀▄▀▄█▄███  ██▄▀ ▄▄▀▀  ▀▄ ██\n█▀▄ ▄▀ ▄▀▀ ▀▀  ██  ▀██ ▄▀█ ▀█▄▀ ██▄█▄▀█▄▄ ▄▀▀██▄▄ ▄▄█▄▄▄▀▀█\n█▀ ▀ ▀▄▄▀▀ ▀▄█ █▀▄ ▄ ▄▀   █▀▄▄█▄▀▄ ▄█  █ █▄▄▀▄  ▀█▄█▄▄▀██ █\n██ █ █▄▄█ ▄█▀█▀ █▄▀ █ ███▄█▀█▀ ▄▄▄▄█    ▀█▄█ ▀ ▄▄▄  █▀▀▄▄ █\n██ ▀  ▄▄▄  ▀▀▀▀█▄▀▄▄▀▀█▄▄▀█ ▄▄▄ █  █ ▀▄ ▀  ▀   ▀▀ ▄▄▄ ▀▀▀██\n█ █▀▀ █▄█   █▀█▀▄ █▄ █▀▀▄▄█ █▄█ ▄ ▀▀██▄█▄▀▀██▄    █▄█  ▀▄██\n█   ▀ ▄▄▄▄█▀▄█▄▄█▀▄ ▀█▄ ▀▀▄▄▄ ▄ ▄▀ ▀   █▄ ▀  ██▀▀ ▄ ▄ ▀█ ▀█\n█▄▀▀▀ ▀▄▀█▀██▀▄ ██ ▀ █ ▄▀ █▄▄█▀▀▀▀ ▄▄█▀▄█▄▀ ▀▀▄▄█▀ ▀▄▄▄▄█▀█\n██  ██▀▄ ▄█▀█▄ ▀█▀▄▀█▄▄  ▄ █▀  █▄▄█ █  ▄▀█▀▀█▄▄▀▄  ▄▀▀ █▄▄█\n█▀▄  █▄▄▀   ▄▄▀███ ▄▀██▀ ▄▄▀██  ▄█▄▄▄▄  ▄█ █ █ ▄▀▀█  ▄█▄▄▄█\n█▀▄▄ ▄▄▄▄█ █▄▄ ▀ ▄▀▄   ▄▄▀█  ▄▄▀ █▀█▀█▀█▄ ▄▄▀▀██▄▄ ▀ ▄▀ █▄█\n█▀▀▄▄█ ▄▄ ▀▄█▄ █▀▀█▀ █▄█ ▄▀ ▀▀███▄▄▀▀▀█▄ █▀██   ▄ █ ▀ █▄▀ █\n█ █ ▄█ ▄▀▄██▄▄█▄▄▄█▄███ ▄ ███▄▄▄██▄▀█▀██▀▄▀█▄█ █▀▀ ▀▄ ██▄▀█\n██ ▄  ▄▄▀█▀ ▀ █▀██▀▀ ▄ █▀ ▄▀▄▄█▀▀█▄█ █ █   ▀▀▀▄▄█ ███▄▀▀▀██\n█ ▀ ▀▀▄▄▄▀█▀ ▀██ █▀▀  ▀▄██▄▀  █▀▀  █▄▄ ▄█▄▄▀▄▀█▄█ █ ▄ ▄█  █\n███████▄▄  ███▄█▀▄ ▄ ▀▀█▄█  ▄▄▄  ▀ █▄▄▀ ▀█▀▄ █ █▀ ▄▄▄  ▀█▄█\n█ ▄▄▄▄▄ ██▄▄█▄ ▀▄▄▀ █▀█▀█▄▄ █▄█ ▄▀▀▀▀ █▄▀▀  ▄█  ▄ █▄█ ▀▀█▀█\n█ █   █ █▀ ▀▄▀▀ ▀██▀ ▄▄█ ▀▄ ▄       ▀██▄▄▀ ▄  ▀▀█▄▄ ▄▄ ▄ ██\n█ █▄▄▄█ █ █ █▄ █  ▀█▄▀█▄█▀▄██▀█▀▄▀▀   ▀██▀█▄▄ ▄█ ▄▀ ▀████▀█\n█▄▄▄▄▄▄▄█▄▄█▄▄▄▄▄▄▄██▄█▄████▄▄███▄██▄████▄█▄██▄██▄▄█▄█▄████\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:44:01.444Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:44:01.448Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:44:59.671Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:44:59.675Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:44:59.683Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:44:59.861Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:44:59.867Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:44:59.874Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:45:00.026Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:00.033Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:00.038Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:45:00.052Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:03.597Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:03.603Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:03.612Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:03.624Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:03.637Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:03.648Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:08.696Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:08.710Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:08.734Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:45:13.198Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:13.221Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:13.236Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:45:15.083Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄  ▀█▀▀▀█▀█ ▀█▄ ▄▄▀▀   ▄▀██▄█▄▀ ▄█ █▄ ▄ ██ ▄▄▄▄▄ █\n█ █   █ █ ▀ █▀▀███  ▄▄█▄▀  █▄▄▀▄█▄█▄▀▀ █▄█ ▀ █▀▄ ██ █   █ █\n█ █▄▄▄█ █▄ ▄  █ ▀▀   ▀██ █▀ ▄▄▄ ▄█▄█▄█ ▄ ▀ ▀▄▄▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀ █▄█▄█▄█ ▀▄█ ▀▄█ █▄█ ▀ ▀ █ ▀ ▀ ▀▄▀▄█▄█ █▄▄▄▄▄▄▄█\n█ ▄  ▀█▄▀▄▄█  █▀█▄▄▀▄▄█  ▀█ ▄    █ ▄▀▀ ▄ ▄  ▀▀▄█  ▄██ ▄ █▄█\n█ █▀▀▄ ▄█▀▄▄▄▀ ▀█  ██ ▄▄█▀█▄▄█ ▀▀▄█▄█▀████▄    ▀▀█ ▀█▄ ▄▄▄█\n█   ▄ ▀▄▄▄▄▄▀ ▄  ██▄ ▀█▄▄█▀▀▀██▀▄▀██   ▀█▀▄█▄▀▄█ █ ▀█▀▀▄ ██\n██▄ ███▄▄▀█ █▄▄  █   ▄  ▄  ▄▀▄▀▀▀▄▄▀▄▀ ██ ▀ ▄  █   ▄▀█▀ ▀▀█\n█ ▀▀▄ ▄▄  ▄▀█▄ ▄▄  ▀▄▄▄▀ ▄▀█▄▄ ▄  ▄▀▀███▀▀ ▄  ▀ ▀▄▀▄▄█ █▀▄█\n█▀▄█▀▄▄▄ ▄█ ▄▀▀▀▄▀▄██  ▄█▀  █ █▄▀▀▀▄█ ▀██▀█▄█▀▀  ▄▄  ▀█▄▄██\n██▀██▀▀▄▄ ██▀  ██ ▀███▄ ▀█▀▀▄▄▀▀▀▀▄█ █▀█    █▀█▄▄ ▀▄█▄██▀▀█\n█▀▄█▄▄█▄▀▄▀ ▄  ▀▀▄█▄ ▄▀█  █▀█▄▄▀ ▄ █▀█▀█▀▄  █▀▄ ██▀▄▄▀ ██ █\n█▄ ▄▄█ ▄██▀▄  ▄█▀▄█ █ ██▄█▀█▀▀██▄▄▄█ ▄ ▀▄▀▀▄██▄█▄▄  █▀▀▄  █\n█▀ ▀█ ▄▄▄ ▄▀██  ██▄▄▀▀█▄ ▄  ▄▄▄ █  ▀ ▀▄▀█▀   █▄█  ▄▄▄ ▀▀███\n█ ▄█▄ █▄█ ▄▀ ▀█ ▄ █▄ █▀▀ ██ █▄█  ▄ ▀▀▀████ █ ▄ ▀  █▄█ ▄▀███\n█ █ ▄▄▄▄▄  ▄▄▄   █  ▄ ▀▄▀  ▄▄    ▄▀▀█▀ ▄▀▀▄█▀▄▄██   ▄ ▄▄ ▀█\n█ ▄███▄▄ ▄ ▄███▀██▄█▀▄  ▀▀▄ █▄▀▀█▀ ▄██▄█  ▀▀ ██▄█  █▄█▄▀▄▀█\n██▀▀█ ▀▄█ █▀▀▄▀█ ▄▀▀▄█▀█▄ ▀▀   █▄▄▀   ▄█▄ ▄▄▀ ▀  ▀  ▄▄▀█▄ █\n██ ▀  █▄█▀█▀ ▄▀ ██  ▀█▀▀ ▄▄ ███  █▀█▀▄▀ █▀██▄▀▀▄▀ ▀██▄▄▄███\n█ ▄██▄█▄▄█ ▄█ █▄ ▄▀   ▄█▄▀█▄ ▄▄█ █▀▄▄▄▄█▀▀▄▀▄█▄▄████▀▀  █▄█\n███▄▀█▄▄█▄▀██▀██  ██ █ ▀▄▄▀    ██▄▄▀▀█▄█ ▀ █▄ █▀  ██ ▀▄▄█ █\n██▀▄▄█ ▄ ▄▄ ▀▄▄▄█▄█▄  █ ▄███▀█▄▄█▀▄▀▀ █▄▄▄ ▄▄▀█▄█  █ █▄▄ ▀█\n█▄▀▀█  ▄▄██▀ ▄▄▄▄▄▀▀ █ █  ▄▄▀█▄ ▀██▄▄▀ █  ▀▀▀█▄▄▀▀▀█▄█  ▄▀█\n█ ▀ ▀▀▄▄▀ ▀ █▄ ▄▄▄▄▀ ▄ ▀▄▄▄▀▀ ██ ▄▀▄ ▀█▄▄█ ██  ▄▀▄  ▄ ▀▄ ▄█\n███████▄█▀ █ ▀▀▄ ▄ ▄  ██▄██ ▄▄▄  █ █▄▄▀▀█▀▀█▀█ ██ ▄▄▄ ▄▄ ▄█\n█ ▄▄▄▄▄ ██ █▀ ▀▄▄█ █ ███▄ ▄ █▄█ ▀██▄██▀ █ ▄▄ ▀▀▀  █▄█  ▀█▀█\n█ █   █ █▀▀▄█ ▀▄▀█▄▀ ▄▀█ ▀█  ▄   ▄  ▀▀▄▄ ▀ █  ▀▀   ▄▄ ▀█ ██\n█ █▄▄▄█ █  ▀█▀ █  ▄ ▄▀███▀▄ ▄▀█▀█   ▄  █  ▀▄▀▄▄▀█▄▀ ██▄▄█▀█\n█▄▄▄▄▄▄▄█▄█▄█▄██▄▄▄█▄▄▄▄▄▄███████▄████▄██▄▄▄▄██▄████▄▄█████\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:45:15.089Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:45:15.094Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.253Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.259Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.287Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.529Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.543Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.551Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.568Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.577Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.585Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:46:13.591Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:16.971Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:16.975Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:16.979Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:16.987Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:16.996Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:17.006Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:22.373Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:22.393Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:22.417Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:46:29.510Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:29.531Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:29.538Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:46:32.295Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄▀ ▀█▄▀▀ ▀ █ █▄▀  ▄ ▄█▄▄ ▀▄█▀▄▄ ██ ▄▀ ▄ ██ ▄▄▄▄▄ █\n█ █   █ ██▀█ █  ▀▀▀▀▄▀  ▀▀ ▀█▀ ▀▀▀▄█    ▀▀    ▄▄ ██ █   █ █\n█ █▄▄▄█ ██▄▀  ▀█ ▀█ ▄▀ ▀▄ █ ▄▄▄ ▀██▀█▀ ▄▄█▀▄█▄█▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ ▀▄█ █▄█▄▀▄█▄▀▄█ ▀ █▄█ █ ▀ ▀▄█▄█▄▀ █ █ ▀▄█▄▄▄▄▄▄▄█\n█ ▄█▄ ▀▄▀▀█▄ █▀▀ ▀▄▄ ▀▀▄▄▀█ ▄▄   ▀█ ▀ ▀▀▀▄▀ ▀█▀▀▄▀▀ ███▀▀ █\n█▀▀▄▀  ▄▄▄█▀▀ ▄▀█▄▄ ▀ █▄▄ ▀█▄▀▄▄█ ▄ █▀▀█▄█▄█  ▄█ ▄▀ █ ▄▀▄▄█\n█▄ ▀▀█▀▄▄▀▄ █▄▀▀▀█  ▄▀██▀ ▄▀▀  ██▄ █▀▄▄ █▄▄▀█▄ █▀▀▀ ▀▄▄ ▀▀█\n█▄ ▄ ▄▀▄▀▄▄▀▀▀   ▀ ▄▄▄ ▀▄▀▀▀▄▀█▄█  ▀▄  ▀ █▄█▀▄ ▀▄▄▀ ▄▄  ▀▀█\n██▀ ▀ ▄▄██▄ ▄▀▄▄▄ ▀ ▀▄███ ▄▀█▄▄▀▄ █▀█▄ █▄██▀▄▄   ▀▀█▀█▄▀ ▄█\n█   ▄▄▀▄██▄█▀▀▄ █▄▀  ▄ ▄███▀▀▀▀▄███▀▀▄▀▄ ▄▀ ▄ ▀▀▄▀▄█▄█ ▀█ █\n██▄  ▄ ▄█▄▀    ▀ ▄ ▄█▀█▄▀▄▀▄█▄  ▄▀▄▀▄ ▄ ▀▄▀ █▀  ▄▀ ▀▀▄   ▄█\n█████▀▄▄█▄▀ █▀▄▀ ▄▀▄▄▄▀▀▄█▀▀▄ ▀███▀▄  ▄▀  ▄▄ ▄ ▄ ▄▀▀█ ▀▀▀ █\n█ ▄█▀██▄▀▀█▀█▀██ ▄▀▄ ▀█ ▀▀▄▄▀▄▀ ▀█▄▄▀ ▀ ▀   █▄██▀▀▄▀▀▄█▀▀▀█\n█ ▀▀  ▄▄▄ ▀▄▀█ ▄▄▀▄█▀█   ▀▀ ▄▄▄ █▄█▀▀██▄ █▀ █▄▀▀  ▄▄▄ ▀ ▀██\n█▄█ ▀ █▄█  ██ ▄█ ▀▀▀▀▄ ▀▄▀▀ █▄█ ▀▄▀▀▀▄▀█▀▀▄▀█▄ ▀  █▄█  ▄▀▀█\n█▄▄▄ ▄▄▄▄ ▄▀▀█▀ ▀█ ▀▄ ▀▄▄▄▀▄ ▄▄  ▀ ▀ █  ▀ ▄▄▄  ▄█▄▄▄▄▄▄▀█ █\n█ ▄▀ █ ▄ █ ▀▄▀▄▀▀▀▄   ▀ █▀█▀  ▀ ▀██ ▄ █▀█▄  ██  ▀ ██ ▀▄▀ ▄█\n█▀ █ ▄▀▄█▀ █ █▄    █▀█▄▄▄▀██▀ ▄ ▀█▄ ██ ██▄▄█  ▄▄▄▀  ▀▀▄▀▀ █\n█▀▄ ▄██▄  █▄ █▄██▄▀ ▄▄▀ █   █▄▄██▄▀▄▄ █▀█ █ ▀▄ █▄█▄█ ██▀ ██\n█▀ ▄▄▄ ▄▀█▄▀▀▄ ▄█ ▀▄ ▄▄▀▄ █ █ ▄▄▀▀█  ▄▄▀▄▄█▀███▄ ▀███  ▀█ █\n██▄▀▀█▄▄▀▀ ██ █ ▀▀█ ▄██▀█▀█ ▀ █▄▀▄█▀▄  ▄███ █▄▀▀▄▄▀▄▄ ▀██▄█\n█▄███▀▀▄▄█▄▀▀▄██▄█  ▀▄█▀█▄ ▄██▀▄ ▄ ▄█▄▄▄▄▄▀█▄███▄▄█▄▄█ ▀█ █\n██▄▄▀▄▄▄█  ▀ █▀ ▀▀▀ █ █▀▀▀██  ▄▄██▄▀    ▀▄▀▀▄█▀▀█▀▀█ ▀▄▀ ██\n█ ▀ ▀▀▄▄▄▀▀▄█▀▀▀█▀▀▄▄█ ▀█▄▄▀▀ █ ██▀▄▀ █ ▄▄▀ ▀ ▄  █  ▄█▄  ▄█\n███████▄█ █▀█▀▀▀██▀▄█ █▄  ▄ ▄▄▄ ▀▄ ▄▀▄▄ █▄█ ▀▄▀▄▄ ▄▄▄ ▀▀  █\n█ ▄▄▄▄▄ ██▀▀▄ ▀█▀▀█▀▀█▄█▄▀▄ █▄█ ▀▀█▀▄▀▄▀ ▄▄█ █▀ ▄ █▄█ ▀ ███\n█ █   █ █ ▄▀ ▄█▄ █▀ ▄▄█▀▄▄▄▄ ▄▄▄ ▄  ▀  ██▀█▀   ▀  ▄▄ ▄ ██▄█\n█ █▄▄▄█ █▀█▀ ██▀ ▀▄▄▀ █  █▀▀▀▄ █ ▀ ▀█▀ ▀▄▀▄▀▄▀▄▄▀▄▄ ▀▄    █\n█▄▄▄▄▄▄▄█▄██▄▄▄▄███▄███▄▄██████▄█▄▄█▄▄███▄██████▄████▄█▄███\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:46:32.302Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:46:32.307Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.549Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.554Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.560Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.763Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.769Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.780Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.820Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.825Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.834Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:47:29.851Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:33.362Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:33.367Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:33.377Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:33.384Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:33.394Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:33.400Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:38.670Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:38.687Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:38.710Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:47:43.167Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:43.172Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:43.181Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:47:44.959Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀▄▀ ▄██ ▀▀▄▄▀█▄▄▀ █▀▄▄ ▄█▄ █▄▄▀  ▄▄ █▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄▀▄█▀▄▄████▀██▄▄█████  ▄▄▄▄██▄ █▄▄███▀▄ ██ █   █ █\n█ █▄▄▄█ █ ▀  ▀▄▀██▀ ▀█ ▄▀▄  ▄▄▄  ▀▄█ ▄▄▄█▀  █▀ ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ █ █▄█ ▀ █ ▀ ▀ ▀▄█ █▄█ ▀▄█▄█ ▀▄█▄▀ █ █▄█ █▄▄▄▄▄▄▄█\n█▄ █ █▀▄ █▀▄▀██▀ ██ ▀▄▄ ▀█▄▄ ▄▄▄██ ▄▄ █▄  █▄▄███ ██▄▄▄▀▄▄██\n██▄ ▀▀▀▄███▄▄ ▀█ █▀▄▄▄  █ █ █  ▀  █▄▀█▀▄ ▀ ▀█▀▄▄███▀█▀▀█▀▄█\n█  ▀▀█ ▄▀▄ █ ▀▄█▄ █▄▀▄ ▀▄█ ▀  █▀  ▄▀▄ ▀▄▀ ██ ▄▀▀█▄▀█▄ █▄█▄█\n█▄█▄▀▄▄▄▄██▀ █▄█▀ ▀  █ ▀▀▄█▄▀▄▄▄  ▀█ █ ▄▄ ▄██ ▄▀▀ ▄▄█▄█▄ ▀█\n█ ▀▀█▄▄▄▀▀▀▄▀▀▄▄▄▄▀ █ █▀ ██   ▀▄█▄▀█ ▄█ ▄▀ ▄█▄▄▄▀█▄  █▀▀ ▀█\n█▄█▀█▀█▄▄█▄ ▄▀▀▄▄▄▄▄▄▄ ▄   ▄ ▀▀█▀▀▄▀█▄ █▀▄▀▀ ▀█▄▄██ █ ▀█▄ █\n█▄ ██▀█▄  ▀▀▄▀███ █  ██ ▄ █▀ ▄██ ██▄▀▄█▄▄▄▄████▄▀█▄█▄▄▀▀█▀█\n█▄█ ▀█▄▄▀▀▀█▄█ ▄█ █▀▀ ▄█▀▀▄█▄▄█▀  █ ▄▀▄▀█ ▀█ ▄ ▄▄▀ ▄▀█▀▄▄▄█\n██▀▀█▀▄▄  ▀▄██ █▄ ▄ ███▄▄██  ▄▄▄▄▀▀  ▄ █▀ ▄▄  █ █▄ ▄▄ ▀█ ▀█\n██▀█▀ ▄▄▄ ▀▄ ▀ ▄ ▄▀▀▄▀█▄▀▄█ ▄▄▄  ▄▄█ ▀  ▄▀██▀████ ▄▄▄ ▄▄▀▀█\n█ ▄▀  █▄█ ▄▄▀█▄ ██▄█▀▀██▄█  █▄█ █  ▄█ ▄ █▀█▄█ ▄█  █▄█ ▀ ▄ █\n█ █ █▄▄▄ ▄▄█ ▄██▄ █ █ █▄▀      ▄▄█▄██ █▄██ ▀█   ▀   ▄ ▄█  █\n█▄▄▀ █▀▄▀ ▀ ▄▄▀▀██▀ ▄▄▄ █▄ █▄█▄▄ █ ▄▄▄▄▄▄▄▄▄▄█ █▄█ ▀███████\n█▄▀ ▀▄▀▄ █▄▄█  ▄████▄█ ██▀▄▀██▀▄▄▀█▄▄▄ ██▀ ▀█ ▄▄▄ ▀▄ ▀▀█▀ █\n██ ▄█▄█▄▀ ███▄ █   ▄▀ ▄▄ ▄█   █ ▄▄█  ▄ █▀▄█▄▄ █ █▄██ ▀█▀▄ █\n█▄ ▄▀▄▄▄▀▄ █▄▄█▄ ▄ ▀█ ▄▄▀▄▀  ▄█▄█▄▀█▄▀ █▀▀▀▀▄▀▄▄▄ ▄▀▄▀ █ ▄█\n█▀ █▀█▄▄█▀▄█▄ ▄█ ▄█ ▀▀█▀ ▄ ▄██ ▀▄  ██▄▄  ▀ ▄█▄▀█▀▄█▀▄▄ ▀ ▄█\n█▄▄ ▄▄▀▄▄ ▄▀██▄▀▀▄█▄▄  ████ ██  █ █ █▀▄█ ▀▄▄▄▄▄▀▀ ▄ ▄▄██  █\n█▄▄ ▀██▄▀  ▀▀█  █▄▄▄▄█ █▄▄▀▄█▄ ▀ ▀▄▄▄ ▄█▄▄█▄ ▀▄█▄█▀ ██ ██▀█\n█ ▀ ▀▀▄▄▀  ▄██  ███ ▀█▀ ▀▄▀▄ █▄▄▄██   ▄▀█▀ ▄█▀██ ▄▀▄▄██▄▄▄█\n███████▄█▀▀ ▄ ▄▀▄▀  ▀▄█▄▄█▀ ▄▄▄  ▄█ ▄▄▀█▄ █▄  ▄ █ ▄▄▄ ▄█▀ █\n█ ▄▄▄▄▄ █▄ ▄▀ ▀▄ ██ ▄▄▄▄▄█  █▄█ █ ▀ █ ▀█▄█   ▀ ▄█ █▄█ █▄ ██\n█ █   █ █▀ █▄█▄▄█▀▀ ▀  █▀ █ ▄   █ ██▄ ▄ ▄█ ▄▀ ███▄▄▄  ██▀ █\n█ █▄▄▄█ █▀ ▀▀▄▀▄██▄▀▄▄█ █▀▀ ▄▄█▀▄▄██▄█ ▄▀▄▀██▀▀▄▄  █  ▄▄█▄█\n█▄▄▄▄▄▄▄█▄████▄██▄█▄▄█▄▄██▄█▄▄▄▄▄▄███▄█▄▄▄▄▄▄█▄▄█▄▄███▄▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:47:44.973Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:47:44.984Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.201Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.205Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.212Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.439Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.447Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.456Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.579Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.583Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.593Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:48:43.602Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:47.120Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:47.124Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:47.128Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:47.133Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:47.137Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:47.142Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:52.454Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:52.478Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:52.507Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:48:56.804Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:56.823Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:56.841Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:48:58.769Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▄█▀▀▄▄▀▀▀ ▄▀▄█ ▄▀▀▄▄█▄▀▄█▀█▀▀▀█▄  ▄▀▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀ ▀█▄ █▄█ ▀██▄▄ ▀▀█▄▄▄█▀█▀▀▀ ▀▀█▄▀█▀▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀███▄▄█▄█ ▀▄ █▄▀ █ ▄▄▄ █▄█▀  ▄▀▀▀▀▄▄▀▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ █ ▀▄█▄▀ █ █ █ █▄█ ▀▄█ ▀▄█▄█▄▀▄█ ▀▄▀▄█▄▄▄▄▄▄▄█\n█ ▄▄  █▄▄▄█▀▄ ▄▀▄█▄ ▀█▄▀   ▄▄▄  ▀█▀█▀ ▀▄██▀  █▄▄ ▀ █ ▀▄▀ ▀█\n█▀▀▀█▀▄▄▀█▄█ ▀▄ ▄▄▀ ▀▀▀ █▀█▄▄ ▀███ ▄▄  █▄▀▀▀█▄▄██▄▄█▀▀▀▀ ██\n█▀ ▄ ▀▄▄▀▄▀▀█▄▄▄▄▄▀ ▀█▀▄ ▀  ▀▀▀█ ███   ▄█▀ ▀▄▀█▄▄▀▀▄▀█▀ ▀██\n█▄▀█▀▀█▄▀▀█ █▀ ▀▀▀▄█▀█ ▀██▀▄▀▄█ ▀▀ ▄▄▄ ██▀   ▀███▀█▀▀█  ▄▀█\n█▄ ▄▀▄▀▄▀  █▄ ▀▀▄█▄ ▀█▀█▀▀▀▄▀ ▀▀█▀▀▄▄ ▀▄▄█   ▀█▄▄▀▀▄███▀▄▀█\n█▀  █▄ ▄████▀█▀█ ▄▀ █▄ ▄▄█ ██ ███▀█▄ ▄▀▄▀▀   ▀▄ ▀ ▀███ ▀ ██\n█ ▄█ ▀▀▄▄ ▀█▄█▀█▄▀▄ ▄███▀▄▀ ▀█ ▀▄▀██▄▄▀█▀█▀▀██▄█▄▀ ▄██▄▀▀ █\n█▀▀▄ ▄▀▄▀ ▄▀ ▄▀█▄ ▄▀▄█ █▀█▀   ████▄  ▀▄ █ ▄████ █ ▀▄▀▀█▀▀▀█\n█▄█▄█▀▄▄▀▀  █ █▀▀▄▄ █▄██ ▀▀█▀█  ▄  █ ▄▀▄ █ ▀▄▀█▄ ▀▀▄█▀▄▀  █\n█ ▀▄▄ ▄▄▄ ▄▄▄█▄█▀▀▄█ ▀▄█▀ ▄ ▄▄▄  ▄▀▄  ██▀▄▄▀▀███▄ ▄▄▄ █ ▄▀█\n█▄ █  █▄█ ▀ ▄█▀▀██▄▀▀▄▄█  ▀ █▄█ ▄██▄ ▄ ▄██   ▀█▄█ █▄█ ▄▀▀▀█\n█▄█  ▄▄▄▄▄▀█▄█▄██▄▀█ ▄▀▀█ █     ███▀█▄▀ ▄▄█▀██▄▀█▄  ▄ ▀▀▄▀█\n██  ▄ ▀▄▀█ █ ▄▄▄▄▄  ▄▄▀█▀ ▄▀▄▄▀ ▄█▀█ ▄▀█▀▀  ▄▀▄▄▀▄█▄███▀▄▄█\n██ ▄▀ ▄▄ █▀▄███▀▄█▄ ▀▄ █ ▀ ▀▀ ▀ █▄▄▄▄▄▀▄▀▀  ▀ ▄█▀▄▀▀     ██\n█▄ █▀█ ▄▄ ▄▄▄▀▄▄▀█▄ ▀▀▀▀▄ ▄█▀█ ▄▄█▄█  ▀███  ▄▀▄██▄ ▀█▄██▄▀█\n█   ██▀▄▄█ ▄▀█ ▀▀███▀ █▀▄ ▄ ▀█▄  █ ▄▄██▀  █▀▄█ █ ▀▀▀ ▄▀ ▄▄█\n█▄█ ▀ ▄▄▄▀▀▄ █▄▀█▄▀▄▄▄▀█ ▀█▀▀▄ ▄▀█▀█▄  ███  ▄█ █▀ ▀▄▄▄▄ ▀██\n██▄▄▄ ▀▄█ ▀█▄█ ▄██▀ ▄▀▀   █▀▄▄▄ ▀▀▄█▄ ▀ ▄ ▀█▄▄ ▄ ▄▀▀▄▄ ▀▄██\n██▄▄  ▄▄▀ █▀█  ▀█▄▀ ▄▄▀▄▄▀▄▄█▄█▄▄▀█▄ ▄ ▄▄█ ▀ █▄▄▀▀▄█ ▄███ █\n█ ▀ ▀▀▄▄▄▀   ▄ ▄▀▄▀▄█▄▀▄▄ █ ▀   █ █▀  ▄▄▄ █▀▀█ ▄█▄▀▀▄█▄▀ ▀█\n███████▄█▀  ▄▄ ▄▀▄ ▄▀▄▀▀ ▀  ▄▄▄ ▄█▄█  █▄▄▀ ▀ █▄▄▀ ▄▄▄ ▄▀▀▀█\n█ ▄▄▄▄▄ █▄▀   ▄  █▄▀ █▄▀█▀▄ █▄█  ▀ ▄█▄  █ █▀ ▀▀▀▀ █▄█ ▄▀█▀█\n█ █   █ █ ▀▄▀▄▄█▄▀▄ ▄█▀█▀▄▀  ▄ ▄▀▀█▄▄ ▄█▄▀▄▀██▄██ ▄▄ ▄▄▀▄██\n█ █▄▄▄█ █ █   ▀▄▄  ▄▄█▄█▀█▄█▀▀▀█▄██▀ ▄▄ ▄▄▄█▄▀▄▀   ▄█▀▀▀███\n█▄▄▄▄▄▄▄█▄▄███▄▄█▄▄▄████▄████▄█▄▄▄▄▄▄▄█▄██▄█▄██▄█▄█▄████▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:48:58.791Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:48:58.804Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:49:56.854Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:49:56.858Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:49:56.865Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:49:57.034Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:49:57.041Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:49:57.049Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:49:57.193Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:49:57.197Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:49:57.208Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:49:57.217Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:00.663Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:00.668Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:00.676Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:00.683Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:00.691Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:00.702Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:05.938Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:05.955Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:05.977Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:50:10.454Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:10.459Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:10.469Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:50:12.319Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄▀▀▄█▄▀█▀▄▀ █ █▄▄ █▀▄  █▄▀█▄▀▄█▄▄  ▄▄ ▄ ██ ▄▄▄▄▄ █\n█ █   █ █ ▄███ ▄█▄▀ ▄███   ██▄█▀ █▀█▀▀  █▄▀  █▀▄ ██ █   █ █\n█ █▄▄▄█ █▄▄█ ▄▀█▀▀ █ ▀▀  █▀ ▄▄▄   ▄█▀▄▄▄  ██▄▄▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ █ █▄█▄█ ▀▄▀▄▀▄█ █▄█ ▀ ▀ █ ▀ █ ▀ ▀▄█ █ █▄▄▄▄▄▄▄█\n█ ▄ ▄▀▀▄▀ ███████▄ █ █▄ ▀▀█▄     █ ▄█▀ █ ▄▀▀▄▀▄█▀▀ █▀▄▄ █▄█\n█▀█▄ █▄▄ █ ██▄ ▀▄█ ██ ▄▄▀█▄█▄▄▀▀█▄▀▄ ▀█▄▄█ ▀▀▄█▀▀▄█  █ ▄  █\n███▄ █ ▄▀█▀▄█▀▄ ▀▄█▄▀▀█▄▄▄█ ▀▀█▀▄▀██  █▀▄██▄ ▀██ █▄  ▀█▄█▀█\n█▄█▄▀ █▄█ ▀▀ ██▀ ▀█▀ ▀█▀▄█▄▄▀▄██ ▄ ▀█▀█▄ ▀  ██ ██▄█  ▀█ █▀█\n███▄▀▀▀▄ █ ▀█▄▀ ▀ ▀█▄▄▄▀ █ ▀▄▄██ ▄▄▀▀▀▄▄ ▀▄▄▄▄   █ █▄██▄▄ █\n██  ▄█▀▄▀▀█ ▄█▀▀█▀▄▄▄█ █ █▀ ▀▄ ▀█ ▀ ▄ █▄ ▄ ▀▀ ▀ ▄ ▄▄▄█▄▄▀▀█\n██▄█▀▄ ▄█ █▄▄▄ ██  ████ ▀█  ▄ ▀▀▀██▄█▀ ▄    █▀▀▄▄  █▄▄▄█ ▀█\n█▀ ▄ ▀█▄▄▀█▀▀█ ▄▀▄▀█ ▄ ▀  █▀▄▄ █▀▄▀▄  ▀█▀▄█▀▄▀▄▄█▀▀ █ ▄▄█ █\n█▀█▄ ▀ ▄█▀▀▄██▀██▄▄ █ ██▄██▀▀█▄▄▄▄▄█▀▄█ █▀▄█▀██▄ █▀ ██ █▄ █\n█ █   ▄▄▄   ▄ ▀█▄▀▄▄▀▀█▄██  ▄▄▄ ▀  █ ▄█   █▀██▄█▄ ▄▄▄ ▀▀▀██\n█▄▀▀  █▄█ █▀█ ▄█▀▀█▄██▀▀█▄█ █▄█ █   █▀▄▄ ▀ █ ▄  ▄ █▄█ ▀█▄ █\n███  ▄▄▄  ██▄███▄▀█▄█   ▄▄▀  ▄ ▄▄▀▀▀▄ ▀▄▀▀██▀▄▄▄▀   ▄  █▄▀█\n█▀ █  ▄▄██  ▄ ▀ █▄▄██▄ ▄▀▀▄▀▄▄▀▀▀█ ▄██ ▄▄▄ ▀█████▄▀███▄▄ ▀█\n█▀█▀ █▀▄██▄▄█▀██▀▄ ▄   █▀ ███▀ ██▄█  ▄█▀█ ▄   █ █▀ ▄   ▄█ █\n█▄  █  ▄ ▄██ ▀▀███▄ ▀█ ▀ ▄█ ██ ▄▄█ ▄ ▄▀ ██▄▄▄█▀█▀▀█▀█▄█▄███\n█▀▀▄█▄▄▄▄▀▄▀▀▀ ▄ ▄█▄    ▄▀█▀ ▄▄█▀█ ▄█  ▄▄▄▄▀█ ▀██▄█▀▀▀▀▀█▄█\n█▀▄▀▄▄█▄▀▀ ▄▀▄▄█▀▀█▀ █▀█▀█▀ ▀▀▄▀█▄▄▀████▄█▀▄  ▀▀▄▄██  █▄█ █\n█▄▄▀▄██▄█▄█▀▀▄█▀ ▄█▄▄▀█ █▀███▀▄ ▀▀▄█▄ ██▄█ ▀▀▄ ▀▄▀▀█▀█▄▄▀██\n██▀▄▀█ ▄▀ ▀ █ ▄▀██▀▀ █ █  █ ██ ▄███▄▄▀ ▄▄▄   ▀█▄████ ██▀▀▄█\n█ ▀ ▀▀▄▄▀▀█▄  ▄▄  ▄▄▀███▄▀▀██▀█▀▀█ ▄██▄  █▀▀██▀▀ ▀▄▄█▄▀█▄ █\n███████▄▄  ▄███▄ ▄█  ▀ ▀██▄ ▄▄▄ ▄▀ █▄ ▀▀ ██▄▄▀██▀ ▄▄▄ ▄ ▄▄█\n█ ▄▄▄▄▄ ███▀▄█▄▀ ██▀▀█▀ █ ▄ █▄█  ▄▄█▀█▄ █▀▀ ▄▀ █  █▄█ █▀███\n█ █   █ █▀▀  ▄ ▄▀██▀ ▄ ▀ ▀▄      ▄  ▀█▀▄▀▀▀█ ▄     ▄ ▄█▄▀██\n█ █▄▄▄█ █ ▀▀ ▄█▀  ██▄▀ ▀█▀██▀▀█▀█ ▀▀ ▄▄▄ ▄ ██▄▄ ▄ ▀ ▀▀▄██▀█\n█▄▄▄▄▄▄▄█▄██▄▄█▄██▄███▄▄████▄████▄██▄█▄█▄▄█▄███▄▄█▄▄▄█▄▄███\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:50:12.325Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:50:12.331Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.485Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.493Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.517Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.697Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.704Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.712Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.862Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.867Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.874Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:51:10.881Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:14.560Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:14.565Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:14.570Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:14.581Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:14.589Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:14.611Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:19.816Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:19.852Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:19.881Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:51:26.230Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:26.239Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:26.269Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:51:28.816Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄▄ █ ▀▀█▀█▄▄▀▄▀ ▄▄▀   ▄▀ █▀   ▀▄▀▄▄▀▄ ▄ ██ ▄▄▄▄▄ █\n█ █   █ █ ▀▀▀ ▀██▄ ▀▄██▄ ▀ ██▄▀█▀██ ▀▀▀█▄████▄▀▄ ██ █   █ █\n█ █▄▄▄█ █▄▄█▀▀██▀▀▄  ▀ █ █▀ ▄▄▄ ▄███ ▄▄ ▀ ██▄▄▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█▄▀ ▀ █▄▀▄▀▄▀▄▀▄█ █▄█ ▀ ▀ █ ▀ █▄█▄▀▄▀▄█ █▄▄▄▄▄▄▄█\n█▄  ▄▀█▄█▄ ▀ ▀█▀▄█▀█ █ ▄▀ █▄     █ ▄▀▀▀█▄ ▀ ▀█▄█ ▀▄██▄▄ █ █\n█▀ ▄█▀█▄█  ▀▀▄ ▀ █ ██ ▄▄▀███▀█▀▀█▄▀▄▄▀▀█ █ ▄▀▄▄    ██  ▄▄▄█\n█  █▀▄ ▄▄▀█▄▀ ▄ █▄█▄ ▀█▄ █▀████▀ █▀█ ▄▀ ▄▀▄▄ ▀▄█ █  █▀▀  ▄█\n█▄▄█ █▀▄▀▀▀▀█▀███▄   ▄ █▄▄▄▄▀█▀▀█▄█▄▀█▀▄▄   ██▀▀ ▀▄█▄▄ ▀ ██\n█▄ ██  ▄ ▄▀▀▄▀▄▄ ▀██▄▄▄▀ ▄▄▀▄▄ █  ▄ █████▀▀▄▄ ▀▀▀███▄████▄█\n█   ▄▄▀▄▄▄▀ ▄▀▀▀ █▄▄▄ ▄█ █▀ █▄▄▄█▄▀  ▄▀▀█ ▀▄ ▀  ▀▀▀▄ ▀▄█ ▀█\n█▀▀██▀ ▄▀█▄███ ██ ▄███  ▀█  ▄▄▄▀▀▀▄█ ▀ █ ▄ ▀▀██▄▄ ██ ▄▄▄▀▀█\n█▀ ▀ ▄█▄▀██ ██ ▀▀▄██ ▄▄▄  █▀▀▄█▄▀▄▀▄▄▄▀▀▀█▀ ███ ██▄█▀▄███ █\n█ ▄▄▀██▄ ▄█▀▀▀█▄ █▄▄█ ██▄█▀▀ █▄█▄▄▄█ ▄▀  █▄█▄▀▀███▀  █ █▄▄█\n█▄ ▀▄ ▄▄▄ ▀▄  █   ▄▄▀▀█▄▀▀  ▄▄▄ █  █▀ ██▀  ▀▀█  █ ▄▄▄ ▀▀▀▀█\n█▄▀ ▀ █▄█ █▀█▄█ ▀ █▄ █▀▀ ▄█ █▄█    ▀█▀██ ▀▄▄▄▄  █ █▄█ ▄   █\n█▄▀▄  ▄▄▄ ▄▄▄▀▄▄▄▀▄  █▄ ▀ █▄▄▄  ▄ ▀ █▄▄▄█ ▄▀███▄▀  ▄ ▄▀█▄▀█\n█▀█▀ ▀▄▄▀▄█▀███ ██▀█ ▄  ▀ ▄▀▄█▀▀█▀ ▄ █▀▄▄▄▀ █▀▄██▄▀ █▄  ▄▄█\n█▄▀ ▄▀ ▄▀█▀▀▀▄▄▀ ▄█▀▄█▀█ ▄▀▀▄  █▄ █▄█▀ █  ▄▀▄▀▄█▀▀█ ▄  ▄▄▄█\n███  ▄▄▄█▄█▄██ ▄██▄ ▀█▀█ ▄▄ ██  █▀█▄▄ ▄ █▀▄▄▄█▀█▀  ▀█▄█▄▄██\n██ ██▀▀▄▄█▀▀ ▄▄  ▄█▄  ██▄▀█▄ ▄▄▀▀▄ █▄▄█▄█▀███▄▀▄▄▄▀█▀▀  █▄█\n█▄▀▀▄▄ ▄▀▀▄█▄   ▀ ▀█ █▄▀▀█▀   ▀██▄▄▀▀▀▄▄▀█ █ ▄▀ ▄█▀█ ▀█ █ █\n█▀ ███▄▄▀▄▀ ▄▄█   █▄███ █ ██ █ ▄██▄█▄▀▀ ▄█▀▄▄▀ █▄ ▄█▄ ▄▄▄██\n█▀▀█ ▀▀▄▄██▀▀▄ ▄█▄▀▀ ▄ █ ▀▄ █▄█▄██▄█ ▀▄█  ▀ ▀▀▀▄▀▄▄ ███▀▄▄█\n█ ▀ ▀▀▄▄█ ▄▄▄▄ █ ▀▀█ ▀ ▄▄  █▀▀▀▀  ▀▄█▀▄█▄▀██ █▄▄▀▀▀ █  █  █\n███████▄▄▀▄███ █▄▄ ▄ ▀ ▀ █  ▄▄▄ ▄▀ █▄ █ ▀▀▀█▄█▀█▀ ▄▄▄ ▀█▀▄█\n█ ▄▄▄▄▄ ██▀▀█▄ ▄█▀▄█ ▄▀▀ ▀█ █▄█ ██▀▀███▄█▀▀▄▄▄█▀  █▄█  ▀ ▀█\n█ █   █ █▀▀█▀  ▄▀█▀▀ ▄██ ▀ ▄▄▄  ▄ ▀▀███▄ █▀█ ▄▄ ▄ ▄▄ ▄██▀██\n█ █▄▄▄█ █ ██▄  █   ▄▄▀▄▄█▀▄ █▀█▀█  ▀▀ ▀█▄█▀▀██▄▄ ▄  ▀█▄██▀█\n█▄▄▄▄▄▄▄█▄██▄█▄██▄▄██▄█▄█▄██▄▄███▄████▄█▄▄▄▄███████▄▄▄▄▄███\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:51:28.831Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:51:28.837Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.273Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.278Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.287Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.480Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.487Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.497Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.634Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.638Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.647Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:52:26.662Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:30.162Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:30.168Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:30.173Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:30.179Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:30.187Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:30.195Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:35.514Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:35.536Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:35.560Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:52:39.905Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:39.911Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:39.932Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:52:41.823Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ ██▀▄▄█▀▀▄▄  ▀▄ █▀▄▄ █▄█▄▀▄█ ▀▄▀▄█ ▀▄▄  ▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀ █▄   ▀▀▀ ▄ ▀ ▀▀▀▀  █ ▄ ▀▀ ▀█▄   ▄▀▀▄▄ ██ █   █ █\n█ █▄▄▄█ █▄█ ▄▄▄  █▀ ▄   ▀ █ ▄▄▄ ██ ▀██▄▀█  ▄▀▄█▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄█▄▀▄█▄█ ▀ ▀ █ █ █▄█ ▀▄▀ ▀▄▀ █▄█▄█ ▀▄▀▄█▄▄▄▄▄▄▄█\n█ ▄█▀█▄▄▄▀█  ▀▄█ ▀ ▄▀▀▀▀▀▀▄▄    ▀▀█▀▀   ██  ▄▀ ▀  ▀▀▀ ▄▀███\n█▀▄  █▀▄  █ ▄ ▄ ▄█▀ ▀▀█ █▄▀█▄▀▀█▀▀▄▄▀██▀ ▀███▀██▄ ▄▀▄█▀▀ ▀█\n█▄   ▄▄▄█▄█ ▀███▄█  ▀▄██ ▀▀█▀  █▄▄▀█ ▄ ▄█ ▄ █▄ █▀▀▀█▀▄▄▄▀ █\n█ █ ▀ ▄▄▀ ▀▀█▀▀▄▀  █▄▀▄▄▀▄█ ▄▀█▄█▄▄▄████  █▀ ▀▀ █▀███▄█  ▀█\n██▄▀▀▀▀▄▀▄▄▄█  ▀▀█ ▄▀▄▀▀▀▀▄ █    ██▄ ▄▀▄▀▀  ▄█ █▀  ▄▄█▀▀▀██\n█▄▄▄▀  ▄▀▀█▄██ ▄▀▄▄█▄▀▀█▄ ▀█▀▀▄█▀ ▀█ █ ▀█  ▀ ▀▀ ▀▀  ▄  ▀▀ █\n█  ▄   ▄█▀ ▀ █▀▀ █ ▄▄▀▀█▀▄▀▄█▀▀ █▀▄   █▀▄█▀▀█▀ ▀▄▀█▀█▀ █▀▄█\n█▄▀  ▄█▄█▄▄█  ▀█  █ ▄███▀█▀ █▄▄ ▄█▀ ▄ ▄▄ ▄▄▀ ▀▄█ ▀▄▄▀   ▀▀█\n██▄ ██▀▄▀ ▀ █ ▀▀▀██▄▄█▀ ▀▀ ▄▀▄█ █▀▄▄█ ██▀ ▀▀   █▀ ▀██ █ ▀██\n██▄█▀ ▄▄▄ ▀▀█ ▄▄█▀▄█ █ ▀  █ ▄▄▄ ▄ █▄█▀ ▄ ▀▄▄▀█▀▀▀ ▄▄▄ ▀  ▀█\n█▀█▀  █▄█ ▄▄ █   ▄▄▀▀█ █▀ █ █▄█ ▄▀ ▄ ▄ █▀█ ▀▀█▀▄  █▄█ ██ ▀█\n█▀▀    ▄  █▀▀██ ▄█  ▄ ▀ ▄▀█ ▄▄ ▄▀▀ ▀▄█    ▀ ▀█▄█▀ ▄▄▄ ▀▀ ▄█\n█▀  ▀█▄▄▀▄█ ▀▀ ▄▀▀▄  ▀▀▀ ▀▄ █ ▀  ██▀ ▄▄  █ ▀ ▀  ▀ █▄ ▀▀ ███\n█▄▀███▄▄ ▄▀█▀▀▄▄▄▄▀▀█▀ ██▀ ▄▄▀▀ ▄▀▄▄▄██ ▀▄█ ▀ ▀ ██ █▄ ▀▀▄██\n█▀▀▄▀▄█▄▄▄ █ ▀▀██▄█▄  █ █ ▄▄█▄▀▄▀ ▀██ █▄█     ▀█    ██▄▄█ █\n██▀ █▄▄▄█▀█▄▀██ █▀█▄▀▄ █▄ █ █▀▄  ▀▄ ▄▀▀  ▀   ▄█▀ █▄▀▀▀▀ ▄ █\n█ █▀▀ ▀▄▀▀   █▄▄▀▄ ▄▄▄██  █▀ ▄▄▄▀███▄ ██▀█▀ █▀▄▄██▄▀ █▀▄███\n█▀ ▀ ██▄█ ▀ ▄▄▀█▄█  ▀▄█▀▀▄▄ █▀█▄▄▄▄ █▄██ ▄▄ ▄▄ █▄▄█  █▀ █▄█\n█▄▄█▀▀▀▄  █▀██ ▀█ ▀ ▀▀█  ▀▄█▀ ▀▄ █▀▀  ▀ █▀▀ ▄█▀▀█▄▀█  ██ ██\n█ ▀ ▀▀▄▄▀ ▄ ███▀▀ ▀▄█▀▀██▀ ▄█▄▄ ▀   ▄█ ▀▄▄   █▀███▀▀▄▄▀▀▄██\n███████▄▄▀ █ █ ▄ █▀  ██ ▀▀▀ ▄▄▄  ▄ ▄▀▄▀█▀▄  █▄▀▄  ▄▄▄    ██\n█ ▄▄▄▄▄ █ ▄▀ ▀▄▄▀▀▀▄▄▀█ █▀▄ █▄█ ▀███▄▄ ▄▄▀▄▄███ █ █▄█ ▀  ██\n█ █   █ ██▀ ██   ▀▄ ▄██▀▀▄ ▄   ▄▄▀ █▄  ▄█▀  █▀ ▄█  ▄  ▄▀███\n█ █▄▄▄█ █▀▄ █▄█▄ ▀▄██▄█▄ █ ▄▀  ██▄   ▄▄ ▄█▀█▄██ █ ▀▄▀ ▀▀▄▄█\n█▄▄▄▄▄▄▄█▄██▄█▄▄▄█▄▄▄█████▄████▄▄▄▄▄▄▄████▄▄▄██▄▄▄▄██▄▄▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:52:41.832Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:52:41.845Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:53:39.965Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:39.985Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:39.998Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:53:40.397Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:40.405Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:40.414Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:53:40.425Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:40.433Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:40.447Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:53:40.468Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:45.136Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:45.141Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:45.147Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:45.153Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:45.159Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:45.166Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:50.954Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:50.990Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:51.016Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:53:55.483Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:55.501Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:55.521Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:53:57.372Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀    ████▄ ▄█▄▄  ▄▀▄█▄▄▀█▀▀▀▀▀▀  ▄▄█▀▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀█ █▄ ▄▄▄ ▀▄█▄█▀▀▀█▄▄ ▄ █▄▄▀ ▀▀▀▄▄▀ ▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▄▄▀██▄▄█▄ ▄ ▀▀▀ █ ▄▄▄ ▄███▄ ▄▀█▄▄ █▄▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ █▄▀▄▀ ▀ █ █ █ █▄█ ▀▄█ ▀▄█ ▀▄█▄█▄█▄▀▄█▄▄▄▄▄▄▄█\n█▄  ▄▄█▄  ▀▄██▄█▀▄▄ ▀▄▀█▀▀▄  ▄  ▀█▀█▀ ▀█▀▀▄  ▀██   █ ▀▄▀ ██\n█ █ ▄ ▀▄▀  █▀▀▄ ██▀ ▀▀▀ ▄  █▀▀▀██▀    █▀ █ ▀█▀ █ ▀█▀ ▄▀▀▄▀█\n█ ▄▀█▄ ▄▄▄▄▀▀▀▄▄▀▄▀ ▄▄▀▄ ▀▀▀▀▀▀█ █▄▄ ▄ ██▀▀ ▄▀▄▄▀ ▀▄█▀█  ▄█\n██▄▄█▀█▄ █▄▄▀█▀ █▄▀▄█▄█ ▀  ▄▀██  ▀  ▀█▄ ▀█▄█  ██  ▀█ █▀  ██\n█▄▄▀▄▄ ▄▀ ██▀▀▄▀▄█▄▄ ▄▄▀▀▀▄▄▀  ▀█▀▀▄▀▄ █▀█▀ ▄▀▄▄▀▀▀▄███▀ ██\n█▀▄ ▄▄ ▄▄██▄▄ ▀█▄██▄▀▀ ▄ ▀▀▄▀  ▀▄ █▄█▀ █▄▄██▀▀█▀▀  █▄█▀▀ ▀█\n█▄▀▄▀▀▄▄ ▀ █▀▄▀█▄▀▄ ▄█▀█▀▄▀ █▀ ▀ ▀██ ▄▀▄█▀ ▀▄▀▄█▄▀▄█▀▀▀▀▀▀█\n█▀▀▀█ █▄█▀ ▀█▄▄▀▄ ██▄█▄▀▀█▀   ▀ ▄██ ▄ █ ▄▀   ██▀▄▄▄ █▀ ▀▀▀█\n█▀▀ ▄▄ ▄▀█▀▀▀▀███▄▀▄█▄██▀▀▀▀▀▀ ▀▄  █▄▄ ▄▀█ ▀ ▀██▀▀▀▄▀▀█▀▄ █\n█▄▄▄▀ ▄▄▄  ▀ █▀  █▄█ ▀▄█ █  ▄▄▄   ▀ ▄█▀▄ ▄██▄█▄▄  ▄▄▄ ▀ ▄██\n██ ▄  █▄█ ▄ ▀██▄▀▄▄▀▄▄▄█▄▀▀ █▄█ ▀█ █ ▄ ▄▀█▀▀ ▀▄██ █▄█ ▀▄ ██\n█▀▀▀█▄ ▄   ▀  ▀▀▀ ▀   ▄▀ ▀█▄▄▄▄▄█▀█ ██▄▀ ▀▄▀███▄ ▄  ▄▄  ▄██\n█▄█▀ ▄█▄▄ ▀█▀ ▄▄▄▄ ▄▀▄▀█  █▄▄▄▀  █▀█▄ ▀▄▀▀ ▀▄▀▄▄▀██▀▄█▄▄█▄█\n█▀▄█ █▄▄  ▄█▄▄▄ █▀ ▀█▀▄▀▄▄ ▀█▄▀ ▀  ▄▀▄  █▀▀  ▀▄█▀█▄▀ ▀  ▄▀█\n█ ▄▄▀██▄▄ ▄ █ ▄█▀█▄ ▀▀▀▀▄ ▄█▀█ ▄██▀█ ▄ ▄ █▀▀▄▀▄▄▀█▄▀██ ▄█▀█\n█ ▀█▀▄▀▄▀▀█▀ ▀▀▀▀█▄▄▀ ▀▀▄ ▄▀▀█ ▄▀█▀▄▄  ▄▄██▀▄ ▀▄█▄▄▀█▄▀▀▄▄█\n█▀▄▀▄ ▄▄  ▀▀▄▄█ ██  ▄▄▄▀█▀█▀ ▄ █▀█▀█▄ ▀▄██   ▀▄▄▀▄▀▀▄▄▀▀▀██\n██▀▀█▀▀▄▄ ▀ █ ▀▀██▀ ▀█▀ ▀▀█▀ ▀█▄▀▀ ▀██▄▀█ ▀▀█▄ █▄▄▄▀▄▀▀ ▄██\n█▀▄█▄█▄▄█▄█▄▄▄▀ ▄▄▀ ▀█▀▄▀ ▄▀██ ▀▀█▄█▄▄███▀▀▀▄█▄███▄███▄▀▄▀█\n█ ▀ ▀▀▄▄▄█▀ ▄▄█ ▄▄▀ █▀▄▀▀██ █ ▄▄ ▀▄  ▄ ▄███▀█▀▀▀▄▄▄▀▀▄ ▀▄▀█\n███████▄█▀▀▄▄██▀▄█ ▄ ███▀ ▄ ▄▄▄ ▄▀▄█▄  ▄█▀▀▀ █▄▄▀ ▄▄▄ ▀ ▀██\n█ ▄▄▄▄▄ █▄▄█▀█▀ █▄ ▄ █▄█ ▀█ █▄█ ▀█▀   ▄▄▄▀▄██  ▀▄ █▄█ ▀ ▄██\n█ █   █ █ ██▄▀▀▀▄▀▀▄▄███▀▄▄▄▄▄ ▄▄▀▀█▄  ▄███ ▄█ ██▄ ▄▄ ▀ ▄▄█\n█ █▄▄▄█ █  ▄▄▀▄▀▄ ▀▄▄█ █▀█▀▄█▀▀█▄▄█  ▄▄█ ▀▄▀█▄▀  ▄ █▀▀  ███\n█▄▄▄▄▄▄▄█▄██▄██▄▄▄▄▄▄▄▄█▄▄▄████▄▄▄▄▄▄▄▄███▄▄▄█▄████▄▄▄▄▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:53:57.385Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:53:57.398Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.526Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.531Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.539Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.722Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.731Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.739Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.894Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.899Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.910Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:54:55.922Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:59.462Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:59.468Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:59.477Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:59.486Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:59.495Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:54:59.505Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:55:04.783Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:55:04.813Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:55:04.837Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:55:09.307Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:55:09.319Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:55:09.351Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:55:11.107Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▄▄▀ █ ▀▀█▄ ▀   ▄ █▄▄▄ ▄▀▄▀▄▄▄█▀▀█▄█▄▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▀█   ███ ▀▄█▄▄▀▀▀██▄▀ ▀▄▄▄  █ ███▀▀█ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▄▀▄█▄▀▄██ ▄ ▀▀▀ █ ▄▄▄ ▄▀█▀   █▀▀█▄▄ ▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀ ▀ █▄▀▄█▄▀ ▀ █ █ █▄█ ▀▄█ ▀▄█▄▀ █ █ ▀ ▀▄█▄▄▄▄▄▄▄█\n█  ▄ ▄▀▄▄ █▀ ▀▀▀█▄▄ ▀█▀▀  ▄▄    ▀█▀█▀▄ ▄▀█▄▀ ▀▄█ ▀ █▄█▄▀▄▀█\n█▀█ █ █▄▄▄▄█▄▀▄ ▄▀▀ ▀▀▀ ▀ ▄██ ▀▄▀▀   ▄ ██  █▀▀█▄▄▀▄█▄ ▀▀█▀█\n██▄▄▄█ ▄▄█▀▄▄█▄▄▀▄▀ ▀▄▀▄▀  ▄█▀▀█ ▀▄██▄▀▄█▀  ▄▀ ▄▀▀ ▄▄█▀ █ █\n█ █ ███▄██▀ █▄ ▀ ▀▀▀ █ ▀   ▄▀█▀▄▀ ▀█▄▄▀ █ █▄█  ▄█▄▀▄█▀▄ ▄▀█\n█▄ ███▄▄▄▄▀  █▄▀██ ▄ █▀▀█▀▄▀▀ █▀██ █  ▀▄██ ▀ ███▀▀ █▀▀▄█▄██\n██▀ █▄█▄▀▄▄█▀▀▀█ ▀▄█▀▄███ ▀█▀▄▄██▀█▄ ▄█▀█▀ ██ █▀▀ █ █▀▀  ▀█\n██▀ ▀▀▀▄▀▄▀▄▄ ▀█▄▀▄▄▄██▀▀▄  ▀▀ ▀ █▄█▀  █▄█ ▀ ▀▄█▄▀▀█ █▄█ ▀█\n█ ▄▄▀▄ ▄▄▀▀▀▄  ▀▄ ▀█▄█▄ ▀█▀  ▀▄▀▄█▄▀▄▄▄  ▄█ ██▄█▄▄█▀   ▀▀▀█\n██▀▀█▀▄▄▀█▀▄ ▄█▀▄█  █▄██▀▀██▀█  ▄  █▄  ██▀  ▄█ ▄▀▀ ██▀█▀▄ █\n█ ▀   ▄▄▄ ▀██▄▄▀ ▄▄█ ▀▄███▀ ▄▄▄ ▄ █▄▄█▄ ▀ █ ▀▄█   ▄▄▄ ▀ ▄▀█\n██▄▀▀ █▄█ ▄█▀█▄▄█▄▄▀▀▄▄█ ▀▀ █▄█ ▄█▄█▄▄▀▄▄█ ▀ ██▄  █▄█ ██▀ █\n██▀██ ▄▄ ▄ ▄ ▄██▄█  ▀█▄▄▄    ▄▄  ▄▄ ▀▀▀▀▄ ▄ ▀▀ ▀█▄  ▄   █▀█\n█▄█▀▀▀ ▄█▄█  ███▄▄ ▄ ██▀▄▀█▀▀▄▀  █▀█  ███▀▀▀██ ▄▀▄▄███▄▄█▄█\n█▄█▄▀▀▀▄▄ ▄  ██  ▀▀▄▄▀▀██▀▄▀▀▄▀ ▀     ▄▄▄ ▄▀█ █ ▀█▄▀▀▀█ ▄▀█\n██▀▄ ▄▀▄█▄ ▄  ▀ ▀█ ▄▀▀██▄ █▄▀█▄▄▀▀█▄   █▀▀▀▀▄▀█▄█▀▀▄██ ██ █\n█▄▄▄▀██▄▄▀▀ ▄█▀█▀██ ▀ █▀▄ ▄▀▀█   █▀██ ▄█  ▀  ▀▀███▄█▀▀  ▄▄█\n██▄█▀▀█▄▄█   █ ▄▄▄▄▄▄▄██▀ █▀██ ▄▀█▀█▄▄▀▄█▀ ▀██▄██▀▀▄▀▄█▀▀▀█\n█▀▀▄▀▄▀▄█   ▀  ▄▀▄▀ ▄▄▀ █▄▀▀▄▀▄ ██ ▀█ ▄▄▄▀█ ▀█▄▀█▄ █▀█▀▀▄▀█\n███  ▄▄▄█▄ ▀▄ ██▄█▀ ▄▄▀▄▀ █▀██▄▄ █▄█ ▄ ▄▀█▀  ▀ ████▄▄█▄▄▀▄█\n█ ▀ ▀▀▄▄█▀▀█  ▄ ▄▀▀▄ ▄▄█ ▄▄▄██▄▄▀▀█▀▀█▄▄  ▀▀ █▀ ██▄██▄▀  ██\n███████▄▄▀█ ▀▄▄▀▀▄ ▄▄▄█▀    ▄▄▄ ▄▀▄█▀▄▀▄ ▀▀ ▄████ ▄▄▄ ▄▄▄██\n█ ▄▄▄▄▄ █▄█ ▀ ▀▀ ▀██▄▄  █▀█ █▄█ █▀▀█▀▄ █ ▀ ▄█▄ ▄█ █▄█   ▄██\n█ █   █ █ ▄▀████▄▀▄ ▄█▄▀▀▄▄▄   ▄ ▀▀▄█ ▀▄██ ▀▄▀▄▄█▄▄   ██▄██\n█ █▄▄▄█ █ ▄▀▀▀▀ ▄  ▀▄██▀▀█ ▀▀▀▀████  ▄▀▄▄▄▄▄▀▀   ▄█▄▀█  ███\n█▄▄▄▄▄▄▄█▄▄▄█▄████▄▄▄▄████▄█▄██▄▄▄▄▄█▄▄▄███▄██▄▄██▄▄▄███▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:55:11.114Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:55:11.121Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.348Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.353Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.363Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.550Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.560Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.570Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.708Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.713Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.726Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:56:09.737Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:13.357Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:13.363Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:13.370Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:13.376Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:13.382Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:13.388Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:18.630Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:18.681Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:18.696Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:56:24.489Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:24.500Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:24.520Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:56:27.139Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █ ███▀▄▀▄█▀██  ▄ ▄▀ ▄█▄ ▀ ▄█▀ ▀▄ ▄▄  ▄▀▄ ██ ▄▄▄▄▄ █\n█ █   █ █ ▄▀█▄▀▄▄ ▄▄█▄█ ██▀██▀▀▀▄▄█ ▄▄█▄▄▀▀█ ▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀█ ▄ ▀▄▀█  ▀█ █▀   ▄▄▄ ▄  █▄▀█  █▀▄█▄▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ █ ▀▄▀ █ ▀ ▀ ▀▄█ █▄█ ▀▄█▄█ ▀▄█▄▀ █ █ █ █▄▄▄▄▄▄▄█\n█▄ ▀▀  ▄█▀█▀ █▀  █▄ ▄▀▄█▀ █   ▄ ▄ ▄█▀▄▄▀ █▄▀█▄█▄▀ █▀▄▀▄ ▄▄█\n█  █▀█▀▄█▀▄▀▀ ▄ ▀ ▄█▀▀▀█▀  ████ ▀▀▄█ █▄ ▄█ ▄▀▄▀▀▄██▄▄ ▄▄▀▀█\n█▀█▄▀▀ ▄█ ▀▄▄▄▀▀ █▀ ▄ ▄▄  ▄  ▀▀█▀▄ █ ▄█  ▀▄ ▀ ▀▄▀▀▄▀ █▀ ▀ █\n█▀▄  ▄▄▄▀▄█ ▀█ █▀▀▄▄█   ▄███▀  █ ▀█▀▀▄▀ ▀ ▀▄▄█▀▀█▄  ▀ ▄▄▄▀█\n█▀█ █ ▀▄▄▀▀ █▄▄▄ █ ▄█▀▄█▄▀█▀▄ ▀ ▄ ▄█ ▄▀▀ ▀ ▀█▄ █▄▀▀▀ █ ▄▄▄█\n█▄ ▀█▀ ▄▄█▀▄█ ▀██▀ ▄█ █ █▄██▀▀ ▀ ██▀▄▀▄▄█▄ ██▄▄▄█ ▄ ██▄█▄██\n██▄▄▄ ▄▄ ▄ ▀█▄▄ ▀▀▀▄▀ ▄█▀▄██▄█  █ ▀█▄ █▀ ▀ ▀▀ ▀█▄▀▄ ▄▀  █▄█\n█▄█ ▄██▄▄▄ ▄  █▄▄█▄▄▄███▄ ▀   ███▄▄▄ ▀ █    ▄▀▄ █  ██ ██▀▀█\n█▄▀ █▀ ▄▀█ ▄▄▄ █▄▄ ▄ ▀ ▀▀▀▄▄ █▀▀▀███ ▄▄  █▄▀█ ▀█▀ ▄▀▄▀▄▀▀██\n█▄▀▀  ▄▄▄  ▀█▀ ▄▀▄▀  ▀▄  ▄▄ ▄▄▄   ▀█ ▀▀▀█ ▀▄▀█▄▀▄ ▄▄▄ ▄█ ▀█\n██▄▀  █▄█ ███▀▄ ▀█▄▀▄▀▀█  ▄ █▄█ ▄ ▀▄▄▄▄▀▄█ ▀█ ▀██ █▄█   █▄█\n██▀▀▄▄▄▄  ▀ █▄▄█▄ ▀█▄█▀▀ ██    ▄▀ ██ ▀▀▄ ▀█▄█▀█▄▀ ▄   ▄█ ▀█\n█▄ █▄▄▀▄ ▀ ▀   ▄▄▄  ▄▀▄█▄▀ ▀ █▀ ▄ ▄█▄ ▀  █  ▄▄ █▀█▄ ▄▄  ███\n█▄▄█▄  ▄ ▀█▀ ▀ ▀█▀▀█ ▄▄ ▀▄▄ ▄▄▄█ █▄▀▄ █ ▄▀▀▄▀█▄▄█▀█▀  ██▀██\n█ ▄▀██▀▄█▀██▄▄▄█▄█▄▄▄▄▀▀▄ ▀ ▄█▀▀▀▄▀██ █  █▀▀▀  ██▄ ▄▀▄ ▀ ▄█\n███▀ ▄▀▄ ▀▄   ▀ ▀  █▀  ▀▀█▄ ▀ ▀▀ █  ▄███▄▄██ ▀ ▄█▀█▀ ▀█▄▄▄█\n█▄██▀ ▀▄▀▀▄▄▄ ▀█ ▄ ▄▀▀▄█▀  ▄ █▄ ▄ ▄█  ▄▀███ ▄  ▄▀▄█▄ ▄██▄ █\n█▀▀  ▄█▄▀█▀█▄▄██▄ ▄█▀█▀█▄ ▀▀ ▀▄▀▀█  ▄ █▄▀▄█▄█▄ ▄   █▀ ▄▄ ▀█\n██  ▄▄ ▄▀█ █ █   █▀ ▄ ▄▄▄▀ ▄▄▄▀▀█ ██ ▄▄▀ █▀▀█ ▀██ ▄█ █▄▄▀▄█\n█ ▀ ▀▀▄▄█▄ ▀▄▀▀ ▄ ▀▀ █▀▀ ▀▀ ▄▀▄▀▄▀██▀   ▄▄▀▄█▀▄▄▀▀▄▀▄▄▄█▀▀█\n███████▄▄▀ █▄ ▄▄ ▄ ▄█ ▀▀▄▀▄ ▄▄▄ █ ▀█ ▄█▀██▀ ▀▄█▄█ ▄▄▄ ██▄ █\n█ ▄▄▄▄▄ █▀▄ ██▄▀ ▄▀▄▄▄  █▄█ █▄█ ▀   ███▀█ ▀█ ███  █▄█ ▄█▄▀█\n█ █   █ █▄█▀ ▄▀█▀▀▄ ▀ ▄▀▀▄█▄▄▄ ▄▀▄▀▄  █▀ █▀ █ ▀▄▄  ▄   ▀▀▀█\n█ █▄▄▄█ █▀▀██ ██▄█▀█▄█▀▄▄ ▄▀▀ ▄ ██▄▄▄██ ▄▄▄▄▀█ ██▀ ▄▀▄▀▄███\n█▄▄▄▄▄▄▄█▄▄███████▄▄███████▄█▄█▄███▄▄▄▄▄▄█▄██▄▄▄▄█▄▄██▄██▄█\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:56:27.166Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:56:27.181Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.531Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.537Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.547Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.777Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.787Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.800Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.809Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.818Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.828Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:57:24.836Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:28.351Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:28.356Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:28.363Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:28.370Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:28.376Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:28.387Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:33.780Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:33.815Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:33.847Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:57:38.130Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:38.142Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:38.172Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:57:39.942Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀█▀▄▀████▄ ▀▀ ▄▄▀▀█  ▄ █▀▀█▄ ▀██▄▄▀▄▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▀▄▄█ ▄▄▄▀ ███▄ ▀▀█▄█   ███▄▀█▀▄█ ▄▀▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▀▀ ███▄██▄▄  ▀▀ █ ▄▄▄ █▀▀▀▄▄ ██ ▄ ▄█▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█▄▀▄█▄▀▄▀ ▀ ▀ █ █ █▄█ ▀▄█ ▀▄▀▄▀▄▀▄█ █▄▀▄█▄▄▄▄▄▄▄█\n█ ▄  ▄▀▄▄  ▀▀▀▄▀██▄ ▄▄██ ▀▄     ▀█▀█▀▄▀█▀▀▀  █▄▄ ▀ █▄█▄▀▄▀█\n█▀█▀▄▀ ▄█ ▀▄▀█▄ █▄▀ ▀▀▀ ▀▀ █▄▀ ██▀▄▄▀ ▄▄▄█▄█▀ █▄█▀▀▀▀ ▀▀▄██\n██▀▄ ▀▄▄█ ▄ ▀▀▄▄██▀ ▀▄▀▄█▀ █▀█▀█▄▀█▄   █▀▀▀▀ █ ▄   █ ▀█▄███\n█▀█ █▄ ▄▄▀ ██ ▄▄▀▀▀▀█ ▄▄█▀ █▀█▀ ▄▀█▄▀▀█   ▀▄▀ █▄ ▀▄▄▀▄▀  ██\n█▀██▄ ▄▄▄▀ ▄▀█ ███▄▄▀▄▀▀▀▀▄▄▀ ▀▀ ▀▀▄  ▀▄▀▀▀ ▄▀▄▄▄▀ ████▀ ▄█\n██ ▄▄▀▀▄ ▄██▄█▀██▄▄ ▀▀▀ ▀▄▀▄▀ ▄▄▀▀█ ▀ █  ▀█▄▄█▄ ▀▄     ▀▄██\n██  █▀ ▄ ▄▄ ▄▄▀█▄▀▄ ▄█▄▀▀▄  █▀█ ▄▀▄▄▄▄▀██▀▄▀▄█▄█▄▀ ▄▀▀█▄ ▀█\n█▀▀▀▀█▄▄▄ ▀ ▄██ ▄ ▀ ▄█▄█▀█▀ ▄▄▄██▄█▀▄█ ▄█  ▀ █ ▀▄▀▀█ ▀▀ ▀▀█\n█▄█▀▀█▄▄▀█▀█▄█▀ ▄▄▄▄█▄ ▀▀▀▀██▀▄ ▄  █▄▄▀█▄▀▀  ▀▄▄▀ ▀████▀  █\n██ ▀▄ ▄▄▄ █▀▀▀█ ▀ ▄█ ▀▄█▄█▀ ▄▄▄  ▄█▄▄▀▄▄ ▄██ █▀█  ▄▄▄ █ ▀██\n█▀█ ▄ █▄█ ▄▀▄   ▀▄▄▀▀▄▄█ ▀▀ █▄█ ▄█▄█▄  ▄▀█  ▄█▄▄▄ █▄█  █▄▀█\n█▀  ▀▄ ▄▄▄█▀▀ ▄ ▀ █▄▄  ▀▀▀▄ ▄  ▄ ▀█▀▄▄█▀ ▀▄▄ ▀██▄▄  ▄ ▀▀▄▀█\n█ ▄ ▀▄ ▄█▀▄ ▄ █ ██▄ ▀█▀█▀ ▄▄▀▄▀ █▀▀█   ██▀█  ███▀▄█▀▄▄▀▄▄ █\n█▄▀███ ▄ █ ▄▄█▄ ▄▄▀█▀▀▀▀██  ▀▄▀ ▀  ▄▄▀█▄▀█▀▀█▄█ █▄▄█ ▀  ▄▀█\n█▄▄▀▀▄▄▄ ▀██▀▀▀ ▀█ ▄▀▀▀▀▄ ▄█▀███▄██▄  ▀█▀█   █ ████▄▀▄▄▀█ █\n█▄▄ ▄▄▀▄ ▀ ▀▄▄▀▄▀█▀▄▀ ▄ ▄ ▄▄▀█▄▄ █▀▄██ █▀▀██ █  ▀▄▀▀▀▄█▀▄▄█\n█ ▀▄  █▄ ▄▄▄▀█▀▀▄▄▄ ▄▄▄▀▀ █▀ ▄ ▄▀█▀█▄  ▄▀█   █▄███▀███ ▀▀▀█\n█▀▀▀█▀▄▄▄▄▀▀██  ▀█▀ ▄▀▀  █▀▀▀█  ██▄█▀▄▀██▀▀  ▀ █▀▀▄█▀█▀▀▄██\n██ ▀ ▀█▄ ▀█ ▀█▀▄▄█▀ █▄▀▄▄▀██ ▄ ▄▄▀ ▄▀ ▀▄ █▀▀▀█▄▄▀▀ ▀▄▄▀▄███\n█ ▀ ▀▀▄▄▀▀▄▀▀▄ ▀█▄▀▀▀▄█▄▄██▄██▄ ███ ▄█ █▄▀ █▀▀▀ █▄▄▀▄▀ ▀▄██\n███████▄█▀▀▄▄█████▄ ▀█▀█  ▄ ▄▄▄  ▀ █▄▄ █▄█ ▀█▀███ ▄▄▄ ███ █\n█ ▄▄▄▄▄ █▄▄██▄▄▄ ▄▄ ▄ ██ ▀▄ █▄█ ▀  ▄ ▄▀▄█▀█ █ ▀▀█ █▄█ ▀▀ ▀█\n█ █   █ █ ▄▄ ██ ▄▀ ▄▄██▀▀▄▄▄   ▄▀██▄▀ ▀▄ ██▀ ▀█▄ ▄▄ ▄▄▄██▄█\n█ █▄▄▄█ █ ▄▀▀▄█ ▄ ██▄█▄█▀██▄█▀▀█▄█▄ ▀██ █▀ █▀▀ █▄  █▀▀  ███\n█▄▄▄▄▄▄▄█▄█████▄▄▄▄▄▄████▄▄██▄█▄▄▄▄▄▄▄█▄▄█▄█▄██▄▄▄▄██▄▄█▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:57:39.956Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:57:39.969Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.162Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.168Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.183Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.379Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.388Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.400Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.445Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.451Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.462Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:58:38.474Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:41.970Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:41.975Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:41.982Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:41.988Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:41.995Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:42.002Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:47.301Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:47.342Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:47.360Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:58:51.735Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:51.751Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:51.776Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:58:53.611Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀ ▀ ▀█▄  █ ▄█ ▄    ▄ ▄   ▄█▄▄▄█▀▄ ▄▄█▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄▄▄  █▄██▀▄▀██▄█████▄▄ ██▄▄▄█▄██▄   ▄▀▄ ██ █   █ █\n█ █▄▄▄█ █   ▀▀▀▀██▄█▀███▀▄  ▄▄▄ ▀▄ ▀█ ▀   ▄▄▀█ ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ █▄█ █▄▀ █▄▀ █▄▀▄█ █▄█ ▀▄█▄█ ▀ ▀ █▄▀▄▀ █ █▄▄▄▄▄▄▄█\n█ ▄█ ▀█▄▄█▄█▄▄ ▀▄█▀ ▄▄▄ ▀█ ▄ ▄ ▄██ ▄▄ ▀▄  ██ ▀█▄█▄█▄ ▄▀▄ ▀█\n█ ▀ ▄ ▄▄ ██▄ █▀█ ▀▀▄▄▄  ▄ █▀█  ▀▄▄▀ ▄▀▀██ █▀  █ ▄█ ▀█▄▀█▀▄█\n█▀▀█▀▄▄▄▄█▀█ ▄▄█▄ █▄ ▄ ▀▄▄ ▄▄▄█▀ ▄█▀▄▄▄█  ▀▄  █ █▄ █▄▄▀▄▀▀█\n█  ▄█▄█▄▄ █▀▀█████▄ █▄ ▀ █ █ █▄▄▀▀ ▄█▄ ▄█▀██▄▀██▄ ▀▄ ███▄██\n███ ▀  ▄█▄█▀▀ █ ██  █  █▀▄▀█   █▀▄ ▄ ▄█▀▀█▀▄  ▀█ ██  ▀▀█▄▄█\n█▀  ▀▄▀▄▄▄█▀█▄▀▄ █▄▄▄▀██ ▄▀▄ █▀▀ ▀▄▀ ▄▀    ███▄█ ▄▄▄▄█▀▄█ █\n██▄  █▄▄ █▄▄ ▄███ ▀  █▄▄▄ █  ▄▀█ ▀███ ▄▄ ▄██ ▀█▄▀█▄▄█ █▀█▀█\n██▀█▄▄▀▄▄███▀▀▀▀█ ▄█▀ █▄▀▀▄██▄ █ ▀█▀█ ▄ ▀ ██▄▄▀█▄▄▀██ ██▄▄█\n█▀  ▄█ ▄▀▄▄▄█ █▀▄ ▄ ██  ▄██   ▄▄▄▀▀ ▄ ▀▄▄▄▄█▄ ▄▀██ ██  █ ▀█\n█▄ ▀█ ▄▄▄  ▄  ▄ ▄ ▀▀▄▀█▄▄█▀ ▄▄▄  ▄▄█ █▀█▀  ▀▀ ▄▄▀ ▄▄▄  ▄ ██\n██▀▄  █▄█   ▄▀█▄▄█▄██▀██ █▄ █▄█ █▄▄▄  ▄ ▄▀▀▄▀▄███ █▄█  █▀▀█\n█▀▄  ▄ ▄▄▄ ▀▄▄▀██ ▀ █▀█  ▄█  ▄  ▄▄██▄▀█▄▀ ▀▄▀█ ▀█ ▄▄ ▄▄█ ▄█\n█▀█ ▄█▄▄▀█▀▄▀▄ ▄▀█▄ █▄ ▄▄▄ █▀█▄▄ █ ▄█ █▄▄▄██ ▀██ ▀▀▄▀█ ▀█ █\n█▀▀██▄▀▄▄ ▄▄ ▀▀▀▀   ▄▀▀▄ ▄▄▀ █▀▄█▀▀ █ ▀▄ █ ▄▄█▀  ▀█ ▄▄ ▄▀ █\n█▀██▀█▄▄█ █▀▄▄█▀    ▀ █▄ ▄█▀  █ ▄ █▀ ▄ █▄ ██ ▄█ █▄▀ █ ███▀█\n█▄▀ █▄█▄   ▀     ▄▀ █ ▄▀▀▄ █ ▄▀ ██▀▄ ▄▀██▄█▄▀  ▄▀▀▄███▄▄ ▄█\n█ █ ▄▀▀▄  █▄█▀ ████ ▀▀▄█▄█ ▄███▄▄  █  █ ▄▀▀▄▀ █▄██ ▀█▄ ▄ ▄█\n██▀▀▀█▄▄▀▄▀█▀█▀█▄██▄ ▀ █  █  ▀  ▀▄▀▄   ▀█▀█ ▀▄▀▀▀▀▄ ▄ ██▄ █\n█ ▀▀█▀▄▄██▄▄▀▀▄▀ █▄▄▄▄ █▄▄▀▄██ █▄▀██▄▄▄▄▄▄▀▄ ▀█▄▄▄ ▀▄█▄▀▀██\n█ ▀ ▀▀▄▄██▀▀█▀▀▀▄▀▀ █    ▄██ ▄▄▄▀▄█ ██▀▄ █▄▀ ▀█ █ ▄▄▄█ ██ █\n███████▄▄ ▄▀▀ ▀██  ▄▄█▄  ██ ▄▄▄  ▄█ ▄ ▀█  ▄▄▄▄▀ █ ▄▄▄ █ ▀▄█\n█ ▄▄▄▄▄ █▄█ ▀ ▄ █ █▄▄▄  ██  █▄█ █▀▄▄▄ █▀ ▄▀█▀▄▄█  █▄█  ▄ ▀█\n█ █   █ █▀▀████▄█▀▄▄▀ ▄▀▀ █▄     ▄ ▄▄ ▄ ▄▀ █▀▄█▄▄▄ ▄▄ ▄█ ▀█\n█ █▄▄▄█ █▀▀▀ ▄▀▀███▀▄▄ ▄█▀▀▀  █▀█▄▄█▄ ▄█▀▄ █▀█▄▄▄▄██▄ ███▄█\n█▄▄▄▄▄▄▄█▄▄█▄██▄█▄█▄█▄▄▄█▄▄█▄█▄▄▄▄███▄▄██▄▄█▄██▄█▄▄▄▄▄█▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T21:58:53.617Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:58:53.625Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T21:59:51.755Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:51.763Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:51.775Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:59:51.970Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:51.979Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:51.996Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:59:52.033Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:52.039Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:52.067Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T21:59:52.087Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:55.644Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:55.650Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:55.657Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:55.663Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:55.672Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T21:59:55.686Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:00:00.935Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:00:00.970Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:00:01.011Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:00:05.687Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:00:05.696Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:00:05.710Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:00:07.531Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀█ ▀▀▄▀▀▄ ▄ ▄▀▀ ▄▄▄▄ ▄▄█ █▄▄▄▀   ▄ ▀▄█▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄▄▀▀▄██████ █▄██▄██ █▄▄▀▄ ███▀ ██▄███▀▄ ██ █   █ █\n█ █▄▄▄█ █ █ █▀█▄████▀█▀█▀▄  ▄▄▄    ██ ▀ ▄▄  █  ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ ▀▄█ ▀ ▀ ▀▄▀ █ ▀▄█ █▄█ ▀▄█▄█ █ ▀ ▀ █▄█▄█ █▄▄▄▄▄▄▄█\n█▄ █▄▀▀▄▄█ ▀▀▀▄▀██▀▄▄█  ▀█ ▄▄  ▄██ ▄▄ ▄█▄ ▄█ ▀██▄██▄▄ ▀▄ ██\n█ █ █▀▄▄██ ▄▀█▀██▄▀▄▄▄  ▄▀▄▀▄ ▀▀▄▄▀▄▄▄▄█▄ █ ▄▄▀██  █▀▀▀█▀▄█\n█ ▀▄▄ ▀▄ ▀▄▄▀ ▄█ ▀█▄ █ ▀▄█▄▀█▄█▀█▄█ ▄  █▄ ███ ▀▀▄▄▀█ ▄█▄▀ █\n█▄█▀  █▄█  ▀▄██▀▀▄█  ▀▄██ ▄█▀█  ▄ ▀▄▄ █▄█▀▄██▄ ▀▄ ▄▄▄▄█▄▄▀█\n████▄▄▀▄█▀▄██▀▀▄▄█▄▄▀▀ ▀ ▄▀▄   █▀▄▀█  █ █▀ █▀▄█▄▀██ ▄▀ ▄ ▄█\n█  ▄ ▀▀▄█▀ ▀▀█▀▄ ▀  ██ █▀█ █▄▀▀ ▀  █▄▀█▀ ▀▀█▀ ▄▄▀█▄▀ ▄▄▄ ▄█\n██▀ ▄▀▄▄▄█▀▀ ████ █▄ █ ▄▄ ▄  ▄▄█▀▀▄▄ ▄▄▄▄ █▄▀▀█▄▀██▄▄▄ █▄ █\n█▄█▀██▀▄▄█ ██▀▀ █ █▀▀ ▀▄▀▀▄█▀█   ▀█▀▄ ▀▀▀ ▀   ▄▀▄███▄▀ █▄▄█\n██▄▀▄▀█▄▀▀▀▀█  ▄█▀ ▄██  █▄█▄▄▄▄█▄▀▀ ▄ ▄▄ ▄▄▄▄ █ ▄▄ █▀  █▄▀█\n█ ▄▄█ ▄▄▄   ▄ ▄█ ▄▀▀▄▀█▄██  ▄▄▄   ▄▀██  █ ▄██   ▄ ▄▄▄ ▄▄ ██\n█▀ ▀▄ █▄█ ▄ ▀▀▄ ▄█▄█▄▀██▀▄▄ █▄█ ▀ ██  ▄▀▄▀▀██ ▄██ █▄█ ▄▄▀▄█\n█▄█ █  ▄▄▄█  █▄▄▀███▄ ██▄██ ▄▄▄▄▀▄▄█▀▄ ▄  █ ▀▀▀▀▀  ▄  ▀▄▄▄█\n█▄█▀▀██▄█▀ █▄██▀███ ██▄ ██▀ ██▄▄ ▀ ▄█ ▄▄  ███▀▀█ ███▄▄▄█▀▄█\n█ ▀   ▄▄▄█▀██▄█ ██ ▄▄▄█  ███  ▀▄█▄█▄█▄█ ▀   ▄▄    ▀▄ ▄ ██▄█\n██▀▄ █▀▄█▀▄█▀█▀▄    ▀ ▄  ▄█   ▀█    ▄▄ ▄ ▄█▄▀ █ █▄█ █ ▀█▄▀█\n█▀▄▀▀▀█▄ ▄ ▀▀▀▀█ ▄█▄█ ▄▀▀▄ ▄ ▄█ ▄█ █▀██▄█   ▄█▀▄▄  █ ███ ▄█\n█▄  ▀ ▀▄ ▄█▄▀▀▀▄▄█▄▄▀▀ █▀▄ ▄▄▄▀█▄  █  ▀ ▄█▀█▀▄▀▄▀ █ ▄▄██▄▄█\n█▄ ▀ ▄▀▄ ▀██▀█▄ ▀██▄█  █▄▀█  ▀  ▀ █ ▀▄ ██ ██▄▀▀█▄█▄ █▀█▄█ █\n█▀█▄▀▀ ▄█▀▀ ▄▄▄█▄▄▄▄▄█ █▀█▀▄▀█▄▄ ▀▄▄█▄ █ ▄▄█ ▀▄█  ▀█▄█▀▀█▄█\n█ ▀ ▀▀▄▄██▀ ▄▄▀▄  ██  ▀ █ ▀█ ▄  ▄▄█▀ █▀█▀▄▀█▄▄█▄▀▀█▄▄  ██ █\n███████▄▄▀   █  █▀▄ ▀▄ ▄█▄█ ▄▄▄ ▀▄█    ▄▄▄▄▄▀▄█▀▀ ▄▄▄ ███ █\n█ ▄▄▄▄▄ █▄█ █▄▄ ▄▄▀ ▀▀▀▄██▀ █▄█ █▀▄█ █ █▀▄▀ ▄▀▄ █ █▄█ ██ ██\n█ █   █ █▀▀▄█▀▄▀█▀▄ ▀ █▀▀ █▄    ▄▄▄▄  █  ▀▀▄█ ▄█▀ ▄ ▄ ▄▄ ▀█\n█ █▄▄▄█ █▀ ▄██████▀▀▄▄▄ █▀ ▀█▄█▀▄████ ▀▄▄█▀▀▄ ▄█▀▄▀▄ ▄███▄█\n█▄▄▄▄▄▄▄█▄▄▄█████▄█▄▄▄█▄▄█▄█▄▄▄▄▄▄██▄▄▄▄▄▄██▄█▄████▄▄▄▄▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:00:07.539Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:00:07.547Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:01:05.724Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:05.731Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:05.741Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:01:05.953Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:05.962Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:05.978Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:01:06.112Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:06.118Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:06.129Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:01:06.139Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:09.573Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:09.580Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:09.596Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:09.611Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:09.626Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:09.636Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:15.033Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:15.057Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:15.092Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:01:19.619Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:19.637Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:19.657Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:01:21.745Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀ █▄▀█▀▀▀  ▀ █  ▄█▄█▄▄█▄▀▀▀▄▀▀▀▀▄  █▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▀██▀▀▄▄█  ██▄▄▀ ▀█▄▄ █ ▄▄▄ ▀██ ▄▀▄ ▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▄█ ▀ ▄▄█▄█▄ ▀▄▀ █ ▄▄▄ ▀█▀█▄▄ ▀ ▀  ▀▀▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄█▄█▄▀▄█▄▀ ▀▄█ █ █▄█ ▀▄█ ▀▄▀ ▀▄█ ▀▄▀ ▀▄█▄▄▄▄▄▄▄█\n█▄  ▄ █▄ ▄█▀█▀ █▄█ ▄▀▄▀█  ▄ ▄▄  ▀█▀█▀▄ ▄▀▀▀ ▄▀▄█▀  █▄▀▄▀ ▀█\n█▄▄▀██ ▄▀ ▄ ▀▀▄ ▀█▀ ▀▀▀ ▄▄▄▄▀█ ▄█▀▄▄ ▄  ██  ▄█▀ ▀▀█▄ █▀▀█▀█\n█▀█▄▄ ▀▄ ▀▄   ▄▄▀▄▀ ▀▄▀▄▄▀ ▄█▀▀█ █▀▄▀▄ ▄▀█   █▀█▄▀▀▄██▀▄▀ █\n█ █    ▄█▄▀▀█▀▀▀█▄▀▄ ▄  ▄ ██ ▄█ ▀▄█ ▄█▄█ █▀▄▀█▀ ▄▀▀▀▀▀ ▀▀██\n█  ▄██▄▄▀▄▄█   █▀▄▀▄▄▄▀▀  ▄ ▀ ▀  █▀▄  ▀███   ▀▄▄   ▄ ██▀▄ █\n█▄▀▄ ▄ ▄ ▀▄█▄ ▀█▄ ▀ █▄▄▄   ██  ▄▀ ▀▄▄▄▄   ▄▀█▀▄ ▄█▀▄█ ▀ ▀▀█\n█▀▄█ ▀▄▄▄▄ ▀██▀█▄▀▄ ▄█▀█▀▄  ██▀ ▀███  ▀▄▀█▀▀▄█ █▄▀ █▀▀██▀ █\n█ █   █▄ ▀ █▀▄█ ▄   ▄██ ▀█▀   ▄▄▄█▄ ▄▄█▄ ▄█  ▀█▄▄  ██▄  ▀▀█\n█▄ █ ▄█▄▄▀▀█▄ ▄▀▀▄▄▄█▄█▀▀ ▀██▀▀ ▄  █▄  ▄▀▀ ▀███▄▄▀ ▄▀▀▄▀  █\n█ ▄█▄ ▄▄▄ ▄ ▄▄ ██▀▄█ ▀▄█▀▀▄ ▄▄▄ ▄▄▀ ▄ ▄▄█▀▀█▀ ▀▄█ ▄▄▄ ▀  ██\n█  █▄ █▄█ ▄▀█▄▀█▀▄▄▀▀█▄█▄▀▀ █▄█  ███  ▀███  ▄▀▄█▀ █▄█ █▄▄██\n█▀▀▀▄ ▄▄▄▄ ▀ █  ▀██▄▄▀█ █ ▄▄    █▀█ ▀██▄ ▀ ▀█  █  ▄▄▄▄▀▀ ▀█\n█ ▄ ▄▄█▄▄█▀█▄▄█▀▄█▀▄▀▄▀▀▄▀█▄ ▄▀  █▀█  ▀▄██  ▄▀ ▄▀▄▄█▀▄▀█▄▀█\n█▄▀   █▄ ▄▀▄▄  ▄█  █▄█ ▄▀ ▄▄ ▀▀  ▀▄   ██▄▄█▄█  ▄ ▄ ██▄ ▀▄▀█\n█ ▀█▄▄█▄█▀▀▄ ▄█▄▀█▀▄▀▀▀▀▄ █▀▀█ ▄▀██▄ ▄▀▄▀▀█  █▀▄█▀  ▄█▀ █▀█\n█▀▀  █▀▄▄▄ ▀▄█▀█▀███▀ ██▄ █▄▀█▄  █ ▄██ ▄█▀▄▀▄▄▀ █▄▄▀▀▀▀ ▄▄█\n█▄█▄▄▄ ▄ █ ▀█ █▀▄█▀▄▄▄▀▀  █▀██  ▀█▀█ ▄ ▄▄█  ▄█ ██▀▄█▄█ ▀▀██\n█▀ ▄ ▄▀▄▄ ▀▀█▄▄ ▄ ▀  ▄▀ ▄▀▀▀██  ██▄█▄▀ █▄▄  █▀▄ ▀▄ ▀█▄  ▄██\n█ ▀▄▀▄▄▄ ▀▄▀  █▄▄▄▀  █▀▄  █▄ ▄██▄▀▄▄ ▄ ▄▀█  ▄█▄█▀▀█▀██ ▄▄██\n█ ▀ ▀▀▄▄▀▀▄▄▀▄▄ █▄█▀ █▄▄▀ ▀▄ ▀ ▄███ ▀▄▀ ▄ ██▄█  ▀▄ ▀▄▀  ▄▀█\n███████▄█ █▄ █▀▀▄▄▀▄▀█▀█▄▀█ ▄▄▄ ▄▀▄█▄▄▀█ █   ██▄▀ ▄▄▄ █ ▄▀█\n█ ▄▄▄▄▄ █▄ ▄▄▀▄▄▀██ ▄ ▀▄▄▀▄ █▄█ ▀▀▀▀▄▀▀██ ▀▀█  ▄█ █▄█  ▀ ██\n█ █   █ █ ▄█▄▄▀ ▄▀  ▄█▀▀▀▄ ▄▄▄ ▄████  ▀▄▀▀▀▀ ▀██▄▄▄▄ ▄█ █▄█\n█ █▄▄▄█ █ ▄▄███ ▄ █▀▄█▀▄▀█ ▀█▀▀█▄█▄▀█▄█▀██▄▄ ▀▄   █▄██▀▀███\n█▄▄▄▄▄▄▄█▄█████▄▄█▄▄█▄██▄█▄█▄▄█▄▄▄▄▄▄▄█▄██▄▄▄██▄▄█▄▄██▄▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:01:21.768Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:01:21.795Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:02:19.858Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:19.868Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:19.879Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:02:20.068Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:20.077Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:20.094Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:02:20.137Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:20.146Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:20.159Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:02:20.172Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:24.768Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:24.775Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:24.789Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:24.804Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:24.819Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:24.828Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:30.230Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:30.258Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:30.296Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:02:34.781Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:34.803Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:34.832Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:02:36.730Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ ███   ▄██ ▀▄▄▄▀▄ ▄▄ ▄▄▄▄▀▀   ▄▄ █ ▄ ▀ █▄ ██ ▄▄▄▄▄ █\n█ █   █ █▄▀ ▀█ ███▀▄ ▄▄▄▄██▄█▄▄ ██▄▄▄▄████▄█▄▄▀▄ ██ █   █ █\n█ █▄▄▄█ ██▀▀▄ ▀▀█▄ █ ▀ ▄█▄▀ ▄▄▄ ▀▀  ▄█  █ █ █▀ ▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█ █▄▀ ▀▄▀▄▀ █ ▀ ▀▄▀ █▄█ █▄█ █ ▀ ▀ ▀▄█ ▀▄█ █▄▄▄▄▄▄▄█\n█  ▄▀  ▄   ▄ █  ▄▄▄ █▄▀ ▄█ ▄   ▄█▄ ▄▀▄▄▄▄▄▄██▄██▄█ ▄▀█▀▄▀▀█\n█ █▄▀▄█▄ █▀  █ ▀ ▄█▄█  ▀▄▀▄█ ▄█▀█ ▀██▀▀▀█ ▀▀▀ ▄▀▀▀ █▀▄██▄▄█\n█▀ █▄▄▀▄▀█▄█▀█ █ ██▄▄█ █▄▄▀▀▄ █▀▄ █▄▄▄██▀▄█▄▄ ▄██▄▄█  █▄▀██\n█▀▀▀ ▀█▄▀▀▀███   ▀▀ ▀█▀ ▀███▀▄█   ▀▀█▀█▄▀▀▀▀▀▄ ▄▄▄ ▀▀▀█▄▄▄█\n█ █▀▀▄ ▄█▀██▀▀ ▄█▄▄  █ ▄█▄▀█ ▀██▄▄ ██ ▄▄▄▄█▄▄▄██▄██▄▄ ▄▀▄ █\n███▄▀ ▀▄▀█▄▄▀ █▄ ██  ▄██ ▄ ▄▄▀▄█▀▀▄█▄   ▀▀▀█  █▀▄▄▄▄ ██▄  █\n█ ▄▀▄▀ ▄ █ ▀█ █▄█ ▄▄ ▄  █ ▄▀▄▄██▄ ▀▄▄ ▄▄ ▄██▄ █▄ ██▄   ▄▄▀█\n█▄     ▄  █▀▀█ ▀█▀▄  ▄▄▀█▀█▀▄ ▀ ▀▄▄▀█ █▄▀▀▀▄▄ ▀▀▀  ██▀███ █\n██ ▀▀  ▄█▄▀▄ ▄▀██▄█ ▀██ ███ ▄ ▄█ ▀▀▄▀ ▄▄  ▄▄█▄▀████▄█  ▄▄▀█\n█ ▀ ▀ ▄▄▄  ▀█▀██ ▄ ▀▄ █▄▀▄▀ ▄▄▄ ▄▀▄█  █▀▄▄▀▄ ▄ ▀▄ ▄▄▄ █▄█▄█\n█ ▄ ▄ █▄█ █▀▀▀▄▀▀█ ██▄█▄█▄█ █▄█ ▀ ▄▄  ▄▄ ▄██ ▄█▄▄ █▄█ ██▀▄█\n█▀▄▀█▄ ▄ ▄▄█▀█ ▄▄█▀█▀▀██ ██   ▄▄█▀▄ █ ▀▄  ▀▀▄ █ █ ▄ ▄▄█▄▄▄█\n█▀▄ ▄  ▄█▀█▄▄ █▀▄█▄ ▄▄ ▄▄█ ▄ ██▄   ▄█▄▄▄  ▄█  ▀█▀█▄ ▄█▀▄▀▄█\n█ █▀█▀█▄█ ▀██▀█▀▄ ▀ ██  █   ▄██▄ ███▄ ▄█▀▀███ ▄███ ▄▀ ██  █\n█▀  ▄ ▀▄ ▀ ▀▀▀ ▀ ▄ ▄█ █  ▄ ▄ ▄▀█  ▀▄▀ ▄█ ▄ ▄  ▄▄▀ ██▀███  █\n█▀  ▄▄▀▄▀▀  ▄▄█▀ ▄███▀█▄ ▄ ▀ ▄█ ██ ██▄█▀▀█ ██▄▀▀██▄▄ █▄▄ ██\n█ █▀█▄▄▄█▀▀▄██▄▀▄██  ██  █▀ ▄▄▀██▄ ▄▄▄▄█▄ ██▄▄▄▄██▀▄▄█▀█▀ █\n█ ▄▀ █▀▄▄▀▄█▄ ▀▄███▄▄▄ ▀ ██ ██  ▀ █▄█ ▄▀█▄██ ▄▄ █▄▄▄ ▄ █▄ █\n█▀██▄ █▄ ▀▄▄██▄▀█▄█▄▄▄ █▄█▀ ██    █▄█▄▄▄ ▄▄█ ▄▀▄▀▄▀▀██▄█▄██\n█ ▀ ▀▀▄▄  █▀███▀ █▀▄█  ▀▄█  ▄▄█  ██ ▀▄██▀ ▀██  ██▀█ ▄▄█▄▄ █\n███████▄▄▀  █ █▀█▄ ▄██  █▄▀ ▄▄▄   █▄  █▄▄ ▄▄▀ █▄█ ▄▄▄   █▀█\n█ ▄▄▄▄▄ █ ▄ ▄█▄▀▀  █▄▀▄▄▄▄  █▄█ ▄  ▀█ ▀ █ ███▄ ▀▄ █▄█ ▀██▄█\n█ █   █ █▄▄ ▄█▀██ ▄  ▄ ▄█  ▄▄▄▄ ▄▄▄▄▀ █▄ ▄▄▄▄ ▄██ ▄▄▄▄▄▀▀██\n█ █▄▄▄█ █ ▀▀█▄▀██▀█  ▄█▄█▀█   █▀▀██ ▄  █ ▀▄▄▄  ▀ ▄▀█ ▄█▄▀▄█\n█▄▄▄▄▄▄▄█▄▄█▄▄▄▄█▄▄▄█▄▄▄██▄▄█▄█▄▄████▄█▄▄▄▄█▄▄█▄██▄█▄▄██▄▄█\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:02:36.739Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:02:36.747Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:03:34.817Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:34.828Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:34.850Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:03:35.055Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:35.068Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:35.085Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:03:35.205Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:35.212Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:35.224Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:03:35.235Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:38.719Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:38.726Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:38.733Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:38.741Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:38.752Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:38.760Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:44.188Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:44.215Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:44.257Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:03:48.560Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:48.570Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:48.590Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:03:50.494Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄▄▄▄█▄ ██ ▀▀██▄   █ █▄▄█ █▀▀█▀█ ▄█  ▄ ▄ ██ ▄▄▄▄▄ █\n█ █   █ █   █▄▄█▄█▀▀▄▄██▀  █▄▄▀▄█▄▀ ▀  ▀▄█ ▀ ▄▀▄ ██ █   █ █\n█ █▄▄▄█ █▄█ █  ▀▀▀▀█ ▀▄▄ █▀ ▄▄▄  █ ▀▀▄ ▄▄▀ ▀▀█▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀ █▄█ █▄█▄▀▄▀ ▀▄█ █▄█ ▀ ▀ █ █▄▀▄█▄█ █ █ █▄▄▄▄▄▄▄█\n█▄  ▄██▄▀▄█▄▀███▄▄ ▀▀█  █ █   ▄  █ ▄▀▀▀█  ▀▀▀▀█▄   █▀ ▄ ▀ █\n█▄▄▄▀█ ▄█▀▄█▄█ ▀ ▀ ██ ▄▄ █ ██ ▀ ▀▄█▄  ▀█▀█  ▀▄▀█▄▀▀█▄▀ ▄█▄█\n██▀ ▀  ▄▀ ▄ ▀ ▄ ▀██▄▄ █▄█▄▄ █▀█▀▄█▄▄ ▄▀  ▀▄█▄██▄█▄█ ▀▀▀▄ ██\n█ ▀▄▄▀▀▄▀▀█▄ ██▀▀  █▀█▀ █▄▀▄▀██▀▀▀ ▀▀▄▄  ▄█▄▄█▀██▄▀▄▀▄█ ▀▀█\n█▀▄▀█ ▀▄▄▄▀▄▄▀▄▄▀ ▀▀██▀█ ▄ ▀▄▄ █▀ ▄ █▀█▄▄▀▀█▄ █▀▀▄▀█ ██ ▀▄█\n█ ▄ ▀█▄▄ ▀█ █▄▀▀ ▀▀█▀▄ ▀  ▀ ▀ █▄▄▄█ █ ▀█▀ ▄█ ▀▀ ▀▀█  ▄█▄ ▀█\n█▀▄▄▄█ ▄ ▄▄▄▀  ██ ▄███▄ ▀█▀ ▄   ██▄▄▀█ █▀ ▀ ▀▀█▄▄  ▄ ▄▀▀▀▀█\n█ ▄█▄  ▄▄▀▄▀███▀▀▄▄█ ▄ ▄  █▀ ▀▀█ ▄ █▄█▀█ █▀▀▀ ▀██▄█▀ █▀██ █\n█▀ █▄▄█▄█  █▄▄██▀▄  █ ▀█ █▀▀▀█▄█▄▄▄█▄ ▀ ▄██▄▄█ █▄█▀▀██▀▄▄ █\n█▀▄█▀ ▄▄▄ ▀▀ ▀  █▀▄▄▀▀█▄▄ ▄ ▄▄▄ █  ▀ ███ ▄ ▄▀▀█   ▄▄▄ ▀▀▀██\n█▀█▄  █▄█ ▄▀      █▄▄█▀▀▀██ █▄█  ▄▀▀▄█▄▄▄▀▀█▀   █ █▄█  ▄▀██\n█▀▀█▄▄ ▄   █▀▄▄▀█ ▄▄█  ██▀█▄ ▄  ██▀▀▀▀ ▄▄▄▄█ ▄▄█▄   ▄▄▄▄▄▀█\n█▀   ▄█▄ █ ▄  ▄ ██▄█ █   ▀▄ ▄▄▀▀█▀ ▄▄█ ▄  ▀ █▀ ███ ██▄▀▀▀██\n██  ▀▀ ▄ ▀▀▀▄▄█▀▄  ▀▀ ▀▀▀▄▄▀▀█ █▀ ▀ ▀▀ ▀▀▄██▀   ▄      █ ▄█\n█  ▄▄█▀▄█▄▀▄▄▀▄▄██▄ ▀█▄▀ ▄█▀███ ▄▀▀█▀▄▀▀▄▀▀▄▄█▀▄█ ▀▄ ██▀███\n█ █ ▀█▄▄▄▄ ▄▀▄█▄ ▄▀   ▀█▄▀▄  ▄▄▀ ▄ ▄▀▄█▀▄█▄ ▄ █▀ ▄ ▀█▄  █▄█\n█▄  █ ▀▄▀ ▄▄ █ ▄▀▀██ █▄▀▀█▀  ▀▄██▄▄▀█▀██▄▀▀▄▄  ▀▄███▄  ▄█▄█\n█ █ ▀█▀▄█▀▀ ▄█ ▀▄▀█▄▄▀█   ▀█▄▀  ▀▀▄██▄▄▄   ██▀▄▀▄█▄██▄█▄ ▀█\n█▄▀▀▄██▄█▄█▄▀▄ ▄█▄▀▀█▄ █▀▀██▄▄▄▀█▀▀▄ ▀ ▄█   ▀█▀▄▀▄██ █ ▄ ▄█\n█ ▀ ▀▀▄▄▄▀ ▄▄ █▄▄▀ ▄▀▄▀▀▀ ▄ ▄▀ ▀█▄ ▄  ▀▄▀ ▀▄▄▀▄ ▀▀ ▄ ▀ █ ▄█\n███████▄█▀▀▀▄▄█  █ ▄▄ █▀███ ▄▄▄  ▀ █ ▄  ▀▀▄▄▀▀▀██ ▄▄▄ ▀▄ ██\n█ ▄▄▄▄▄ ██ ▀█▄ ▀  ▀  ▀▄▀▄█▄ █▄█  ▀█▄▄▀█  ▀██▄ ▄▄▄ █▄█ ▀ ▄▀█\n█ █   █ █▀ ▄██▀▄▀█▀▀ ▄ █ ▀  ▄   ▀ █▀███▄ ▀██▄ ▀▀▄   ▄▄ ▀ ▄█\n█ █▄▄▄█ █ █▄█ ▄█   ▄▄▀███▀▀████▀▄▀▀  █▄█  ██▀▀ ▄▄▄  █▀▀▄█▀█\n█▄▄▄▄▄▄▄█▄▄█▄█▄▄█▄▄███▄▄████▄████▄██▄████▄█▄████▄█▄█▄▄▄▄███\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:03:50.505Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:03:50.529Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.592Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.600Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.612Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.802Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.812Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.824Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.966Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.974Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:48.985Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:04:49.001Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:52.607Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:52.614Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:52.621Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:52.629Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:52.638Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:52.646Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:57.916Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:57.943Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:04:57.973Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:05:02.578Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:05:02.598Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:05:02.635Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:05:04.389Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄ █  ▀▀▀▀█▀▄█ ▄  ██▄█▄▄▀▄██▀▄▀█▄▀█ ██ ▄ ██ ▄▄▄▄▄ █\n█ █   █ █ ▀▄█  ▄▄▄▀▀▄▄█▄▀  ██▄█▄█▄█▀ ▀▀▀▄▄▀▀█▄▀▄ ██ █   █ █\n█ █▄▄▄█ █▄▀▄▄▀ ▄▀▀▀▄ ▀▄  █▀ ▄▄▄ ▄▄██▀▀  ▀  ▀██▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█▄▀▄█ █▄█ ▀▄█ ▀▄█ █▄█ ▀ ▀ █ ▀ █ ▀▄▀▄█ █ █▄▄▄▄▄▄▄█\n█▄ ▄ ▀▀▄▀▄ ▀▀ ▀█▄▄▄▀ ▄▄ ▄ █▄ ▄   █ ▄▀█▀█    ▄▀██ ▀▄██ ▄ ▀ █\n█▄▀▄ ██▄▀ ▄▄▄  ▀██ ██ ▄▄▄ ▄▄▀█▀▀▀ █ ▄██▄ ▀▄██▀ ▀▄█▄▀█▄ ▄▀▄█\n█ ▄████▄▀▀▄▀▄ ▄ ▀██▄▀ █▄ ███ ██▀▄█ ▄    █▀▄▄▄▀ █ █  █▀▀ ▄██\n█ █▀▀▀ ▄▄▄██  ██▀█▀██ ▄   ▀█ ▄█▀█▀▀█▀▄ ▄▄ █  ▄ ▄ ▀▄ █▄ ▀███\n█ ▀▄▄▀▀▄ ▀█▄▀ █ ▄ ████▄█ ▄▀ ▄▄ █▄ ▄▀█▀███▀ █  ▀▀ ▄█▄ ▀ ▀█▀█\n█▄█▄█ ▀▄▀▀▀▄▀ ▀▀ █▄ ▀  █▄▀  ▀ ▀▄▀▄▀   █ █▀█▄ ▄▀   ▀ ▄██▄▀▀█\n█▀    █▄▀█ ▀▄█ ██ ▀███▀ ▀█  ▀▄▀▀██▄█ █ ▄▄▄▀ ▄▀█▄▄ ▀█ ▄   ▀█\n█   ▀  ▄▄▄▄ ██ ▄▀▄█▄ ▄▀▀  █▀▀█▄▀ ▄▀▄▄  █▀▄█▀▀ █ █▀▄▄▄▀▀▄█ █\n█▄ ▄██▄▄█▄▄▄▄ ▄█▀▄  █ █▀█▄██▄███▄▄▄█    ▀▀█▄ ▀▀▄ █ ▀▀█▀█▄▄█\n███▀  ▄▄▄ ▀█ ▀▀▀▀▀▄▄▀▀█▄▄██ ▄▄▄ ▀▄ ██▄▀▀▄ ▄█▄█ ▄▄ ▄▄▄ ▀▀███\n█▀▄██ █▄█ ▄▄▄██▄ ▀█▄█▄▀▀ ██ █▄█  ▄  ██▄███ ▄▄ ▄▀█ █▄█ ▄▄█▀█\n█▄▀▀  ▄▄ ▄▄ █  ▄▄▄▀▀▀▀ ▄ █  ▄  ▄█▄  ▄  ▀▀▀███ █▄      ███▀█\n█▄ ▀▀▀▄▄█▄▀ █▀ ▀ █▄██▄  ▀▀▄▄█▄▀▀▀█ ▄ ▀▀█ ▄▀ ▀████ █▀▄█▄▄▀▀█\n█▀▄▀▀▄▄▄▄ ▀▄▀▀▀ ▀▀ ▀█▀ ▄█▀▀█▄█ █▀▄▀▄▄ ███▄▀▄█  ▀█▀▀  ▄ ▄▀▄█\n█ ▄ ▀█▄▄█▄▀█ ▀▀███▄ ▀██▀ ▄▄ ███  █▄▄▄▄▀▀▀███ █▄██▀█ ▀▄▀█▄██\n███ █▄▀▄▄▄█ █ ██ ▄ ▀  █▀▄▀▄  ▄ █▀█▀█▀█▀█ ▄█ ▀█▀█▄█ ▀▀▄  █▄█\n█▀ █▀█ ▄█▀ █ ▀    █▀ █▄▀▀█▀  ▀ ▀█▄▄▀█▀██ ▀ █▄ ▀ ▄███▀▀▄ ▀▄█\n█▀██ ▀█▄▄█▄▄▀ ▄▄▀▀█▄  █ ▀▄██▄▄█ █▀▄██████▀▀█▄█▄ █▀▄▀▄▄▄▄ ██\n█▄▀▄ █▀▄▀██  █▀▄██▀▀ █ █▄ █▄▄▄▀▄██▀█▄█▀█  ▀ ▄█▄▄▀▀▄██▄▄▀▄██\n█ ▀ ▀▀▄▄▀▀▀▄▄▀▀▀ ▀██▄ ▀ ▀▀▄▀█▀██▄  ▄  ███ █▄▀█▄▄ ▄▄▄█ ▀▄▄ █\n███████▄█ ▄▄▀▄██▀▄ ▄▀ █▀██  ▄▄▄ ▄█▄█▄▄ ▀█▀██▄█▀██ ▄▄▄ ▀ ███\n█ ▄▄▄▄▄ ██ ▀████▄▄█▄▄  █ ▀█ █▄█ ▀▀ ▀▄▀▄▀▀▀▀▀▀▀█▀█ █▄█ ▀▀█▀█\n█ █   █ █▀▀ ▀▄▄█▀███ ▄▄█ ▀ ▄ ▄  ▄▄  ▀▀██▄█ ▄█▄▄ █ ▄ ▄▄ █ ██\n█ █▄▄▄█ █ ▀ █▀▄▀    ▄▀▄▄█▀▀  ██▀▄▀▀▀▄ █ ▀▀▀  ██ ▄▄▄ ▄█▄██▀█\n█▄▄▄▄▄▄▄█▄▄▄▄█▄▄█▄▄█▄▄▄▄▄▄▄██████▄██▄█▄▄█▄█▄▄█▄▄▄██▄█▄▄████\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:05:04.400Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:05:04.417Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:06:02.620Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:02.627Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:02.639Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:06:02.836Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:02.846Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:02.859Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:06:02.985Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:02.995Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:03.006Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:06:03.017Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:06.644Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:06.651Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:06.665Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:06.677Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:06.694Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:06.702Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:12.132Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:12.162Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:12.201Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:06:16.703Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:16.727Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:16.739Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:06:18.503Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▄  █▄▀█▀██▄█▀  ▄▄▀█▀▄▄█▀▀▀▄▀ ▀▀█ ▄▄▀▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀ ▄▄  █▄█  ▄██▄▀ ▀█▄█ ▄ ██▄ ▀ █▀▄▄ ▀█ ▄ ██ █   █ █\n█ █▄▄▄█ █▀▄  ▄▀▄▄█▄ ▄ ▀▀▀ █ ▄▄▄   ████ █▀▄▄ ██▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄▀▄█ ▀▄█▄▀ █▄█ █ █▄█ ▀▄█ ▀▄▀ ▀ ▀ ▀ ▀▄▀▄█▄▄▄▄▄▄▄█\n█     ▀▄ ▄  ▄▄█▀▄▄▄  ▄▀▀   ▄    ▀█▀█▀▄▀███  ▀█▄▄   █ ▀▄▀ ▀█\n███ ▄  ▄▀▀▀▀▀▄▄ ▀▀▀ ▀▀▀  ▀▀▄▄ ▀▄▀▀▄▄▄█▀█ ▄ ▀▀▀▄▄ █▀   ▀▀ ▀█\n█▄  █ ▄▄▄▄█▄ ▄▄▄▄▄▀ ▄▄▀▄█▀█▄ ▀▀█ ▀ █  ▀█▀█ ▀▀▀ ▄  █████▄▄ █\n█▀▄██ ▄▄██▄▀▄▀  ▄▄▄▀▄ ▀▀█ ▀▄ ▄█ ▄▀▀▄ ▄▀█▀██▀ ▄█▄▄▄▄  ▀▀  ▀█\n██▄▄█▀ ▄ █▀█ ▄▀▀▀▄▄  ▄▀█▀  █▀   ▄▀▀▄ ▄▀▄▀█▀▀ ▀▄█▀▀▄▄▀█▀████\n█▄▀█  █▄█▀▀▀  ▀█▀▀█▄▀█▄▄▄  █▀▄▀▄██▀ ▀ ▀█▄▀ ▀ █▄▀▄▀▄  ▄   ██\n█▀  ███▄██▀▄█▀▀█▄▀▄▄▄███▀▄▀▀█▀▀  █▄█   ███  ▄▀ █▄▀ ███▀▀ ▀█\n██▄█▄  ▄█▀▀█▀ ▄▄▄ ▄▄▄█▀ ▀█▀ █▀▄▄▄█▄▀▄█ ▀ ▀▄█▀▀█▄▄█▄▀██▄▀▀▀█\n█▀   ██▄ ▄ █▄███▄▄ ▄█▄▀█ ▀█▀▀█  ▄  █▄  ▄▀▀  ▀▀█▄█▀▀▄▀█▄▀▄ █\n█▀▄▀▀ ▄▄▄ ██▄█ █▀▄▄█ ▀▄██▄▀ ▄▄▄   █▄█▄▀ ▄  ▄█ ██  ▄▄▄ ▀ █▀█\n█ ▄▀  █▄█ ▀ ▄▀ ▀▀▄▄▀▀▄▄█  █ █▄█  ▀█▄▄  █▀█▀ ▀▀▄▄▄ █▄█ ▄▄▀▀█\n██   ▄ ▄   ▄▄▀▄▀██▄  ▄ ▀  ▄  ▄  █ ▄ ▀ █▄███▀▄ ▄▄▄▄  ▄▄▀▀ ▀█\n█▄ ▀▄▀ ▄███  █  ▄▄  ▀█▀▀  ▄▀▄█▀ ▄█▀█  ▄▄██   ███▀ ▄▀██▀▄ ██\n█ █▄ █▄▄▀▄▀█▀▀█▄▀▀▀     █ █   ▀  ▄ ▄█▀█▄███  █ █▀█▄█▄█ ▀ ▀█\n█ ▄▀█  ▄▀█ ▄▀ ██▀█  ▀▀▀█▄ █ ▀█▄▀ ▀▄▄▄ ▀▄▀█▀  ▀ ▄▀████▄ ▀█ █\n█ ▀▀▀  ▄▄█▀▄█▀ ▄▀██▄▀ █ ▄ █▄▀█▄ ▀█ █ ▄▀█    █  ▄ ▄ █▀▄▀ ▄▄█\n██ ▀ ▀█▄██▄█ ▄▄███▀▄▄▄██ ▀█▀██▄▄▀█▀█ ▄▀▄██▀ ███▄█▄▀█▄██▀█▀█\n█▀▄▀▀ ▄▄  █▀▄ █   ▀ ██▀ ▀▀█▀▀▀ ▄██ ▀  ▄█ ▀▀█▄▄▄▀▀█ █▀▀█  ██\n█▀▀█▄ ▀▄ ▄▀ ▀▄▄▄█▄▀ ▀▄▀▄  █▄█▄▄▄ ▀▄▄ ▄▀▄▀▀  ▄█▄▄██▄█▀▄▄▀ ██\n█ ▀ ▀▀▄▄▄▀█ ▄██  ▄█▄▄▀▀ ▄▄▄▀▄█▀▄▄▄▄ ▄█▄▀▀  ▀ ███▀▄▄▀▀█▀▀ ▀█\n███████▄▄ ▄▄▄ █ ██▀▄▀▄▀█  █ ▄▄▄  █▄█ ▄▄▄█▀▄▀ █▄▄█ ▄▄▄ █ ▄▀█\n█ ▄▄▄▄▄ █▄█▀  ▄▄ ▀██▀██ ▄▀█ █▄█ ▄█   ██▄█ █▀██▄▀▀ █▄█   ▄██\n█ █   █ █ ▄▄▀ ▀▄▄▀  ▄██▀▀▄ ▄   ▄▄█▄█▄▄█▄ █ ▀ ██▄█▄ ▄▄  ▄▄██\n█ █▄▄▄█ █  ▀▀█▀ ▄ █▄▄█ ▄▀█▀▀██▀█▄█▄ ███ ▀▀▀▀█ ▄▄█▄▀▄ ▀ ▀███\n█▄▄▄▄▄▄▄█▄▄██▄▄▄▄▄▄▄▄▄▄█▄█▄█▄██▄▄▄▄▄▄▄█████▄▄██▄█▄▄███▄▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:06:18.518Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:06:18.531Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:07:16.739Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:16.747Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:16.760Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:07:16.969Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:16.980Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:16.994Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:07:17.117Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:17.124Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:17.146Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:07:17.159Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:20.668Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:20.674Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:20.685Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:20.694Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:20.703Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:20.711Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:27.519Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:27.550Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:27.581Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:07:31.618Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:31.634Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:31.649Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:07:33.545Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▀  ▄█ █▀▄█▄▀  ▄▄▀▀▀▀ ▄▀ ▀▀█▀ ▀▄▄▄▄ ▀▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀▀▄  ▀▄▄▄▄ ▄██▄ ▀▀██▄▀█▄▄▄█▀ ▀▄▄▄ ▄ █ ▄ ██ █   █ █\n█ █▄▄▄█ █▀█ ▄███▄█ ▀▄ █▀▀ █ ▄▄▄  ▀▀█▄▄ ▀▄ ▄▄▀█▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄█ ▀ █ ▀▄█▄▀ ▀▄█ █ █▄█ ▀▄█ ▀▄▀▄▀▄▀ █▄█▄▀▄█▄▄▄▄▄▄▄█\n█▄ ▄▄ █▄▄  ▄▄▄ █▄█▄▄▀██▀▀ ▄▄ ▄  ▀█▀█▀▄ ██▀▀▀ ██▄▄▀▄█ █▄▀ ▀█\n█▀ ▀▀▄ ▄  █ ▄█▄ ▄▀▀ ▀▀▀ ▄▀ █ ▀▀███  ▀█ █▄▄▀ ▀▀ ██▄▄▄ ▀▀▀▀▀█\n█  █▀▄▄▄▀ ▄▀▀ ▄▄▄▄▀ ▀▄▀▄▀ ▄▄█▀▀█ ▀█▄▄▄▀██▀▀ ▄▀█▄▄▀▀▄█▀█▄█ █\n█▀▀▄ █▄▄▄▀▄▄▀█▀▀▄█  ▀▀▀▀ ▄▀█ █▀ ▄▄ ▀▀█▀▄██▀ █▀ ▄█▄▄▄█▄▀▀▄▀█\n█   ▄▀█▄ █▄▄▀▄ ▀ ▄▄▄ ▄▄▀▀▀█ ▀   ▄▀▀▄   ██▀▀▀▄██▄▀▀▀█▀█▀ ▀▄█\n██  ▀▄▀▄▀▄▀ █▀▀█▄▄▀▀▀▄▄▀  ▀██▄▄████ ▄▄█▄▀▀ █ ▀█▀ █▄▀▄ ▀ ▄██\n██▄▀▄█▄▄█▄▄▀ ▄▀█▄▀▄ ▄███▀▄ ▀██▀▀ ▀▄█▄▄▀▄█▀▄ ▀█▄█▄▀ ▄▄█  ▀▀█\n██▀ █ ▄▄█  █▀▄ █▄ ▄ ▄███▀█▀ ▄█ ▄██▄▀▄▄█▄▀  ▀ ▀█▀▄▀▄▄▄▀  ▀▀█\n█ █ ▀▀▄▄█ ▄█▀ ▄▄▄▄▄ █▄█▀▄▀██▀▀▀ ▄  █▄ ▀▄▄█▄▀█▀█▄  ▀███▄ ▄▄█\n█▄▀█  ▄▄▄ █▄▀█ ▀ ▄▄█ ▀▄██ █ ▄▄▄ ▄▄▀  ▀ ▄█  ▀▀▀ ▄▀ ▄▄▄ ▀  ▀█\n███▀  █▄█ ▀▄ █▀▀▀▄▄▀▀▄▄█▀▀▀ █▄█  ██▄▄▄▀█▄▀▀  █▄▄  █▄█ █▄█▀█\n█▄▄█▄ ▄▄▄ ▄▀▀▄▄ ▄▄ █ ▄ ▄▀ █▄▄▄▄  ▀█▀█  ▄▄▀█▀▄▄▀█ ▄▄  ▄█▀▄██\n█▄▄ ▀▀█▄ ▄▄█▄▄ ██▄   ▄▀█▄▀▄ ▄█▀ ██▀█   █ █▀▀▄██▄██▄█▄█ ▀ ▄█\n█ ▀  █ ▄  ▀█ █ ▀▀█ ▄▄ ▄██▀▄▄▄▀▀ █ ▄  ▀ █ ▄█   ▄█▀▄ █  █▀ ▀█\n███  ▄█▄▄▄▀█▄█▄ ▀█  ▀▀██▄ █▀▀██  ██▄▄ ▀▄▀▀▀▀▄▀███▄▀█▄▄▄█▄ █\n█▀▀▄▄▀▀▄█▀ ██▄▀▀▀█▄ ▀  ▀▄ █▄▀█▄▄ █▀██▄▄▄ ▄▄ ▄▀█ ▀▄ █▄██ ▄▄█\n█▀▀▄█▀ ▄▄█ ▄▄▄▀▄██▄▄▄▄█▀ ▀█▀██▀▄▀█▀█ ▄▀█▀▀ ▀ ▀▄▄▀ ▄▀█▄▄▀▀██\n█  ▄█ █▄▄██▄▀▀▀▄ ▄▀  █▀ █▀█▀█▄▄▄██ █▄ ██▄▄▀▄█ ▄█▄▄▄▀ ▄ ▀ ██\n██▄▀▄▄▄▄▄▀▄█ ▀ ▄▀▄▀ ▀█▀▄▀ █ ▄█▄  ▀▄▄ ▄▀▄██   ████▀▀ ▀▄  ▄▀█\n█ ▀ ▀▀▄▄▀▀▀█▀▀▄▀ ██▀▄███▄  ██▄ ▄▀▄█ ██ ▄█▀▄█▄██▄ ▀▄▀█ █ ▄██\n███████▄▄▀██▄ █ ▄▄▄ ▀█▀█▄▀  ▄▄▄ ▄█ █  ▀█▄█▀  ██▄█ ▄▄▄ ▀▀▄▄█\n█ ▄▄▄▄▄ █▄█ ▀ ▄▄█▀▄ ▄▀ ▄ ██ █▄█ █▄▀▄▀▄▄▄▀ ▀ ▀▀▄▄  █▄█ ▀  ██\n█ █   █ █ ▀▄▀█ █▄▀▀▄▄█▀█▀▄ ▄   ▄ ▀ ▄▄▄▄▄▀▀▄ ▀█▄▄█▄▄▄ ▄▄ ▄▄█\n█ █▄▄▄█ █ ▄ █▀█ ▄ ▄ ▄█ ▄▀█▀▀█▀▀███▄ ▀ █ ▄▀ ▀█ █▀ ▄▀█▀█ ▀███\n█▄▄▄▄▄▄▄█▄▄██▄█▄██▄▄██████▄██▄█▄▄▄▄▄▄▄▄███▄███▄▄▄▄▄▄▄██▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:07:33.554Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:07:33.565Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:08:31.651Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:31.659Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:31.672Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:08:31.853Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:31.864Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:31.877Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:08:32.013Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:32.022Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:32.032Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:08:32.044Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:35.492Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:35.499Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:35.508Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:35.517Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:35.526Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:35.535Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:40.929Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:40.960Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:41.011Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:08:45.551Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:45.572Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:45.584Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:08:47.315Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▄▄ ██   █▀█ ▀▄█▄▄▀█  ▄   █▀█▀▀█▀█▄▄▄  ▄ ██ ▄▄▄▄▄ █\n█ █   █ █  █▀█▄█▄█  ████▀▀ █▄▄█▄█▄  ▄ ▀ ▄██▀▀▄▀▄ ██ █   █ █\n█ █▄▄▄█ █▄▀ ▀▀ ▀▀▀ █ ▀▄▄ █▀ ▄▄▄ ▀  ▀  ▄ ▀  ▀ █▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄█▄▀ █▄█▄▀▄█ ▀▄█ █▄█ ▀ ▀ █ █ █▄█ █▄█▄█ █▄▄▄▄▄▄▄█\n█  ▄ ▀▀▄█▄▄█▄█▀▀██▄▀▀█    █▄▄    █ ▄▀▀ ▄  ▀▀▀▀▀▄▄  ██▄▄ █ █\n█ ▀▀█▀▄▄  █    ▀   ██ ▄▄█▄ █▀█  ▀▄█▄▄▀▀█▄▀▄██▄▀ █▄▀ ▄▀ ▄  █\n██▀  ▄▄▄   ▀ █▄ ▀▄█▄ ▀█▄██  █▀█▀▄▀ █▄ ▀ ▀█▄█▄▀██▄▄▀ █▀█▄█ █\n█▀▀▀ ▀▀▄▄ █▀▀▀▄█     █▄▄▀▄ ▄▀▄██▄▄█▄█ ▄▀█ ▄█▄ ▀▀ ▄▄▀▀▄▀ ▀▀█\n█▀▄▄██▀▄ ▀▀ ▄▀  ▀▀▀██▄ ▀▀▄▄▄▄▄▀█ ▄▄ ▀█▀▄▄█▀█  ▀▀▀▄█▄ █▄ ▄▄█\n█ ▄▀ ▀█▄▄▄▀▀ ▀▀▀▄ ▀▀█▀▄  ▀ ▀█▄ ▀▄██▄ █▄▄█▀▄▄██▀▀▄▄ ▀▀▄▄█▄██\n█  █▀▀▀▄▄▀ ▄ ▄ ██ ▄███  ▀█▀▀▄▄ ▀█▀▄█▄█▀█ ▄▄ █▀▀▄▄ ▀▄  ▄█  █\n█ ▄▀███▄▄▄▄▀█ █▄▀▄██ ▄ █  █▀█▄█▄ ▄▀▄▄█▀▄ ▀█ █▀▄▄█▄ ▄▀█▀▄█ █\n█▄▀▄▀██▄ ▀██▀▄██ █ ▄█ ██▄▄█▀▀█▀█▄▄▄█▄▄▀ █▀▄███▀▄▄▄  ▄█▀▄  █\n██▄▀█ ▄▄▄  ▄▀▀ █▄▄▄▄▀▀█▄▄▀  ▄▄▄ █▄▄██▄█▀▄   ▀▀    ▄▄▄ ▀▀█▀█\n█ █▄█ █▄█  ▀▀▀▄ ▄ █▄▄█▀▀ ▄▀ █▄█ ▄▄▀▀██▄██▀▄██ ▄ ▀ █▄█ ▀▄▄ █\n█  ▄  ▄▄ ▄▀▄▄▀▄█▄▄▀█  ▄▀█▀▄▄▄ ▄    ▀▀▀█▀▀█▄█▀▀ ▄▀  ▄▄ █▄▄██\n██ ▀   ▄███ ▀▀▄ ██▄▀█▄ ▄▀ ▄▄▄█▀▀█▀ ▄▄█ ▄▄ ▀▀▀▀▄▄█   ▄▄█▄▄▀█\n█ ▀▀▄▀█▄▄ ▀ ▀█ ▀ ▀ ▄▄▀█▄█ ▄ ▀█ ██▄▀▄ ▀▄ ▄█▀▄█ ▀ █▀▀   ▄█ ▄█\n█▀▀█▄▄▀▄▄▄██  ▀███▄ ▀██▀ ▄█▀██▀█ ▀▀██ ▄▀▀▀▄█▄▀ ████  █▄█▄▄█\n█ ▀ █▄▄▄█ ▀ █▀▄█ ▄▄█  ██▄▀██ ▄ ▀ ▄ ▄  ▀▄ ▀█▄  ▀▄▀▄██ ▄ ▀█▄█\n█ ▀ ▀▀█▄ █▀  █▀ ▀  ▀ █▄▀ █▀ ▄ █▀█▄▄▀▀▀ ▄▄▀ ▄▄ ▀▀▄█▄   █▄▀▄█\n█▄██▄ █▄▄█▀▀▀▀▀▄█ █▄███ ████ ▄  ██ █▀█▄▄▀██▄█▀▄   ▀██▄▄█ ▀█\n█  █▀▄ ▄█ ▀█ ▄ ▀ █▀▀▀█ █▀ ▄▄ █ ▀██▄█ ▀▀█▄   █▀▄██ ▄▀██▀▄ ▄█\n█ ▀ ▀▀▄▄██ █▄▄█ ▀▄ █▄▀ ▀ ▄▀█▀  ▀█▄ █▀▀█▄ ▄▄▄█▄▀ ▀ ▄ █  █ ▄█\n███████▄▄  ▀▄ █▄▀▄ ▄▀▀█▀█▄  ▄▄▄  █ █▀ ▀  █▄▄▄▀▀█▀ ▄▄▄ ▄██▀█\n█ ▄▄▄▄▄ ██▄█ █▀ ▀▀██▀█▄▀ ▀▄ █▄█ ▄▀▄▄██ ▄▀ ▄█▀▀▄█  █▄█  ▀▀██\n█ █   █ █▀█    ▀▀██▀ ▄▄█ ▀▄▄▄▄  ▄▄█▀▀▀▀█ ▀▄▄  ▀  ▄     █▀▄█\n█ █▄▄▄█ █ ▀▀██▀▀  ▀▄▄▀▄▀█▀▀▄█▀█▀▄▀▀ ▀▀▄▄▀▄█▀▀▄▀▄▄   ▀█▄▄█▀█\n█▄▄▄▄▄▄▄█▄▄▄▄██▄█████▄█▄▄▄▄██████▄██████▄▄▄████▄▄██▄▄█▄▄███\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:08:47.326Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:08:47.336Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.585Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.594Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.605Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.786Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.796Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.814Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.951Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.959Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:45.981Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:09:46.000Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:49.582Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:49.590Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:49.600Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:49.610Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:49.627Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:49.646Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:55.028Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:55.055Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:55.079Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:09:59.537Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:59.563Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:09:59.594Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:10:01.602Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █ ▄███▄▀▄▀█▄▀ ▀ ▄▄▄▄▄▀  █ ▄▀▄▄▄▄█▀▄ ▄ ▀▄ ██ ▄▄▄▄▄ █\n█ █   █ █   ▄ ▀█▄▀█████ ▄▄▀█▀▀██ ▄▀▄▄█ ▀▄ █ ▀▄ ▄ ██ █   █ █\n█ █▄▄▄█ █▀ █▀▀ ▄▀█▀ ▀█▄█▀   ▄▄▄ ▀▀ █ ▀▄▄    ▄ ▄▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄▀▄█▄▀ █▄▀ █ ▀▄█ █▄█ ▀▄█▄█ █▄▀ █▄▀ ▀▄█ █▄▄▄▄▄▄▄█\n█ ▄█▀▄▄▄██▄  ▄▄▄ ▄▄ ▄▀▀▀▄▀█     ▄ ▄█▀ ▄▀ ▀▄▀█ ▀█▀ ▀▀ █▄ ▄ █\n█▄█▀ ▄▀▄  ▄  ▀▄ ▄▄▄█▀▀▀█ ▀▄▄▀▀█▀██▄██  ▀▄  ▄█▀ █▄▀▀▄ ▀▄▄ ▀█\n█▀ █▀▄▄▄  █▀▀█▀▀ █▀ ▄ ▄▄▀▀█▀ █▀█▀▄▀▄▄ █▀▄▀  ▀  █▀    █▀ █▄█\n█▄ █▄▀█▄ ██ █ █▄ ▀██ █▀ ██ ▄ ▀ █ ▀ ▀█▀▄▀▀███▀▄ ▀█▄ ▄  ▄█ ██\n█▀ █▄  ▄▀█▄ █▄█ ▀▄▄ ▀▀ ▀  ▀▀▄ █▀▀ ▄▄▀ ▄  █▀ █ ▄▄▄▀█  ▀██ ██\n██▀▀█▀█▄▀▀▀  ▄▀███  ▄▀ ▀██▀▄██▀▄  ▀█▄ ▄▀▀▄█▄ ▄██▀▄▄▀▀███▄▀█\n█ █ ▄ ▄▄ ██ █▄▄ ▀▀ ▄▀  ▀▀▄█▄▀█ ▀▄▄▀▄ ▄▄ ██▀▀▀▄██▄▀▀  ▀█ ▄▄█\n████▀▄▄▄█▀▀▄▀██ ▄█▀█▄█  ▄ ▀  █▀▄▄███ █▄▀▀▄█▀▀ ▀███  █▄▀▄▀▀█\n█ ▄ █  ▄ ▀▄██▀█▀▀█   ▀▄▀▀▀▄ ▀▀▀ ▀███▄ █ ▄▀ ▀█▄ █▀ █▀ ██▀▀██\n██▀▀▀ ▄▄▄ ▄█ █▄▄██▀  ▀▄ ▄▄█ ▄▄▄ ▄▄▀██ █▄  ▀▄▀▄▀▄█ ▄▄▄  █ ▀█\n█▀▄   █▄█ ▄█▀▀▀▀▀█▄▀▄▀▀█▀▀▄ █▄█ █ ▀██▄ ▀ ▀▀▀█▄▀▄▄ █▄█ ▀▀█▄█\n██ ▄█▄▄▄  ▀ ▀▄▄ █▀▀▄▄  █▄ ▄   ▄ █ ▄▄█▀▄ ▄▀▄▄▄▀  ▀  ▄▄ █▄▄██\n█▀▀▄▄▀ ▄▄▄█▀▀▄▀▄█▄▄▄▄ ▄▀▄▀▀█▀█▀ ▀ ▄██▄  ▄▀▀▀█▄ ██▀   █▀ ▄ █\n█▀ ▄▄▀ ▄▀██ █ █▀▀▀█▀▄▄▀ ▄▄▄▀▄▄▄██▄▄▀▄ ▄ ▄▄▀ ▀▀ ▀▀▀▄▀ ██▄▄▀█\n█▀ ▄ ▀▄▄█ ▄▀▄██▄▄█▄ ▄▄▄▀▄ ▀▀▄█▀▄█ ▀▄  ▄  ▀  █  ███▄▀▀█▀█ ██\n█▀▄▀██▄▄▀▀██ ▄▀▄▀ ▄▄▀ █▀▀█▄▀▀ ▀█▀█   ▀▄▄ ▄██▄▀▄▀▀ ▄█▄▀█▄▄▄█\n██▄▄█  ▄█▄█▄▄█ ██▄▄ ▀▀▄█▀  ▄▀▄▀▄▄ ▄█▄▄█▀ ▀▀ ▄ ▀▄▀▀▀ ▄▄ █▄ █\n███▀▀ █▄▄█ █  █▄  ▄█▄ ▀████▀ ▄███▀ ▄██▄ ▀▄ █ █▄█  ▀▀▀ █▄▄▀█\n██ ▀█▄▀▄▀█▀▄▀▀██ ▄▀ ▄ ▄▄▀ ▀▀ █ ▄▀▄ ▄ ▄  ▄▀▀▀▀▄▀██▀▀ ▄▄▀██▄█\n█ ▀ ▀▀▄▄▄█ ███▀█▄ ▄ ▀▄█ █ █▄▄▀▀▀█ ▄▄▄█▄▄█▄▀  ▀▀█▀▀▀▀▄ ▄█ ██\n███████▄█▀▄▀█ ▀█ █▄▄▀▀ ▀▀ ▀ ▄▄▄ ▀▄▀█  ▄▀▄▀▀▀ ▄▀██ ▄▄▄  █▀ █\n█ ▄▄▄▄▄ █▀  ▄ ▄▄█ █▀█▀▀██▀█ █▄█ ▀█ ▄▄▀███ █▄ ▀ ▄▄ █▄█ ▀█▄██\n█ █   █ █▄▀▀▄ ▄▀▀▀  ▀  ▀▀▄▀▄▄  ▄█▄▀▄▀▄█  █▀▀▀▄▀██▄  ▄ ▄▀▀▀█\n█ █▄▄▄█ █▀▄ ▀▀ ▄▄███▄██ ▄ █▄█ ▄ ▄█▄█▀███▀▄▄▄██▄▄▀█▀▄█ ▄▄███\n█▄▄▄▄▄▄▄█▄████▄▄▄▄█▄▄█▄█▄█▄▄███▄███▄▄▄▄█▄████▄█▄▄▄█▄█████▄█\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:10:01.626Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:10:01.647Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  },
+  {
+    "timestamp": "2025-06-21T22:10:59.701Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "autocloseCalled"
+  },
+  {
+    "timestamp": "2025-06-21T22:10:59.710Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:10:59.728Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:10:59.918Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-06-21T22:10:59.925Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:10:59.946Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:11:00.068Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "qrReadError"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:00.076Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:00.090Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:11:00.105Z",
+    "level": "error",
+    "message": "[WppConnect Error] Erro na inicialização do WppConnect:",
+    "details": "Auto Close Called"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:03.659Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:03.668Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:03.689Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:03.707Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:03.718Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:03.729Z",
+    "level": "info",
+    "message": "Pasta cliente: /home/user/arche-online/clientes/ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:09.046Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "desconnectedMobile"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:09.092Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:09.154Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:11:13.776Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "notLogged"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:13.790Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:13.821Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:11:15.374Z",
+    "level": "info",
+    "message": "Terminal qrcode: ",
+    "details": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n█ ▄▄▄▄▄ █▀▄▄ ▀█▄▄█▀▄▄█▀▄ ▄▀▀▄█▀▄▄▄██ ▀▄▀  ▄▄▀█▄▄ ██ ▄▄▄▄▄ █\n█ █   █ █▀    ▀▄█▄▀ ██▄▄▀▀▀█▀▄▄▄ ▄▄   ▀▀ ▄█▀▀█ ▄ ██ █   █ █\n█ █▄▄▄█ █▀ ▀█▀█▄▄███▄ ▀ ▀ █ ▄▄▄ ▄▄█▀█▀ ▀ ▀▄  █▀▀▄██ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀ █▄█▄▀▄█ ▀ ▀▄█ █ █▄█ ▀▄█ ▀▄█▄█ █ ▀ ▀ ▀▄█▄▄▄▄▄▄▄█\n█  ▄▄▄█▄▄▄█▄▄ ▄▀▀▄▄  ███▄▀      ▀█▀██  ▄▄█ ▀█▀▄█▀▀▄█▄▀▄▀▄▀█\n█▀▄▀   ▄▀▀▀▄█▀▄ ▀▄▀ ▀▀▀  ▀█▄▀▄▀█▀▀  █▄▄ ▄ ▀▄▄▄ ▄ ▀▀▄██▀▀███\n█▀▄▄▄██▄█▀▄█▀▀▄▄▀▄▀ ▀█▀▄▄▀▄▄██▀███▄██▄ ▄▀█▀▀▄▀▄█   ██▀▀▄▄██\n█▄ ▀ █▄▄█▄█  █▄ ▀▄▀ ▀▀▄▄▀█ ▄▀█▀ ▄▀▄▄▄▄▄   █▄▀ ▀  ▀ ▀ ▀▀  ▀█\n█▄ ▀█▀ ▄ █ ▀█▀▀▀▄█▄ ▄▄▀██▀ █▀    ▀▀█▄ ▄██▀   ███▀▀▀▄▀█ ██ █\n██▄ ▄▀ ▄██▄█▄ ▀█▀█▄▀▄▄▀▀█▀▀▄▀ █▀▀█▀▄██▄▄█▀▀ ██▄▀  █▀██ ▀▄▀█\n█▀▀▄  █▄▀ ▄   ▀█▄▀▄▄▄█▀█▀▄▀ █▀█  █▄▄ ▄██▄█▀▀▄▀▄█▄▀ ██▀█▄▀ █\n██▄▄█  ▄▀  ▄ ▄▀▄▄  ▀▄█▀▀▀█▀ ▀██▀█▄▄  ▄ ▄▀▀█▀█▀▄ ▄ ▄▀▄█ ▀▀▀█\n█████▄▄▄▄██▀▄▄ ▄▄█▀▄█▄▀▀▄▀██▀▀ ▀▄  ██ ▄█▀▀ ▀▄███▀  ▄▀▀▄   █\n█▀██▀ ▄▄▄   ▀█▄█▀▀▄█ ▀▄███▄ ▄▄▄ ▄ █▄▄█▄▄▄▀█▀▄█ ▄█ ▄▄▄ ▀ ▄▀█\n███ █ █▄█  ▀ ▄▄ ▀▄▄▀▀▄▄█▀▀▀ █▄█  ▀▄█▄▄ ██▀█▀ ▀▄▄▄ █▄█   ███\n█ ▀▄▄ ▄▄▄ ▀▀ ▄▄▀█ ▄▄▀█▄▄▄▄▀  ▄    █ ████  ▀█▀  ▄▀▄▄▄ ▄▀  ██\n█▄▀█▄▀▀▄▄  ▀▄██ ▀▄█▄▀▄▀▀▀ ███▄▀ ▄█▀█ ▄ ▄▀██ ██▀▄█ █▄██ ▄▀██\n██▄▀██▄▄█▀ █ ▄▄█ █▄  ▄█▄▀▀█  ▀▀  ▀▄  ███ █▄▀ ▀█▄ █ █ ▄▄▀ ▀█\n█▄▀▀ ▄ ▄█ ▄█ ▄▄█▀█▄ ▀▀▀▀▄ ▄ ▀█▄ ▄▀▄▄ ▄ ▄▀▀  █▀▀█▀  ▀██ ▀█▀█\n██▄ ▄▄ ▄ ▄▄█▀ █▀▀█▀▀▀ ▀▄▄ █▄▀█▄▄▀█ ▄█▀██ █▄▄▀▀▀▄█▄▄▀  ▀▀▄▄█\n█ ▄▀ ▀ ▄▀▀▀▀▀▀▄▄█▄  ▄▄▀▀  █▀█▄▀█▀█▀█  ▄███ ▀ ▀███ ▀▄▄█▀ ▀▀█\n██▀ ▄▀▀▄▀▄██▄ ▀ ██▀  ▄▀  ██▀█▀ ▄██ █▄█▄▄  ▀█▄▀▀▄▄█ █▀▄ ▀▀██\n█▄ ▄ ▄▄▄ ██▄█▀▀█▄▄▀  █▀▄▀▀█ █▄▀▄▄▀▀▄   ▄▄▀ ▀██▄▄▀▄█ ▄█ ▀ ██\n█ ▀ ▀▀▄▄▄█▀█▄ ▄▀ █ █▀▄▄▀█▄ █ █▄ ▄▀█ █ █▀█▀█  ▀▄▄█▄▀▀ ▄  ▄██\n███████▄▄ ▄ ▄▄ ▄██▄ ▀▄▀▀▀▀▀ ▄▄▄ ▄▀▄█▄▄ ▄█▀ ▀ ▀█▄█ ▄▄▄ █ ▀▄█\n█ ▄▄▄▄▄ █▄▄▀ ███    ▀ ██ ██ █▄█ ▄███▄▄▀▀▄▀▄██▀▀▀▀ █▄█  ▀ ▀█\n█ █   █ █ █▄█ ▄ ▄▀  ▄█▄▀▀▄▀ ▄▄ ▄ █▀█ ▄▀█▄█  ▄▀███ ▄ ▄▄ ▀█▄█\n█ █▄▄▄█ █  ▄▀ ▄█▄ ▀▀▄█  ▀█▀ ▀█▀████ ▄▄█ █▀▀▄▀▄▄█ ▄ ███  ███\n█▄▄▄▄▄▄▄█▄▄▄▄█▄██▄█▄▄▄██████▄▄█▄▄▄▄▄▄▄▄█▄███▄███▄█▄█▄▄█▄▄██\n"
+  },
+  {
+    "timestamp": "2025-06-21T22:11:15.385Z",
+    "level": "info",
+    "message": "Chave \"QR_CODE\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-06-21T22:11:15.395Z",
+    "level": "warn",
+    "message": "Variável de ambiente QR_CODE_PATH não definida. QR Code não será salvo em arquivo temporário."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "date": "16/05/2025",
+    "time": "10:55:24",
+    "type": "User",
+    "message": "Oi"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:56:25",
+    "type": "IA",
+    "message": "Olá, sou a Ana da Global Tur, tudo bem? Com quem falo?\n"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:58:19",
+    "type": "User",
+    "message": "Josué"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:59:18",
+    "type": "IA",
+    "message": "Olá Josué, prazer! Tudo bem por aí? 😊"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:59:30",
+    "type": "User",
+    "message": "Bem graças a Deus e você?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:59:31",
+    "type": "IA",
+    "message": "Que tipo de imóvel te interessa mais?\n🏡 Casa\n🏢 Apartamento (pronto ou na planta)\n🌄 Terreno\n💼 Qualquer boa oportunidade de lucro"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:59:41",
+    "type": "User",
+    "message": "Apartamento"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:00:43",
+    "type": "IA",
+    "message": "Que bom que está tudo bem, Josué! Por aqui também tudo ótimo! 🥰\n\nApartamento é uma excelente escolha! Eu também adoro, principalmente a praticidade. 😉"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:00:54",
+    "type": "IA",
+    "message": "Quanto você pensa em investir hoje?\n💸 Até R$ 500 mil\n💰 De R$ 500 mil a R$ 900 mil\n💼 Acima de R$ 900 mil"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:01:47",
+    "type": "User",
+    "message": "Até 500"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:02:42",
+    "type": "IA",
+    "message": "Ótimo!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:02:46",
+    "type": "IA",
+    "message": "Uma faixa de investimento bem interessante."
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:02:47",
+    "type": "IA",
+    "message": "😉"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:02:51",
+    "type": "IA",
+    "message": "Como você pensa em fazer esse investimento?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:02:53",
+    "type": "IA",
+    "message": "💵 À vista"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:02:55",
+    "type": "IA",
+    "message": "📆 Entrada + parcelas"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "11:03:00",
+    "type": "IA",
+    "message": "📈 Longo prazo (pra valorizar e lucrar depois)"
+  },
+  {
+    "date": "17/05/2025",
+    "time": "10:19:53",
+    "type": "User",
+    "message": "Oi"
+  },
+  {
+    "date": "17/05/2025",
+    "time": "10:20:48",
+    "type": "IA",
+    "message": "Olá Josué, tudo bem?"
+  },
+  {
+    "date": "17/05/2025",
+    "time": "10:20:51",
+    "type": "IA",
+    "message": "Desculpa a demora em responder!"
+  },
+  {
+    "date": "17/05/2025",
+    "time": "10:20:58",
+    "type": "IA",
+    "message": "Vi que você tinha respondido sobre a forma de pagamento do imóvel."
+  },
+  {
+    "date": "17/05/2025",
+    "time": "10:21:01",
+    "type": "IA",
+    "message": "À vista é uma ótima escolha!"
+  },
+  {
+    "date": "17/05/2025",
+    "time": "10:21:05",
+    "type": "IA",
+    "message": "😉 Temos boas opções para você."
+  },
+  {
+    "date": "17/05/2025",
+    "time": "10:21:12",
+    "type": "IA",
+    "message": "O corretor Everton vai entrar em contato para te apresentar as opções."
+  },
+  {
+    "date": "17/05/2025",
+    "time": "10:21:16",
+    "type": "IA",
+    "message": "Qual o melhor horário para ele te ligar?"
+  }
+]

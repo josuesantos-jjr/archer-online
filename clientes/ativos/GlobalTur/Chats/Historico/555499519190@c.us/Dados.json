@@ -1,0 +1,36 @@
+{
+  "name": "Não identificado",
+  "sobrenome": "",
+  "telefone": "555499519190",
+  "tags": [
+    "interesse-em-turismo",
+    "contato-inicial",
+    "atendimento-global-tur",
+    "busca-informacao-rapida",
+    "interesse-motorhome",
+    "poder-compra-alto",
+    "investimento-acima-de-900-mil",
+    "orcamento-alto-2-milhoes",
+    "busca-desconto-pix"
+  ],
+  "listaNome": null,
+  "lead": "não",
+  "data_ultima_mensagem_recebida": "2025-05-16T19:45:55.094Z",
+  "intencao": "NEGOCIACAO",
+  "ultimaAnalise": "2025-05-16T16:42:45.841Z",
+  "ultimaInteracao": "2025-05-16T16:42:45.841Z",
+  "status": "ativo",
+  "origem": "monitoramento_conversa",
+  "data_ultima_mensagem_enviada": "2025-05-16T19:47:12.782Z",
+  "interest": "Sim",
+  "orçamento": "Sim",
+  "nivel_followup": "1",
+  "detalhes_agendamento": [
+    {
+      "agendamento_identificado": "sim",
+      "data_agendada": "{Não identificada}",
+      "horario_agendado": "{01:36h da madrugada}",
+      "agendamento_realizado": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "data": "2025-05-19T10:30:04.956Z",
+    "numeroTelefone": "555189820808",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 1,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-05-19T10:30:48.103Z",
+    "numeroTelefone": "555184061446",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 2,
+    "limiteDiario": 36
+  },
+  {
+    "data": "2025-05-19T10:31:28.340Z",
+    "numeroTelefone": "555180185997",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 3,
+    "limiteDiario": 36
+  }
+]

@@ -1,0 +1,259 @@
+.panel {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5rem;
+  animation: fadeIn 0.3s ease;
+}
+
+.title {
+  margin: 0 0 1rem 0;
+  color: #2d3436;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #f1f3f5;
+}
+
+.processGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.processCard {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 0.75rem;
+  transition: all 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.processCard:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.processCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 100%;
+  transition: background-color 0.2s ease;
+}
+
+.processCard.online::before {
+  background: #00b894;
+}
+
+.processCard.stopped::before {
+  background: #e74c3c;
+}
+
+.processCard.unknown::before {
+  background: #636e72;
+}
+
+.processName {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.95rem;
+  color: #2d3436;
+  font-weight: 600;
+}
+
+.processInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.status {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 0.85rem;
+}
+
+.status::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  margin-right: 6px;
+  transition: background-color 0.2s ease;
+}
+
+.online .status {
+  color: #00b894;
+}
+
+.online .status::before {
+  background: #00b894;
+  box-shadow: 0 0 6px rgba(0, 184, 148, 0.4);
+}
+
+.stopped .status {
+  color: #e74c3c;
+}
+
+.stopped .status::before {
+  background: #e74c3c;
+  box-shadow: 0 0 6px rgba(231, 76, 60, 0.4);
+}
+
+.stats {
+  display: flex;
+  gap: 0.5rem;
+  color: #636e72;
+  font-size: 0.8rem;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #e9ecef;
+}
+
+.uptime {
+  color: #636e72;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+
+.uptime::before {
+  content: '⏱';
+  margin-right: 4px;
+  font-size: 0.75rem;
+}
+
+.loading {
+  text-align: center;
+  color: #636e72;
+  padding: 1rem;
+  font-size: 0.9rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border: 1px solid #e9ecef;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.controls {
+  margin-top: 8px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Estilo base para os botões de controle */
+.controlButton {
+  color: white;
+  border: none;
+  padding: 5px 10px; /* Ajuste o padding conforme necessário */
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85em; /* Ajuste o tamanho da fonte */
+  font-weight: 500;
+  transition:
+    background-color 0.2s ease,
+    opacity 0.2s ease;
+  margin-left: 5px; /* Espaço entre botões */
+}
+
+.controlButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Estilo específico para o botão Parar */
+.stopButton {
+  background-color: #ffc107; /* Amarelo/Laranja para Parar */
+  color: #333; /* Texto escuro para contraste */
+}
+
+.stopButton:not(:disabled):hover {
+  background-color: #e0a800;
+}
+
+/* Estilo específico para o botão Deletar */
+.deleteButton {
+  background-color: #dc3545; /* Vermelho para Deletar */
+}
+
+.deleteButton:not(:disabled):hover {
+  background-color: #c82333;
+}
+
+/* --- Media Queries para Responsividade --- */
+
+@media (max-width: 768px) {
+  .panel {
+    padding: 0.8rem 1rem; /* Reduz padding do painel */
+  }
+  .title {
+    font-size: 1rem; /* Reduz título */
+  }
+  .processGrid {
+    gap: 0.8rem; /* Reduz espaço entre cards */
+    /* auto-fit já deve funcionar bem aqui, talvez ajustar minmax se necessário */
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+  .processCard {
+    padding: 0.6rem; /* Reduz padding do card */
+  }
+  .processName {
+    font-size: 0.9rem;
+  }
+  .status {
+    font-size: 0.8rem;
+  }
+  .stats {
+    font-size: 0.75rem;
+    flex-wrap: wrap; /* Permite que CPU/RAM quebrem linha */
+    gap: 0.3rem;
+  }
+  .controls {
+    flex-wrap: wrap; /* Permite que botões quebrem linha */
+    justify-content: flex-start; /* Alinha à esquerda quando quebrar */
+    gap: 5px; /* Espaço entre botões */
+  }
+  .controlButton {
+    padding: 4px 8px;
+    font-size: 0.8em;
+    flex-grow: 1; /* Faz botões ocuparem espaço */
+    min-width: 60px; /* Tamanho mínimo */
+  }
+}
+
+@media (max-width: 480px) {
+  .processGrid {
+    grid-template-columns: 1fr; /* Força uma coluna */
+    gap: 0.6rem;
+  }
+  .processCard {
+    padding: 0.5rem;
+  }
+  .processName {
+    font-size: 0.85rem;
+  }
+  .stats {
+    font-size: 0.7rem;
+  }
+  .controlButton {
+    padding: 3px 6px;
+    font-size: 0.75em;
+  }
+}

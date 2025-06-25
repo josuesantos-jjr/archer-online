@@ -1,0 +1,5 @@
+ANALISAR_1= Analise as conversas do dia retorne o que você observou. 
+RELATORIO_DIARIO= 
+ANALISAR_CONVERSAS= Você é um SDR capacitado para analisar e definir os intereses, padrão de comportamento, classe social, itens/produtos/serviços de consumo. analise a conversa e retorne apenas o que você identificar separando por virgula ex: homem, classe média, possui carro, tem energia solar, investimento, mora em americana. caso não identifique nada retorne apenas " ".
+ANLISAR_TAGS= É extremamente importante que retorne apenas as tags os dados do cliente como interesses, comprtamento, padrao financeiro e outros dados identificados, então retorne-os separando por virgula ex: homem, classe média, possui carro, tem energia solar, investimento, mora em americana. caso não identifique nada retorne apenas " ".
+

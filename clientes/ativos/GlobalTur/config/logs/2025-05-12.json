@@ -1,0 +1,4137 @@
+[
+  {
+    "timestamp": "2025-05-12T11:57:36.585Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:36.586Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:36.587Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:36.588Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:36.589Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:36.590Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:53.359Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:53.360Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:53.369Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T11:57:54.587Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T11:57:56.689Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:56.691Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T11:57:56.694Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T11:58:34.355Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T11:58:34.358Z",
+    "level": "info",
+    "message": "Nome não identificado para 555491304444@c.us. Tentando identificar..."
+  },
+  {
+    "timestamp": "2025-05-12T11:58:34.359Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Nome) aguardando 19.327142604308847..."
+  },
+  {
+    "timestamp": "2025-05-12T11:58:34.361Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Claro"
+  },
+  {
+    "timestamp": "2025-05-12T11:58:34.365Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T11:58:34.370Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T11:58:36.319Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T11:58:36.322Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T11:58:55.005Z",
+    "level": "info",
+    "message": "Nome identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T11:58:55.008Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "name",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T11:58:55.012Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T11:58:55.019Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 14.9s..."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:10.592Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T11:59:10.594Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T11:59:10.596Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:10.598Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.768374693434627..."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:22.895Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:28.906Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T11:59:28.912Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T11:59:28.916Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:28.921Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.8s..."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:38.027Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T11:59:45.079Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T11:59:45.081Z",
+    "level": "info",
+    "message": "Nome não identificado para 555491304444@c.us. Tentando identificar..."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:45.083Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Nome) aguardando 19.39648352253204..."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:45.084Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Tudo certo"
+  },
+  {
+    "timestamp": "2025-05-12T11:59:45.087Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:45.091Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:46.343Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T11:59:46.347Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:00:05.132Z",
+    "level": "info",
+    "message": "Nome identificado pela IA: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T12:00:05.139Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "name",
+      "value": "Nome do cliente: Everton"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:00:05.145Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:00:05.152Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 14.6s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:00:21.020Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T12:00:21.022Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:00:21.024Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:00:21.025Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.974138806295855..."
+  },
+  {
+    "timestamp": "2025-05-12T12:00:33.348Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:00:39.302Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T12:00:39.305Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:00:39.307Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:00:39.308Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 8.3s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:00:48.925Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T12:01:15.813Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T12:01:15.815Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T12:01:15.820Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:15.839Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.8s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:15.842Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Não tenho interesse em imóveis"
+  },
+  {
+    "timestamp": "2025-05-12T12:01:15.851Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:15.856Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:17.683Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:17.685Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:30.318Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:01:30.324Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:01:30.327Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:30.331Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.54865865784027..."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:50.206Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T12:01:50.212Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:01:50.215Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:01:50.219Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 9.3s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:02:00.821Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T12:02:05.899Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:02.413Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:02.418Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:02.420Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:02.423Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 12.3s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:02.425Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Ooohhh louco"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:02.433Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:02.443Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:04.399Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:04.402Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:11.637Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:11.640Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:11.643Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:11.646Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 10.9s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:11.650Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Até consórcio agora?"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:11.658Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:11.664Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:13.760Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:13.767Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:15.315Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:15.320Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:03:15.323Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:15.334Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.660780286008855..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:23.168Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:23.173Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:03:23.176Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:23.179Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.782433951227667..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:35.277Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:35.281Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:03:35.283Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:35.286Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:41.385Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:41.388Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:03:41.393Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:41.395Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 5.5s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:03:42.628Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:48.203Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T12:03:57.959Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:04:46.234Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T12:04:46.237Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T12:04:46.239Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:04:46.241Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 12.6s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:04:46.244Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Que loucura"
+  },
+  {
+    "timestamp": "2025-05-12T12:04:46.255Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T12:04:46.263Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T12:04:48.387Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T12:04:48.389Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:00.204Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:00.206Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:05:00.208Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:00.210Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.31827749697057..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:09.872Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:09.875Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:09.877Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:09.879Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 12.8s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:09.882Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Você conhece algum receptivo de Gramado?"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:09.889Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:09.892Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:11.958Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:11.962Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:17.810Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:17.813Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:05:17.815Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:17.817Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 9.4s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:23.982Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:23.984Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:05:23.987Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:23.989Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.48474295266191..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:27.764Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:35.878Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:43.119Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:43.122Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:05:43.124Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:43.126Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.3s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:05:50.716Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:56.619Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:03.608Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T12:07:03.611Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T12:07:03.612Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:03.614Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 11.4s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:03.617Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Por favor"
+  },
+  {
+    "timestamp": "2025-05-12T12:07:03.623Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:03.626Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:05.710Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:05.713Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:16.436Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:07:16.439Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:07:16.441Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:16.442Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 17.584235817264133..."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:35.336Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:07:35.339Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:07:35.341Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:35.342Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.8s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:07:43.420Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T12:07:51.403Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:24.060Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T12:08:24.063Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T12:08:24.065Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:24.067Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:24.070Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Obrigado"
+  },
+  {
+    "timestamp": "2025-05-12T12:08:24.075Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:24.080Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:25.657Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:25.664Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:38.431Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:08:38.433Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:08:38.435Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:38.437Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.828491465132263..."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:58.149Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T12:08:58.153Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T12:08:58.158Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:08:58.162Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.1s..."
+  },
+  {
+    "timestamp": "2025-05-12T12:09:06.755Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T12:09:07.154Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T12:57:54.720Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-12T12:57:54.748Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:21.232Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T13:44:21.236Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T13:44:21.237Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:21.239Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 10.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:21.242Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Oi"
+  },
+  {
+    "timestamp": "2025-05-12T13:44:21.254Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:21.265Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:23.239Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:23.246Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:32.721Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T13:44:32.729Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T13:44:32.735Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:32.746Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 17.775168466305157..."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:51.382Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T13:44:51.390Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T13:44:51.399Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:51.406Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 5.7s..."
+  },
+  {
+    "timestamp": "2025-05-12T13:44:58.621Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T13:45:11.236Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:45:49.438Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T13:45:49.442Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T13:45:49.444Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:45:49.448Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 10.6s..."
+  },
+  {
+    "timestamp": "2025-05-12T13:45:49.451Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "Imobiliário"
+  },
+  {
+    "timestamp": "2025-05-12T13:45:49.456Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T13:45:49.460Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T13:45:51.416Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T13:45:51.440Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:46:01.549Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não"
+  },
+  {
+    "timestamp": "2025-05-12T13:46:01.554Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T13:46:01.558Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:46:01.565Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 15.1098904806989..."
+  },
+  {
+    "timestamp": "2025-05-12T13:46:18.112Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T13:46:18.115Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T13:46:18.117Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:46:18.119Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.1s..."
+  },
+  {
+    "timestamp": "2025-05-12T13:46:26.787Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T13:46:36.896Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:20.661Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T13:47:20.665Z",
+    "level": "info",
+    "message": "Nome já identificado para 555491304444@c.us: Nome do cliente: Everton"
+  },
+  {
+    "timestamp": "2025-05-12T13:47:20.667Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:20.670Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.1s..."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:20.674Z",
+    "level": "info",
+    "message": "Mensagem recebida de 555491304444@c.us:",
+    "details": "4"
+  },
+  {
+    "timestamp": "2025-05-12T13:47:20.683Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 555491304444@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:20.687Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 555491304444@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:22.314Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 555491304444@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:22.317Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:35.261Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T13:47:35.270Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T13:47:35.277Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:35.295Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 19.500718041234634..."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:56.241Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Não"
+  },
+  {
+    "timestamp": "2025-05-12T13:47:56.250Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 555491304444@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Não"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T13:47:56.258Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:47:56.268Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.8s..."
+  },
+  {
+    "timestamp": "2025-05-12T13:48:04.859Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 555491304444@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T13:48:10.210Z",
+    "level": "info",
+    "message": "Enviando mensagens para 555491304444@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T13:57:54.727Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-12T13:57:54.745Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:34.857Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T14:37:34.862Z",
+    "level": "info",
+    "message": "Nome não identificado para 5519981526108@c.us. Tentando identificar..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:34.866Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Nome) aguardando 17.12985653172172..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:34.873Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519981526108@c.us:",
+    "details": "Bom dia"
+  },
+  {
+    "timestamp": "2025-05-12T14:37:34.880Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519981526108@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:34.890Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519981526108@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:36.659Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519981526108@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:36.666Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:37.920Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T14:37:37.924Z",
+    "level": "info",
+    "message": "Nome não identificado para 5519981526108@c.us. Tentando identificar..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:37.926Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Nome) aguardando 19.109686095511456..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:37.931Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519981526108@c.us:",
+    "details": "Sim"
+  },
+  {
+    "timestamp": "2025-05-12T14:37:37.934Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519981526108@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:37.938Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519981526108@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:39.170Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519981526108@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:39.173Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:52.732Z",
+    "level": "info",
+    "message": "Nome identificado pela IA: Nome do cliente: Adriana"
+  },
+  {
+    "timestamp": "2025-05-12T14:37:52.741Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519981526108@c.us:",
+    "details": {
+      "field": "name",
+      "value": "Nome do cliente: Adriana"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T14:37:52.753Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:52.761Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 12.7s..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:58.423Z",
+    "level": "info",
+    "message": "Nome identificado pela IA: Nome do cliente: Adriana"
+  },
+  {
+    "timestamp": "2025-05-12T14:37:58.432Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519981526108@c.us:",
+    "details": {
+      "field": "name",
+      "value": "Nome do cliente: Adriana"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T14:37:58.439Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:37:58.446Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 11.6s..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:06.846Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T14:38:06.856Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519981526108@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T14:38:06.861Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:06.866Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.919673002049056..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:10.673Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T14:38:10.682Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519981526108@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T14:38:10.692Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:10.700Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 15.51586137326036..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:24.892Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:26.358Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T14:38:26.363Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519981526108@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T14:38:26.368Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:26.373Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:27.541Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Não identificado"
+  },
+  {
+    "timestamp": "2025-05-12T14:38:27.546Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519981526108@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Não identificado"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T14:38:27.552Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519981526108@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:27.556Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.1s..."
+  },
+  {
+    "timestamp": "2025-05-12T14:38:34.761Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 5519981526108@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T14:38:36.026Z",
+    "level": "info",
+    "message": "Condição de lead NÃO atingida para 5519981526108@c.us. Resposta IA: Lead: Não identificado\n"
+  },
+  {
+    "timestamp": "2025-05-12T14:57:54.730Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-12T14:57:54.751Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-12T15:37:54.773Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T15:37:54.775Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T15:37:54.777Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T15:37:54.779Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T15:37:54.781Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T15:37:54.784Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T15:38:03.077Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T15:38:03.081Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T15:38:03.091Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T15:38:04.346Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T15:38:05.334Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T15:38:05.339Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T15:38:05.346Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T16:31:36.474Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T16:31:36.479Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T16:31:36.482Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T16:31:36.486Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T16:31:36.491Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Me responda apenas oi"
+  },
+  {
+    "timestamp": "2025-05-12T16:31:36.499Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T16:31:36.504Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T16:31:39.148Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T16:31:39.153Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T16:31:50.493Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T16:31:50.500Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T16:31:50.508Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T16:31:50.511Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 18.006087799742513..."
+  },
+  {
+    "timestamp": "2025-05-12T16:32:10.150Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T16:32:10.154Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T16:32:10.158Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T16:32:10.169Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T16:32:17.132Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T16:32:17.134Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T16:32:26.688Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T16:38:04.464Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-12T16:38:04.495Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-12T19:36:51.865Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T19:36:51.874Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T19:36:51.883Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T19:36:51.888Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T19:36:51.905Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T19:36:51.919Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:16.850Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:16.857Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:16.860Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:16.863Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:16.866Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:16.878Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:27.869Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:27.875Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:27.888Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T20:05:29.313Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T20:05:30.315Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:30.317Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:05:30.325Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:05.494Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T20:14:05.499Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:14:05.509Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:05.516Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 11.4s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:05.522Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Me responda apenas oi"
+  },
+  {
+    "timestamp": "2025-05-12T20:14:05.531Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:05.544Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:08.251Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:08.257Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:18.642Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:14:18.651Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:14:18.660Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:18.669Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 17.638874963864126..."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:37.361Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:14:37.390Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:14:37.394Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:37.492Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 8.6s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:47.732Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:14:47.735Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:14:53.593Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:05.086Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T20:21:05.091Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:21:05.109Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:05.140Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 11.6s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:05.230Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Me responda apenas oi"
+  },
+  {
+    "timestamp": "2025-05-12T20:21:05.270Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:05.279Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:07.286Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:07.293Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:18.451Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:21:18.456Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:21:18.459Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:18.490Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 15.982534453852764..."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:36.109Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:21:36.113Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:21:36.116Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:36.123Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 8.1s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:45.860Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:21:45.864Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:21:58.017Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:24:52.611Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:24:52.614Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:24:52.617Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T20:24:52.620Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T20:24:52.623Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T20:24:52.630Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:25:03.745Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T20:25:03.753Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:25:03.758Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T20:25:05.035Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T20:25:06.491Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T20:25:06.553Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:25:06.563Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T20:27:37.019Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T20:27:37.024Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:27:37.027Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:27:37.033Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 14.2s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:27:37.040Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Responda apenas oi"
+  },
+  {
+    "timestamp": "2025-05-12T20:27:37.049Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:27:37.058Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T20:27:39.791Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:27:39.795Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:27:52.213Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:27:52.219Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:27:52.228Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:27:52.236Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 17.640672591429..."
+  },
+  {
+    "timestamp": "2025-05-12T20:28:10.989Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:28:10.999Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:28:11.006Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:28:11.012Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.2s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:28:19.167Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:28:19.170Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:28:30.166Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:42:48.947Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:42:48.953Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:42:48.956Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T20:42:48.960Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T20:42:48.964Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T20:42:48.969Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:42:59.768Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T20:42:59.773Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:42:59.784Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:01.150Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:04.702Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T20:43:04.713Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T20:43:04.811Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:43.601Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T20:43:43.607Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:43:43.613Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:43.626Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 11.7s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:43.637Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Responda apenas oi"
+  },
+  {
+    "timestamp": "2025-05-12T20:43:43.647Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:43.736Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:46.203Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:46.206Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:56.944Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:43:56.955Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:43:56.963Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:43:56.970Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 19.709854003014705..."
+  },
+  {
+    "timestamp": "2025-05-12T20:44:17.766Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:44:17.769Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:44:17.772Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:44:17.777Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 9.6s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:44:28.997Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:44:29.001Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:44:54.237Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:12.282Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T20:45:12.286Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:45:12.289Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:12.304Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 10.5s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:12.310Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Responda apenas oi"
+  },
+  {
+    "timestamp": "2025-05-12T20:45:12.320Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:12.343Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:14.429Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:14.433Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:24.647Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:45:24.652Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:45:24.657Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:24.660Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 19.372867910787484..."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:45.684Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:45:45.687Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:45:45.689Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:45.694Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:45:54.337Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:45:54.340Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:46:04.361Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:09.258Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T20:51:09.263Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:51:09.268Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:09.283Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.5s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:09.289Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Me responda apenas oi"
+  },
+  {
+    "timestamp": "2025-05-12T20:51:09.301Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:09.309Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:11.877Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:11.881Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:23.705Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:51:23.711Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:51:23.715Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:23.719Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.56504001205133..."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:41.292Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:51:41.296Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:51:41.301Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:41.303Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 7.3s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:51:50.170Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:51:50.174Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:52:01.028Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:53:47.826Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T20:53:47.832Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:53:47.841Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:53:47.849Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 10.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:53:47.857Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Quero uma ligação com o Everton hoje daqui 2 horas"
+  },
+  {
+    "timestamp": "2025-05-12T20:53:47.866Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:53:47.895Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T20:53:50.548Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:53:50.552Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:53:59.550Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:53:59.555Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:53:59.561Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:53:59.565Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 19.545257694131823..."
+  },
+  {
+    "timestamp": "2025-05-12T20:54:20.710Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:54:20.713Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:54:20.718Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:54:20.723Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 8.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:54:29.844Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.364Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.369Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "lead",
+      "value": "sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.374Z",
+    "level": "info",
+    "message": "Marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.381Z",
+    "level": "info",
+    "message": "Iniciando identificação de lead para cliente ativos/GlobalTur, chatId: 5519971103290@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.386Z",
+    "level": "info",
+    "message": "Contato principal encontrado: gdk1o4bwfli"
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.391Z",
+    "level": "info",
+    "message": "Lead não encontrado para 5519971103290@c.us neste cliente. Salvando novo lead..."
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.399Z",
+    "level": "info",
+    "message": "Diretório de leads criado: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur\\config\\leads\\2025\\05\\12"
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.402Z",
+    "level": "info",
+    "message": "Novo lead salvo em C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur\\config\\leads\\2025\\05\\12\\leads.json com ID: xzroe66xp6"
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.405Z",
+    "level": "info",
+    "message": "Novo lead salvo com ID: xzroe66xp6. Iniciando timer para resumo."
+  },
+  {
+    "timestamp": "2025-05-12T20:54:30.413Z",
+    "level": "info",
+    "message": "Iniciando timer de 10 minutos para resumo do lead xzroe66xp6 (contato: gdk1o4bwfli, chat: 5519971103290@c.us)."
+  },
+  {
+    "timestamp": "2025-05-12T20:55:54.466Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "ptt"
+  },
+  {
+    "timestamp": "2025-05-12T20:55:54.473Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:55:54.486Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:55:54.501Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.4s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:55:54.513Z",
+    "level": "info",
+    "message": "Mensagem de áudio recebida!"
+  },
+  {
+    "timestamp": "2025-05-12T20:56:09.248Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:56:09.284Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:56:09.329Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:09.335Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.34026335829589..."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:12.245Z",
+    "level": "info",
+    "message": "Áudio salvo em: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur\\config\\transcrever\\1747083371941.mp3"
+  },
+  {
+    "timestamp": "2025-05-12T20:56:13.560Z",
+    "level": "info",
+    "message": "Transcrição do áudio: Eh, pede para ele me ligar, eh, pelo WhatsApp mesmo, porque aqui onde eu tô, eu só tô com Wi-Fi. Não tá funcionando o sinal normal do celular, então, pelo Wi-Fi aí eu consigo atender a ligação dele.\n"
+  },
+  {
+    "timestamp": "2025-05-12T20:56:13.566Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem (transcrição de áudio) de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:13.578Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:13.584Z",
+    "level": "info",
+    "message": "Nova mensagem (transcrição) recebida para lead xzroe66xp6. Reiniciando timer de resumo."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:13.591Z",
+    "level": "info",
+    "message": "Timer de resumo anterior para 5519971103290@c.us limpo."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:13.594Z",
+    "level": "info",
+    "message": "Iniciando timer de 10 minutos para resumo do lead xzroe66xp6 (contato: gdk1o4bwfli, chat: 5519971103290@c.us)."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:27.429Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:56:27.433Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:56:27.437Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:27.444Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.5s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:35.554Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:56:35.557Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:56:54.668Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:18.196Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "ptt"
+  },
+  {
+    "timestamp": "2025-05-12T20:57:18.201Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T20:57:18.206Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:18.225Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 14.2s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:18.235Z",
+    "level": "info",
+    "message": "Mensagem de áudio recebida!"
+  },
+  {
+    "timestamp": "2025-05-12T20:57:34.079Z",
+    "level": "info",
+    "message": "Áudio salvo em: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur\\config\\transcrever\\1747083453519.mp3"
+  },
+  {
+    "timestamp": "2025-05-12T20:57:34.100Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:57:34.110Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:57:34.117Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:34.126Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 16.102985784759163..."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:35.576Z",
+    "level": "info",
+    "message": "Transcrição do áudio: Pode sim, não tem problema.\n"
+  },
+  {
+    "timestamp": "2025-05-12T20:57:35.584Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem (transcrição de áudio) de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:35.591Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:35.600Z",
+    "level": "info",
+    "message": "Nova mensagem (transcrição) recebida para lead xzroe66xp6. Reiniciando timer de resumo."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:35.618Z",
+    "level": "info",
+    "message": "Timer de resumo anterior para 5519971103290@c.us limpo."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:35.639Z",
+    "level": "info",
+    "message": "Iniciando timer de 10 minutos para resumo do lead xzroe66xp6 (contato: gdk1o4bwfli, chat: 5519971103290@c.us)."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:51.875Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T20:57:51.884Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T20:57:51.894Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T20:57:51.899Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.7s..."
+  },
+  {
+    "timestamp": "2025-05-12T20:58:00.237Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T20:58:00.244Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T20:58:21.214Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T21:07:35.661Z",
+    "level": "info",
+    "message": "Timer de 10 minutos expirado para 5519971103290@c.us. Gerando resumo..."
+  },
+  {
+    "timestamp": "2025-05-12T21:07:35.666Z",
+    "level": "info",
+    "message": "Gerando resumo para lead xzroe66xp6 (contato: gdk1o4bwfli, chat: 5519971103290@c.us)..."
+  },
+  {
+    "timestamp": "2025-05-12T21:07:35.671Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Resumo) aguardando 12.5s..."
+  },
+  {
+    "timestamp": "2025-05-12T21:07:51.850Z",
+    "level": "info",
+    "message": "Resumo gerado pela IA: **Resumo da Conversa:**\n\nO cliente, Josué, demonstrou interesse em adquirir um apartamento, inicialm..."
+  },
+  {
+    "timestamp": "2025-05-12T21:07:51.853Z",
+    "level": "warn",
+    "message": "Lead com ID xzroe66xp6 não encontrado para o cliente ativos/GlobalTur."
+  },
+  {
+    "timestamp": "2025-05-12T21:07:51.857Z",
+    "level": "info",
+    "message": "Resumo salvo para lead xzroe66xp6. Analisando necessidade de follow-up..."
+  },
+  {
+    "timestamp": "2025-05-12T21:07:51.863Z",
+    "level": "info",
+    "message": "Enviando notificação de novo lead (com resumo) para 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T21:07:52.182Z",
+    "level": "info",
+    "message": "Mensagem enviada para 5519989808901@c.us: 🎉 *Novo Lead Identificado!* 🎉\n\n*Cliente:* GlobalTur\n*Nome:* Não identificado\n*Telefone:* 5519971103290\n*Data:* 12/05/2025 18:07:51\n\n*Resumo da Conversa:*\n**Resumo da Conversa:**\n\nO cliente, Josué, demonstrou interesse em adquirir um apartamento, inicialmente mencionando preferência por um imóvel pronto.  Mais tarde, ele se mostrou aberto a apartamentos na planta.  Ele busca um apartamento para sua família de 5 pessoas (incluindo duas crianças de 5 e 2 anos), com um orçamento de aproximadamente R$350.000 e disponibilidade para uma entrada de 20% ou mais, se necessário.  Josué preferiu agendar uma ligação com o corretor Everton para discutir as opções disponíveis no WhatsApp, devido à falta de sinal de celular em sua localização atual. A ligação foi agendada para as 19:56 do mesmo dia.\n\n**Informações Principais:**\n\n* **Tipo de imóvel:** Apartamento (inicialmente pronto, depois aberto a planta).\n* **Orçamento:** Aproximadamente R$ 350.000.\n* **Tamanho da família:** 5 pessoas (2 adultos e 3 crianças).\n* **Número de quartos desejados (implícito):** 3 quartos (inferido pela necessidade de espaço para uma família com crianças).\n* **Forma de pagamento:** Aberto a financiamento com entrada significativa (20% ou mais).\n* **Contato:** Preferência por ligação via WhatsApp às 19:56 do mesmo dia.\n\n\n**Conclusão:**\n\nO cliente expressou forte interesse em receber um orçamento e agendou uma ligação com o corretor Everton para prosseguir com o processo de compra.\n"
+  },
+  {
+    "timestamp": "2025-05-12T21:07:52.202Z",
+    "level": "info",
+    "message": "Follow-up não necessário para 5519971103290@c.us no momento."
+  },
+  {
+    "timestamp": "2025-05-12T21:43:06.454Z",
+    "level": "info",
+    "message": "Verificando e disparando followups agendados..."
+  },
+  {
+    "timestamp": "2025-05-12T21:43:06.506Z",
+    "level": "info",
+    "message": "Verificação e disparo de followups concluído."
+  },
+  {
+    "timestamp": "2025-05-12T22:26:51.917Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:26:51.921Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:26:51.928Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T22:26:51.933Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T22:26:51.937Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T22:26:51.941Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:27:04.673Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T22:27:04.687Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:27:04.706Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:27:05.940Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T22:27:06.689Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T22:27:06.695Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:27:06.711Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:30:43.906Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:43.910Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:43.919Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:43.924Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:43.933Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:43.939Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:54.041Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:54.048Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:54.058Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:30:55.295Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T22:30:56.362Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:56.382Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:30:56.417Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:32:50.195Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T22:32:50.201Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T22:32:50.206Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:32:50.217Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 11.3s..."
+  },
+  {
+    "timestamp": "2025-05-12T22:32:50.222Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "Ele consegue me chamar daqui hoje as 20:30?"
+  },
+  {
+    "timestamp": "2025-05-12T22:32:50.233Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T22:32:50.244Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T22:32:54.447Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T22:32:54.453Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:33:03.224Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T22:33:03.231Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T22:33:03.252Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:33:03.264Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 19.264388031739443..."
+  },
+  {
+    "timestamp": "2025-05-12T22:33:24.190Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T22:33:24.199Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T22:33:24.208Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:33:24.221Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 8.0s..."
+  },
+  {
+    "timestamp": "2025-05-12T22:33:33.912Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T22:33:33.919Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T22:33:35.902Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:38:22.973Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:22.978Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:22.984Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:22.988Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:22.997Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:23.051Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:33.308Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:33.317Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:33.332Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:38:34.565Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T22:38:36.398Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:36.427Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:38:36.564Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:03.333Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:03.338Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:03.343Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:03.349Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:03.356Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:03.361Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:12.596Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:12.601Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:12.611Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:13.842Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:15.385Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:15.390Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:15.400Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:36.256Z",
+    "level": "info",
+    "message": "Mensagem recebida:",
+    "details": "chat"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:36.264Z",
+    "level": "info",
+    "message": "Nome já identificado para 5519971103290@c.us: Nome do cliente: Josué"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:36.271Z",
+    "level": "info",
+    "message": "Tentando identificar interesse para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:36.278Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Interesse) aguardando 13.6s..."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:36.283Z",
+    "level": "info",
+    "message": "Mensagem recebida de 5519971103290@c.us:",
+    "details": "É melhor as 20:00. Pode confirmar esse horário"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:36.294Z",
+    "level": "info",
+    "message": "[Local Save] Mensagem recebida de 5519971103290@c.us salva localmente."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:36.303Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Iniciando análise de intenção/tags para 5519971103290@c.us após receber mensagem."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:40.580Z",
+    "level": "info",
+    "message": "[Monitoramento Trigger] Análise de intenção/tags concluída para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:40.588Z",
+    "level": "info",
+    "message": "Aguardando novas mensagens do cliente 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:51.818Z",
+    "level": "info",
+    "message": "Interesse identificado pela IA: Interesse: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T22:45:51.823Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "interest",
+      "value": "Interesse: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T22:45:51.827Z",
+    "level": "info",
+    "message": "Tentando identificar orçamento e data para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:45:51.835Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Orçamento) aguardando 15.694090145264969..."
+  },
+  {
+    "timestamp": "2025-05-12T22:46:08.554Z",
+    "level": "info",
+    "message": "Orçamento/Data identificado pela IA: Orçamento: Sim"
+  },
+  {
+    "timestamp": "2025-05-12T22:46:08.574Z",
+    "level": "info",
+    "message": "Atualização do lead em Dados.json para 5519971103290@c.us:",
+    "details": {
+      "field": "orçamento",
+      "value": "Orçamento: Sim"
+    }
+  },
+  {
+    "timestamp": "2025-05-12T22:46:08.601Z",
+    "level": "info",
+    "message": "Verificando condição de lead para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:46:08.613Z",
+    "level": "info",
+    "message": "Fazendo requisição para a IA (Lead Check) aguardando 6.4s..."
+  },
+  {
+    "timestamp": "2025-05-12T22:46:16.626Z",
+    "level": "info",
+    "message": "Condição de lead atingida para 5519971103290@c.us!"
+  },
+  {
+    "timestamp": "2025-05-12T22:46:16.633Z",
+    "level": "info",
+    "message": "Já marcado como lead em Dados.json para 5519971103290@c.us."
+  },
+  {
+    "timestamp": "2025-05-12T22:46:27.518Z",
+    "level": "info",
+    "message": "Enviando mensagens para 5519971103290@c.us..."
+  },
+  {
+    "timestamp": "2025-05-12T22:48:21.983Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:21.987Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:21.991Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:21.995Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:21.999Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:22.005Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:30.512Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:30.518Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:30.528Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:48:31.761Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T22:48:31.935Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:31.941Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:48:31.955Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:57:06.806Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:06.853Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:06.895Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:06.901Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:06.909Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:06.919Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:16.045Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:16.053Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:16.062Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T22:57:17.299Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T22:57:19.077Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:19.085Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T22:57:19.138Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:02:44.571Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:44.575Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:44.579Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:44.583Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:44.589Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:44.597Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:54.026Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:54.033Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:54.040Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:02:55.262Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T23:02:55.793Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:55.798Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:02:55.816Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:09:34.792Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:34.797Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:34.804Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:34.811Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:34.823Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:34.829Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:59.129Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:59.176Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:59.198Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:09:59.848Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:59.855Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:09:59.866Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:10:00.140Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T23:11:26.687Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:11:26.694Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:11:26.705Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T23:11:26.715Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T23:11:26.722Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T23:11:26.733Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:05.746Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:05.751Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:05.754Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:05.758Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:05.763Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:05.770Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:16.862Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:16.868Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:16.878Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:12:18.118Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T23:12:18.421Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:18.427Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:18.489Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:12:45.943Z",
+    "level": "info",
+    "message": "Cliente ID Completo: ativos/GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:45.947Z",
+    "level": "info",
+    "message": "Cliente (Nome): GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:45.950Z",
+    "level": "info",
+    "message": "AI Selected: GEMINI"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:45.956Z",
+    "level": "info",
+    "message": "Target Chat ID: 5519989808901@c.us"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:45.960Z",
+    "level": "info",
+    "message": "Gemini Key: AIzaSyAVJWgCtbiwDZ3i_Ba-uKhR_U9RyvHZdIc"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:45.966Z",
+    "level": "info",
+    "message": "Pasta cliente: C:\\Users\\Usuario\\Desktop\\Robo\\Archer antigo\\clientes\\ativos\\GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:55.621Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "isLogged"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:55.628Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:55.637Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:12:56.864Z",
+    "level": "info",
+    "message": "[Script Start] Função start iniciada."
+  },
+  {
+    "timestamp": "2025-05-12T23:12:57.851Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "inChat"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:57.858Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:12:57.867Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  },
+  {
+    "timestamp": "2025-05-12T23:13:45.417Z",
+    "level": "info",
+    "message": "Status Session: ",
+    "details": "browserClose"
+  },
+  {
+    "timestamp": "2025-05-12T23:13:45.425Z",
+    "level": "info",
+    "message": "Session name: ",
+    "details": "GlobalTur"
+  },
+  {
+    "timestamp": "2025-05-12T23:13:45.432Z",
+    "level": "info",
+    "message": "Chave \"STATUS_SESSION\" atualizada em infoCliente.json."
+  }
+]

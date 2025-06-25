@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "2025-05-16T14:48:16.765Z",
+    "intencao": "INDETERMINADO",
+    "tags": []
+  },
+  {
+    "timestamp": "2025-05-16T14:49:46.457Z",
+    "intencao": "OUTRO",
+    "tags": []
+  },
+  {
+    "timestamp": "2025-05-16T14:54:17.358Z",
+    "intencao": "PEDIDO_INFORMACAO",
+    "tags": [
+      "interesse-em-turismo",
+      "contato-inicial",
+      "atendimento-global-tur",
+      "busca-informacao-rapida"
+    ]
+  },
+  {
+    "timestamp": "2025-05-16T14:57:31.650Z",
+    "intencao": "OUTRO",
+    "tags": [
+      "interesse-motorhome",
+      "busca-imoveis",
+      "interesse-lucro",
+      "contato-inicial"
+    ]
+  },
+  {
+    "timestamp": "2025-05-16T16:42:29.183Z",
+    "intencao": "PEDIDO_INFORMACAO",
+    "tags": [
+      "interesse-motorhome",
+      "poder-compra-alto",
+      "investimento-acima-de-900-mil"
+    ]
+  },
+  {
+    "timestamp": "2025-05-16T16:42:46.493Z",
+    "intencao": "NEGOCIACAO",
+    "tags": [
+      "interesse-motorhome",
+      "orcamento-alto-2-milhoes",
+      "busca-desconto-pix"
+    ]
+  },
+  {
+    "timestamp": "2025-05-16T17:46:56.168Z",
+    "intencao": "NEGOCIACAO",
+    "tags": [
+      "interesse-motorhome",
+      "investimento-alto-valor",
+      "pagamento-a-vista",
+      "busca-desconto",
+      "orcamento-2-milhoes",
+      "poder-compra-alto"
+    ]
+  },
+  {
+    "timestamp": "2025-05-16T17:51:35.818Z",
+    "intencao": "NEGOCIACAO",
+    "tags": [
+      "interesse-motorhome",
+      "investimento-alto-valor",
+      "pagamento-a-vista",
+      "busca-desconto",
+      "poder-compra-alto",
+      "marcar-reuniao"
+    ]
+  },
+  {
+    "timestamp": "2025-05-16T19:46:00.495Z",
+    "intencao": "NEGOCIACAO",
+    "tags": [
+      "interesse-motorhome",
+      "poder-compra-alto",
+      "investimento-alto-valor",
+      "pagamento-a-vista",
+      "busca-desconto",
+      "marcar-reuniao",
+      "ligacao-telefonica"
+    ]
+  }
+]

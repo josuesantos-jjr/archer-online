@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pmy94pu4rhg",
+    "clientId": "ativos/GlobalTur",
+    "contatoId": "gdk1o4bwfli",
+    "chatId": "5519971103290@c.us",
+    "nome": "Nome do cliente: Josué",
+    "telefone": "5519971103290",
+    "listaOrigemId": null,
+    "listaOrigemNome": null,
+    "tags": [
+      "interesse-apartamento",
+      "familia-5-pessoas",
+      "criancas-pequenas",
+      "orcamento-ate-350-mil",
+      "apartamento-na-planta",
+      "3-quartos",
+      "interesse-loteamento",
+      "poder-compra-medio",
+      "busca-3-quartos",
+      "possibilidade-financiamento",
+      "possui-carro-porsche",
+      "possui-helicopteros",
+      "poder-aquisitivo-alto",
+      "criancas-5-e-2-anos",
+      "possui-porsche",
+      "alto-padrao"
+    ],
+    "timestampIdentificacao": "2025-05-10T17:40:01.124Z",
+    "dataIdentificacao": "2025-05-10"
+  }
+]

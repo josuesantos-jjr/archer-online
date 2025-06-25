@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-05-16T13:55:28.699Z",
+    "intencao": "INDETERMINADO",
+    "tags": []
+  },
+  {
+    "timestamp": "2025-05-16T13:58:26.113Z",
+    "intencao": "INDETERMINADO",
+    "tags": []
+  },
+  {
+    "timestamp": "2025-05-16T13:59:34.896Z",
+    "intencao": "INDETERMINADO",
+    "tags": []
+  },
+  {
+    "timestamp": "2025-05-16T13:59:45.912Z",
+    "intencao": "PEDIDO_INFORMACAO",
+    "tags": [
+      "interesse-apartamento",
+      "busca-imoveis"
+    ]
+  },
+  {
+    "timestamp": "2025-05-16T14:01:52.775Z",
+    "intencao": "PEDIDO_INFORMACAO",
+    "tags": [
+      "interesse-apartamento",
+      "orcamento-ate-500-mil",
+      "poder-compra-medio"
+    ]
+  },
+  {
+    "timestamp": "2025-05-17T13:19:58.072Z",
+    "intencao": "PEDIDO_INFORMACAO",
+    "tags": [
+      "interesse-apartamento",
+      "poder-compra-medio",
+      "investimento-ate-500-mil",
+      "compra-a-vista"
+    ]
+  }
+]

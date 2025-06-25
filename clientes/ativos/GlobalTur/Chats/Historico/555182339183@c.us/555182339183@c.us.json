@@ -1,0 +1,38 @@
+[
+  {
+    "date": "16/05/2025",
+    "time": "10:25:33",
+    "type": "IA",
+    "message": "Oiê! 😊 Eu sou a Ana, assistente do Everton. Ele me pediu pra conversar contigo e entender rapidinho o que mais possa lhe interessar — assim conseguimos te mostrar só o que realmente faz sentido, fechado?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:25:38",
+    "type": "User",
+    "message": "Agradecemos sua mensagem. Não estamos disponíveis no momento, mas responderemos assim que possível."
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:26:24",
+    "type": "IA",
+    "message": "Olá!"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:26:27",
+    "type": "IA",
+    "message": "Sou a Ana da Global Tur."
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:26:28",
+    "type": "IA",
+    "message": "Tudo bem?"
+  },
+  {
+    "date": "16/05/2025",
+    "time": "10:26:30",
+    "type": "IA",
+    "message": "Com quem falo?"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "teste everton",
+  "nome": "teste everton",
+  "mensagem": "Olá {nome}, tudo bem? teste",
+  "media": [
+    {
+      "arquivo": "teste everton/media/1746566331488-everton.ogg",
+      "tipo": "audio"
+    }
+  ],
+  "ativo": true,
+  "tags": [],
+  "contatos": [
+    {
+      "nome": "everton",
+      "telefone": "5519999999999",
+      "tags": [],
+      "disparo": "sim",
+      "data_1_contato": "16/05/2025 09:31:07"
+    }
+  ],
+  "regras": {},
+  "attachmentPath": "",
+  "sendAttachment": true,
+  "selectedMediaPath": "teste everton/media/1746566331488-everton.ogg"
+}

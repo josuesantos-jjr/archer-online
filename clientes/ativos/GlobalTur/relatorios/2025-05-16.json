@@ -1,0 +1,178 @@
+[
+  {
+    "data": "2025-05-16T12:31:07.050Z",
+    "numeroTelefone": "5519999999999",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 1,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:08:36.945Z",
+    "numeroTelefone": "555189820808",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 2,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:09:34.797Z",
+    "numeroTelefone": "555184061446",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 3,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:10:35.593Z",
+    "numeroTelefone": "555180185997",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 4,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:11:09.414Z",
+    "numeroTelefone": "555180489138",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 5,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:23:14.662Z",
+    "numeroTelefone": "555180489138",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 6,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:24:10.426Z",
+    "numeroTelefone": "555181098498",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 7,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:25:02.635Z",
+    "numeroTelefone": "555181503537",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 8,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:25:33.970Z",
+    "numeroTelefone": "555182339183",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 9,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:26:35.221Z",
+    "numeroTelefone": "555184598971",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 10,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:27:32.454Z",
+    "numeroTelefone": "555184731552",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 11,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:28:04.619Z",
+    "numeroTelefone": "555184960932",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 12,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:28:54.871Z",
+    "numeroTelefone": "555185081361",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 13,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:29:27.064Z",
+    "numeroTelefone": "555185169348",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 14,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:30:01.286Z",
+    "numeroTelefone": "555185205294",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 15,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:30:46.813Z",
+    "numeroTelefone": "555185450886",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 16,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:31:42.988Z",
+    "numeroTelefone": "555185928395",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 17,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:32:38.268Z",
+    "numeroTelefone": "555186165667",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 18,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:33:20.554Z",
+    "numeroTelefone": "555186396447",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 19,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:34:03.762Z",
+    "numeroTelefone": "555189533107",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 20,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:34:45.974Z",
+    "numeroTelefone": "555190015180",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 21,
+    "limiteDiario": 23
+  },
+  {
+    "data": "2025-05-16T13:35:27.122Z",
+    "numeroTelefone": "555190106150",
+    "status": true,
+    "etapaAquecimento": 7,
+    "quantidadeDisparada": 22,
+    "limiteDiario": 23
+  }
+]

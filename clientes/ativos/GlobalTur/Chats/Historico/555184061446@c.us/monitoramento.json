@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-05-16T13:38:29.486Z",
+    "intencao": "INDETERMINADO",
+    "tags": []
+  },
+  {
+    "timestamp": "2025-05-16T13:39:44.465Z",
+    "intencao": "INDETERMINADO",
+    "tags": []
+  },
+  {
+    "timestamp": "2025-05-16T13:39:48.435Z",
+    "intencao": "SEM_INTERESSE",
+    "tags": []
+  },
+  {
+    "timestamp": "2025-05-16T13:40:07.976Z",
+    "intencao": "SEM_INTERESSE",
+    "tags": [
+      "abordagem-nao-solicitada",
+      "desinteresse",
+      "negativa"
+    ]
+  }
+]

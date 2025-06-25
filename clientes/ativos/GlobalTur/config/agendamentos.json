@@ -1,0 +1,26 @@
+{
+  "agendamentos": [
+    {
+      "chatId": "5519971103290@c.us",
+      "detalhes_agendamento": [
+        {
+          "agendamento_identificado": "sim",
+          "data_agendada": "{Não há data especificada}",
+          "horario_agendado": "{15h}",
+          "agendamento_realizado": ""
+        }
+      ]
+    },
+    {
+      "chatId": "555499519190@c.us",
+      "detalhes_agendamento": [
+        {
+          "agendamento_identificado": "sim",
+          "data_agendada": "{Não identificada}",
+          "horario_agendado": "{01:36h da madrugada}",
+          "agendamento_realizado": ""
+        }
+      ]
+    }
+  ]
+}
