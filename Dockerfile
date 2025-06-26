@@ -3,6 +3,10 @@ FROM node:20-slim
 
 # Define variáveis de ambiente para o Puppeteer
 ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome-stable
+ENV DATA_DIR=/app/data
+
+# Define um volume para dados persistentes
+VOLUME /app/data
 
 # Define o diretório de trabalho dentro do contêiner
 WORKDIR /app

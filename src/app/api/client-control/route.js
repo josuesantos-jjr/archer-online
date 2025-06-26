@@ -8,10 +8,11 @@ const execAsync = promisify(exec);
 async function getProcessStatus(clientId) {
   try {
     // Usa o nome simples do cliente para buscar no PM2
-    const simpleProcessName = clientId.includes('/') ? clientId.split('/').pop() : clientId;
+    // O nome do processo PM2 deve ser o clientId completo para garantir unicidade
+    const processNameForPm2 = clientId;
     const { stdout } = await execAsync('npx pm2 jlist'); // Usar jlist para obter saída JSON
     const processes = JSON.parse(stdout);
-    const processInfo = processes.find(p => p.name === simpleProcessName);
+    const processInfo = processes.find(p => p.name === processNameForPm2);
     if (processInfo) {
       return processInfo.pm2_env.status; // Retorna o status ('online', 'stopped', 'errored', etc.)
     }
@@ -25,9 +26,14 @@ async function getProcessStatus(clientId) {
 }
 
 export async function POST(request) {
+  console.log(`[API /api/client-control] Início da requisição POST.`); // Log no início da função
   try {
     const { clientId, action } = await request.json();
     console.log(`[API /api/client-control] Received - clientId: ${clientId}, action: ${action}`); // Log recebido
+    
+    // Adiciona log para o corpo completo da requisição (se for pequeno)
+    const requestBody = { clientId, action };
+    console.log(`[API /api/client-control] Request Body:`, JSON.stringify(requestBody));
 
     if (!clientId || !action) {
       console.error('[API /api/client-control] Missing required fields');
@@ -38,24 +44,28 @@ export async function POST(request) {
     }
 
     // Usa o clientId completo como nome do processo PM2 para garantir unicidade
-    const processName = clientId;
-    console.log(`[API /api/client-control] Determined - processName (using full clientId): ${processName}`); // Log nome determinado
+    // Já definido como processNameForPm2 na função getProcessStatus
+    // const processName = clientId; // Não é mais necessário, já que getProcessStatus usa clientId
+    console.log(`[API /api/client-control] Determined - processName (using full clientId): ${clientId}`); // Log nome determinado
 
     // Verifica o status do processo usando o nome extraído
-    const status = await getProcessStatus(clientId);
-    console.log(`[API /api/client-control] Check Status - processName: ${processName}, status: ${status}`); // Log verificação
+    const status = await getProcessStatus(clientId); // getProcessStatus já usa clientId
+    console.log(`[API /api/client-control] Check Status - processName: ${clientId}, status: ${status}`); // Log verificação
 
     if (action === 'start') {
+      console.log(`[API /api/client-control] Ação: START para cliente ${clientId}.`);
       if (status === 'online' || status === 'launching') {
-        console.log(`[API /api/client-control] Process ${processName} is already online or launching. Returning success.`);
+        console.log(`[API /api/client-control] Process ${clientId} is already online or launching. Returning success.`);
         return new Response(JSON.stringify({ success: true, status: status }), {
           status: 200,
           headers: { 'Content-Type': 'application/json' },
         });
       }
+      console.log(`[API /api/client-control] Processo ${clientId} não está online/launching. Tentando iniciar/reiniciar.`);
 
       let command;
-      let simpleProcessName = clientId.includes('/') ? clientId.split('/').pop() : clientId;
+      // Usa o clientId completo como nome do processo PM2
+      const pm2ProcessName = clientId;
       const scriptPath = `clientes/${clientId}/index.ts`;
       const absoluteScriptPath = path.join(process.cwd(), scriptPath);
 
@@ -67,12 +77,12 @@ export async function POST(request) {
       // Se o processo existe (parado, com erro, etc.), tenta reiniciar.
       // Se não existe ('not_found'), inicia pela primeira vez.
       if (status !== 'not_found') {
-        command = `pm2 restart "${simpleProcessName}"`;
+        command = `pm2 restart "${pm2ProcessName}"`;
         console.log(`[API /api/client-control] Restarting existing process: ${command}`);
       } else {
         // Inicia um novo processo. Usa o tsx como interpreter.
-        // Redireciona logs do PM2 para stdout/stderr da instância do Cloud Run
-        command = `pm2 start "${scriptPath}" --interpreter "tsx" --name "${simpleProcessName}" && pm2 logs "${simpleProcessName}"`;
+        // Remove '&& pm2 logs' para que o PM2 gerencie o processo de forma persistente.
+        command = `tsx "${scriptPath}" `;
         console.log(`[API /api/client-control] Starting new process: ${command}`);
       }
 
@@ -81,8 +91,8 @@ export async function POST(request) {
         console.log(`[API /api/client-control] PM2 Command stdout: ${stdout}`);
         if (stderr) console.warn(`[API /api/client-control] PM2 Command stderr: ${stderr}`);
 
-        const finalStatus = await getProcessStatus(clientId);
-        console.log(`[API /api/client-control] Final Status Check for ${processName}: ${finalStatus}`);
+        const finalStatus = await getProcessStatus(clientId); // getProcessStatus já usa clientId
+        console.log(`[API /api/client-control] Final Status Check for ${clientId}: ${finalStatus}`);
 
         return new Response(JSON.stringify({ success: true, status: finalStatus }), {
           status: 200,
@@ -92,18 +102,20 @@ export async function POST(request) {
         console.error(`[API /api/client-control] Error executing PM2 command: ${command}`, pm2Error);
         return new Response(
           JSON.stringify({
-            error: `Failed to start/restart client ${processName}`,
+            error: `Failed to start/restart client ${clientId}`,
             details: pm2Error.stderr || pm2Error.stdout || pm2Error.message
           }),
           { status: 500, headers: { 'Content-Type': 'application/json' } }
         );
       }
     } else if (action === 'stop') {
+      console.log(`[API /api/client-control] Ação: STOP para cliente ${clientId}.`);
       // Usa 'status' em vez de 'exists'
-      const simpleProcessName = clientId.includes('/') ? clientId.split('/').pop() : clientId;
+      // Usa o clientId completo como nome do processo PM2
+      const pm2ProcessName = clientId;
       if (status !== 'not_found' && status !== 'stopped') { // Só tenta parar se não estiver parado ou não encontrado
-        // Usa o nome simples do cliente para parar o processo PM2
-        const command = `pm2 stop "${simpleProcessName}"`;
+        // Usa o nome completo do cliente para parar o processo PM2
+        const command = `pm2 stop "${pm2ProcessName}"`;
         console.log(`[API /api/client-control] Action Stop - Executing command: ${command}`); // Log comando stop
         try {
           const { stdout, stderr } = await execAsync(command);
@@ -114,25 +126,28 @@ export async function POST(request) {
           // Retorna um erro para o frontend saber que falhou
           return new Response(
             JSON.stringify({
-              error: `Failed to stop client ${simpleProcessName}`,
+              error: `Failed to stop client ${pm2ProcessName}`,
               details: stopError.stderr || stopError.stdout || stopError.message
             }),
             { status: 500, headers: { 'Content-Type': 'application/json' } }
           );
         }
       } else {
-        console.log(`[API /api/client-control] Action Stop - Process ${processName} is already stopped or does not exist.`);
+        console.log(`[API /api/client-control] Action Stop - Process ${clientId} is already stopped or does not exist.`);
       }
       return new Response(JSON.stringify({ success: true }), {
         status: 200,
         headers: { 'Content-Type': 'application/json' },
       });
     } else if (action === 'delete') {
+      console.log(`[API /api/client-control] Ação: DELETE para cliente ${clientId}.`);
       // Usa 'status' em vez de 'exists'
-      console.log(`[API /api/client-control] Action Delete - processName: ${processName}, status: ${status}`); // Log entrando no delete
+      // Usa o clientId completo como nome do processo PM2
+      const pm2ProcessName = clientId;
+      console.log(`[API /api/client-control] Action Delete - processName: ${pm2ProcessName}, status: ${status}`); // Log entrando no delete
       if (status !== 'not_found') { // Só tenta deletar se existe na lista do PM2
         // Tenta executar APENAS o delete
-        const command = `pm2 delete "${processName}"`;
+        const command = `pm2 delete "${pm2ProcessName}"`;
         console.log(`[API /api/client-control] Executing ONLY Delete Command: ${command}`);
         try {
             const { stdout, stderr } = await execAsync(command);
@@ -143,14 +158,14 @@ export async function POST(request) {
              // Retorna erro específico
              return new Response(
                JSON.stringify({
-                 error: `Failed to delete client ${processName}`,
+                 error: `Failed to delete client ${pm2ProcessName}`,
                  details: deleteError.stderr || deleteError.stdout || deleteError.message
                }),
                { status: 500, headers: { 'Content-Type': 'application/json' } }
              );
         }
       } else {
-          console.log(`[API /api/client-control] Action Delete - Process ${processName} does not exist, skipping delete command.`);
+          console.log(`[API /api/client-control] Action Delete - Process ${pm2ProcessName} does not exist, skipping delete command.`);
       }
       return new Response(JSON.stringify({ success: true }), {
         status: 200,
@@ -178,5 +193,7 @@ export async function POST(request) {
       }),
       { status: 500, headers: { 'Content-Type': 'application/json' } }
     );
+  } finally {
+    console.log(`[API /api/client-control] Fim da requisição POST.`); // Log no final da função
   }
 }

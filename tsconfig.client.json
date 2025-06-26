@@ -1,0 +1,34 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist-client", // Diretório de saída para os arquivos compilados do cliente
+    "rootDir": "./clientes", // Diretório raiz dos arquivos TypeScript do cliente
+    "module": "esnext", // Manter esnext para import.meta.url
+    "target": "es2020", // Manter target moderno
+    "esModuleInterop": true,
+    "moduleResolution": "node", // Usar resolução de módulo Node para compatibilidade
+    "allowJs": true, // Permitir arquivos JS
+    "declaration": false, // Não gerar arquivos .d.ts para o cliente
+    "noEmit": false, // Permitir a emissão de arquivos
+    "allowImportingTsExtensions": true, // Permitir imports com .ts
+    "forceConsistentCasingInFileNames": true, // Garantir consistência no nome dos arquivos
+    "skipLibCheck": true, // Pular verificação de libs
+    "strict": false, // Desativar strict mode para evitar muitos erros iniciais
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "clientes/**/*.ts", // Incluir todos os arquivos .ts dentro de clientes
+    "src/backend/**/*.ts", // Incluir arquivos de backend que são importados
+    "src/app/api/qr-code/qrCodeCache.ts" // Incluir o cache do QR Code
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.test.ts",
+    "**/*.spec.ts",
+    "src/app/**/*.ts", // Excluir arquivos do Next.js app directory
+    "src/lib/**/*.ts" // Excluir libs do Next.js
+  ]
+}

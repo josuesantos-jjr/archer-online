@@ -8,16 +8,17 @@ export async function getPm2ProcessStatus(processName) {
     const { stdout } = await execPromise('pm2 jlist');
     
     // Encontra o início do JSON (primeiro '[' ou '{')
-    const jsonStart = stdout.indexOf('[') !== -1 
-      ? stdout.indexOf('[') 
-      : stdout.indexOf('{');
+    // Encontra o início do JSON (primeiro '[' ou '{')
+    // Usa uma regex para encontrar o primeiro JSON válido na string
+    const jsonMatch = stdout.match(/(\[.*\]|\{.*\})/s);
     
-    if (jsonStart === -1) {
-      throw new Error('Formato de saída do PM2 inválido');
+    if (!jsonMatch || !jsonMatch[0]) {
+      console.error('Saída do PM2 não contém JSON válido:', stdout);
+      throw new Error('Formato de saída do PM2 inválido: JSON não encontrado.');
     }
 
     // Extrai apenas a parte JSON da saída
-    const jsonString = stdout.substring(jsonStart);
+    const jsonString = jsonMatch[0];
     const processes = JSON.parse(jsonString);
 
     if (processName) {
@@ -40,7 +41,8 @@ export async function getPm2ProcessLogs(processName) {
     return { stdout, stderr };
   } catch (error) {
     console.error('Erro ao buscar logs do PM2:', error);
-    return { error: error.message };
+    // Retorna o stderr para mais detalhes sobre o erro do comando pm2 logs
+    return { error: error.message, stderr: error.stderr || '' };
   }
 }
 

@@ -42,7 +42,7 @@ const QrCodeDisplay = ({ clientId }) => {
       setErrorQr(false);
       try {
         const response = await fetch(
-          `/api/qr-code?clientId=${encodeURIComponent(clientId)}&t=${Date.now()}`
+          `/api/qr-code/${encodeURIComponent(clientId)}?t=${Date.now()}`
         );
         if (response.ok) {
           const data = await response.json();
@@ -217,7 +217,7 @@ export default function InitClientModal({ isOpen, onClose, clientId, action }) {
   const fetchClientLogs = useCallback(async () => {
     setLoadingLogs(true);
     try {
-      const response = await fetch(`/api/pm2-logs?clientId=${clientId}`);
+      const response = await fetch(`/api/pm2-logs/${clientId}`);
       if (response.ok) {
         const data = await response.json();
         setClientLogs(data.logs);

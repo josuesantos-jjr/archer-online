@@ -1,22 +1,34 @@
+process.on('uncaughtException', (err) => {
+  logger.error(`[UNCAUGHT EXCEPTION] Erro não capturado:`, err);
+  process.exit(1); 
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+  logger.error(`[UNHANDLED REJECTION] Promessa rejeitada não tratada:`, reason);
+  process.exit(1);
+});
+
+logger.info(`[Script Main] Iniciando execução do script principal.`); // Log no início do script
+
 import wppconnect from '@wppconnect-team/wppconnect';
-import { initializeNewAIChatSession } from '../../../src/backend/service/openai.ts';
-import { splitMessages, sendMessagesWithDelay } from '../../../src/backend/util/index.ts';
-import { saveQRCodeImageAndJson } from './config/qrcode.ts';
-import logger from './config/logger.ts';
-import { mainGoogleBG } from '../../../src/backend/service/googleBG.ts';
-import { mainGoogleChat } from '../../../src/backend/service/googlechat.ts';
+import { initializeNewAIChatSession } from '../../../src/backend/service/openai.js';
+import { splitMessages, sendMessagesWithDelay } from '../../../src/backend/util/index.js';
+import { saveQRCodeImageAndJson } from './config/qrcode.js';
+import logger from './config/logger.js';
+import { mainGoogleBG } from '../../../src/backend/service/googleBG.js';
+import { mainGoogleChat } from '../../../src/backend/service/googlechat.js';
 import fs from 'node:fs';
 import os from 'node:os';
 import path, { resolve } from 'node:path';
-import { dispararMensagens, getPasta, saveMessageToFile } from '../../../src/backend/disparo/disparo.ts'; // Importando as funções
-import { dispararFollowupsAgendados } from '../../../src/backend/followup/disparoFollowup.ts'; // Importar a nova função
-import { checkResposta } from '../../../src/backend/service/automacoes/checkResposta.ts';
+import { dispararMensagens, getPasta, saveMessageToFile } from '../../../src/backend/disparo/disparo.js'; // Importando as funções
+import { dispararFollowupsAgendados } from '../../../src/backend/followup/disparoFollowup.js'; // Importar a nova função
+import { checkResposta } from '../../../src/backend/service/automacoes/checkResposta.js';
 import { fileURLToPath } from 'node:url';
-import { IgnoreLead } from '../../../src/backend/service/braim/stop.ts';
+import { IgnoreLead } from '../../../src/backend/service/braim/stop.js';
 import { setTimeout, clearTimeout } from 'timers';
-import { monitorarConversa } from '../../../src/backend/analiseConversa/monitoramentoConversa.ts';
-import { updateLastReceivedMessageDate, updateLastSentMessageDate } from '../../../src/backend/util/chatDataUtils.ts';
-import { setQrCode, clearQrCode } from '../../../src/app/api/qr-code/qrCodeCache.ts'; // Importa as funções do cache do novo local
+import { monitorarConversa } from '../../../src/backend/analiseConversa/monitoramentoConversa.js';
+import { updateLastReceivedMessageDate, updateLastSentMessageDate } from '../../../src/backend/util/chatDataUtils.js';
+import { setQrCode, clearQrCode } from '../../../src/app/api/qr-code/qrCodeCache.js'; // Importa as funções do cache do novo local
 
 interface Contato {
   id: string;
@@ -380,7 +392,7 @@ async function saveLead(clientId: string, contatoId: string, leadData: any): Pro
            }
        }
    }
-
+   
    // Adiciona timestamp de identificação e formata a data para o objeto lead
    const newLead = {
        id: Math.random().toString(36).substring(2, 15),
@@ -613,7 +625,6 @@ async function generateAndSaveSummary(client: wppconnect.Whatsapp, clientId: str
                                            (leadAtualizado?.listaOrigemNome ? `*Origem:* Lista "${leadAtualizado.listaOrigemNome}"\n` : '') +
                                            `*Data:* ${new Date(leadAtualizado?.timestampIdentificacao || Date.now()).toLocaleDateString('pt-BR')} ${new Date(leadAtualizado?.timestampIdentificacao || Date.now()).toLocaleTimeString('pt-BR')}\n\n` +
                                            `*Resumo da Conversa:*\n${summaryResponse || 'Resumo não gerado.'}`; // Inclui o resumo
-
                logger.info(`Enviando notificação de novo lead (com resumo) para ${TARGET_CHAT_ID}`);
                try {
                    // Usa a função sendMessage existente
@@ -625,18 +636,13 @@ async function generateAndSaveSummary(client: wppconnect.Whatsapp, clientId: str
                logger.warn(`TARGET_CHAT_ID não configurado. Notificação de novo lead (com resumo) não enviada.`);
            }
            // --- FIM Lógica de Notificação ---
-
-
-
        } else {
            logger.error(`Falha ao gerar resumo para lead ${leadId}.`);
        }
-
     } catch (error) {
         logger.error(`Erro na função generateAndSaveSummary para lead ${leadId}:`, error);
     }
 }
-
 
 // Função formatChatId já definida no topo com type guard
 
@@ -733,56 +739,63 @@ async function clearClientQrCodeFiles(clientName: string) {
 }
 
 // --- INICIALIZAÇÃO ---
+logger.info(`[WppConnect Init] Tentando criar instância WppConnect para o cliente: ${cliente}`);
 wppconnect
   .create(
     cliente, // sessionName
     async (base64Qrimg: string, asciiQR: string, attempts: number, urlCode: string | undefined) => {
-      logger.info(`Terminal qrcode: `, asciiQR);
+      logger.info(`[WppConnect QR] Terminal qrcode: `, asciiQR);
+      logger.info(`[WppConnect QR] Tentativas: ${attempts}`);
       if (urlCode) {
+        logger.info(`[WppConnect QR] URL do QR Code disponível.`);
         try {
           // Limpa todos os arquivos de QR Code antigos antes de salvar o novo
           await clearClientQrCodeFiles(clienteIdCompleto!);
 
           const { imagePath, jsonPath } = await saveQRCodeImageAndJson(urlCode, clienteIdCompleto!);
-          setQrCode(cliente, base64Qrimg); // Armazena o QR code Base64 no cache
-          logger.info(`QR Code Base64 armazenado em cache para o cliente: ${cliente}`);
-          logger.info(`QR Code imagem salva em: ${imagePath}`);
-          logger.info(`QR Code JSON salvo em: ${jsonPath}`);
+          setQrCode(clienteIdCompleto!, base64Qrimg); // Armazena o QR code Base64 no cache usando o ID completo
+          logger.info(`[WppConnect QR] QR Code Base64 armazenado em cache para o cliente: ${clienteIdCompleto}`);
+          logger.info(`[WppConnect QR] QR Code imagem salva em: ${imagePath}`);
+          logger.info(`[WppConnect QR] QR Code JSON salvo em: ${jsonPath}`);
 
           // Define um timer para excluir a imagem e o JSON após 60 segundos
           const qrCodeTimeout = setTimeout(() => {
+            logger.warn(`[WppConnect QR] Timer de 60s expirado. Excluindo arquivos de QR Code para ${clienteIdCompleto}.`);
             try {
               fs.unlinkSync(imagePath);
               fs.unlinkSync(jsonPath);
-              logger.info(`QR Code imagem e JSON excluídos após 60 segundos: ${imagePath}, ${jsonPath}`);
+              logger.info(`[WppConnect QR] QR Code imagem e JSON excluídos após 60 segundos: ${imagePath}, ${jsonPath}`);
             } catch (err) {
-              logger.error(`Erro ao excluir QR Code imagem ou JSON:`, err);
+              logger.error(`[WppConnect QR] Erro ao excluir QR Code imagem ou JSON:`, err);
             }
-            clearQrCode(cliente); // Limpa o QR code do cache também
+            clearQrCode(clienteIdCompleto!); // Limpa o QR code do cache também
           }, 60 * 1000); // 60 segundos
 
           // Armazena o timeout para poder limpá-lo se o QR code for lido antes
-          qrCodeTimeouts.set(cliente, qrCodeTimeout);
+          qrCodeTimeouts.set(clienteIdCompleto!, qrCodeTimeout);
 
         } catch (error) {
-          logger.error(`Erro ao salvar QR Code imagem ou JSON:`, error);
+          logger.error(`[WppConnect QR] Erro ao salvar QR Code imagem ou JSON:`, error);
         }
+      } else {
+        logger.warn(`[WppConnect QR] URL do QR Code NÃO disponível.`);
       }
     },
     async (statusSession: string, session: string) => {
-      logger.info(`Status Session: `, statusSession);
-      logger.info(`Session name: `, session);
+      logger.info(`[WppConnect Status] Status Session: `, statusSession);
+      logger.info(`[WppConnect Status] Session name: `, session);
       if (statusSession) {
         await updateInfoCliente('STATUS_SESSION', statusSession);
         // Se o status indica que o QR code não é mais válido, limpa o cache
         if (statusSession === 'qrReadError' || statusSession === 'qrReadFail' || statusSession === 'inChat' || statusSession === 'desconnectedMobile' || statusSession === 'autocloseCalled') {
-          clearQrCode(cliente); // Limpa o QR code do cache
-          logger.info(`QR Code limpo do cache para o cliente: ${cliente}`);
+          logger.info(`[WppConnect Status] Status ${statusSession} detectado. Limpando QR Code e timers.`);
+          clearQrCode(clienteIdCompleto!); // Limpa o QR code do cache usando o ID completo
+          logger.info(`[WppConnect Status] QR Code limpo do cache para o cliente: ${clienteIdCompleto}`);
           // Limpa o timer de exclusão se o QR code for lido ou a sessão desconectada
-          if (qrCodeTimeouts.has(cliente)) {
-            clearTimeout(qrCodeTimeouts.get(cliente)!);
-            qrCodeTimeouts.delete(cliente);
-            logger.info(`Timer de exclusão do QR Code limpo para o cliente: ${cliente}`);
+          if (qrCodeTimeouts.has(clienteIdCompleto!)) {
+            clearTimeout(qrCodeTimeouts.get(clienteIdCompleto!)!);
+            qrCodeTimeouts.delete(clienteIdCompleto!);
+            logger.info(`[WppConnect Status] Timer de exclusão do QR Code limpo para o cliente: ${clienteIdCompleto}`);
           }
           // Adiciona a lógica para limpar os arquivos da pasta qrcode
           await clearClientQrCodeFiles(clienteIdCompleto!);
@@ -840,14 +853,17 @@ wppconnect
       },
     }
   )
-  .then((client: wppconnect.Whatsapp) => { // Chama a função start passando o objeto client
-    start(client);
-  })
-  .catch((erro: any) => {
-    logger.error(`[WppConnect Error] Erro na inicialização do WppConnect:`, erro); // Log mais explícito no catch
-  });
+   .then((client: wppconnect.Whatsapp) => { // Chama a função start passando o objeto client
+     logger.info(`[WppConnect Init] WppConnect inicializado com sucesso. Chamando start().`);
+     start(client);
+   })
+   .catch((erro: any) => {
+     logger.error(`[WppConnect Error] Erro FATAL na inicialização do WppConnect:`, erro); // Log mais explícito no catch
+     // Força a saída do processo com código de erro para que o PM2 possa tentar reiniciar
+     process.exit(1); 
+   });
 
-  
+   
 // --- FUNÇÃO PRINCIPAL DE PROCESSAMENTO DE MENSAGENS ---
 async function start(client: wppconnect.Whatsapp): Promise<void> {
   logger.info(`[Script Start] Função start iniciada.`); // Log no início da função start
@@ -1218,220 +1234,220 @@ async function start(client: wppconnect.Whatsapp): Promise<void> {
        }
    } // <-- FIM DE responderChat
    
-  // Adiciona client como primeiro parâmetro
-  async function identifyNameAndInterest(client: wppconnect.Whatsapp, chatId: string) {
-      if (!clienteIdCompleto) {
-          logger.error("[identifyNameAndInterest] clienteIdCompleto não definido. Abortando.");
-          return;
-      }
-      try {
-          const filePath = path.join(__dirname, `Chats`, `Historico`, `${chatId}`, `${chatId}.json`);
-          if (!fs.existsSync(filePath)) {
-              logger.warn(`Arquivo de histórico local não encontrado para ${chatId}. Não é possível analisar lead.`);
-              return;
-          }
-          const conversation = fs.readFileSync(filePath, `utf-8`); // Usa histórico local por enquanto
+   // Adiciona client como primeiro parâmetro
+   async function identifyNameAndInterest(client: wppconnect.Whatsapp, chatId: string) {
+       if (!clienteIdCompleto) {
+           logger.error("[identifyNameAndInterest] clienteIdCompleto não definido. Abortando.");
+           return;
+       }
+       try {
+           const filePath = path.join(__dirname, `Chats`, `Historico`, `${chatId}`, `${chatId}.json`);
+           if (!fs.existsSync(filePath)) {
+               logger.warn(`Arquivo de histórico local não encontrado para ${chatId}. Não é possível analisar lead.`);
+               return;
+           }
+           const conversation = fs.readFileSync(filePath, `utf-8`); // Usa histórico local por enquanto
 
-          // Lê dados básicos do Dados.json local
-          const dadosPath = path.join(__dirname, `Chats`, `Historico`, chatId, `Dados.json`);
-          let chatData: any = {};
-          if (fs.existsSync(dadosPath)) {
-              try {
-                  const fileContent = fs.readFileSync(dadosPath, `utf-8`);
-                  chatData = JSON.parse(fileContent);
-              } catch (err) {
-                  logger.error(`Erro ao ler Dados.json para identifyNameAndInterest em ${chatId}: ${err}`);
-                  // Se houver erro, inicializa com dados básicos
-                  chatData = {
-                      name: 'Não identificado',
-                      sobrenome: '',
-                      telefone: chatId.split('@')[0],
-                      tags: [],
-                      listaNome: null,
-                      lead: 'não',
-                  };
-              }
-          } else {
-               // Se não existir, cria um novo objeto com a estrutura desejada
-               const initialData = {
-                   name: 'Não identificado',
-                   sobrenome: '',
-                   telefone: chatId.split('@')[0],
-                   tags: [],
-                   listaNome: null,
-                   lead: 'não',
-               };
+           // Lê dados básicos do Dados.json local
+           const dadosPath = path.join(__dirname, `Chats`, `Historico`, chatId, `Dados.json`);
+           let chatData: any = {};
+           if (fs.existsSync(dadosPath)) {
                try {
-                   fs.writeFileSync(dadosPath, JSON.stringify(initialData, null, 2), 'utf-8');
-                   chatData = initialData;
-                   logger.info(`Dados.json criado para ${chatId} em identifyNameAndInterest.`);
-               } catch (writeErr) {
-                   logger.error(`Erro CRÍTICO ao criar Dados.json para ${chatId}: ${writeErr}`);
-                   return; // Não pode prosseguir sem Dados.json
+                   const fileContent = fs.readFileSync(dadosPath, `utf-8`);
+                   chatData = JSON.parse(fileContent);
+               } catch (err) {
+                   logger.error(`Erro ao ler Dados.json para identifyNameAndInterest em ${chatId}: ${err}`);
+                   // Se houver erro, inicializa com dados básicos
+                   chatData = {
+                       name: 'Não identificado',
+                       sobrenome: '',
+                       telefone: chatId.split('@')[0],
+                       tags: [],
+                       listaNome: null,
+                       lead: 'não',
+                   };
                }
-          }
+           } else {
+                // Se não existir, cria um novo objeto com a estrutura desejada
+                const initialData = {
+                    name: 'Não identificado',
+                    sobrenome: '',
+                    telefone: chatId.split('@')[0],
+                    tags: [],
+                    listaNome: null,
+                    lead: 'não',
+                };
+                try {
+                    fs.writeFileSync(dadosPath, JSON.stringify(initialData, null, 2), 'utf-8');
+                    chatData = initialData;
+                    logger.info(`Dados.json criado para ${chatId} em identifyNameAndInterest.`);
+                } catch (writeErr) {
+                    logger.error(`Erro CRÍTICO ao criar Dados.json para ${chatId}: ${writeErr}`);
+                    return; // Não pode prosseguir sem Dados.json
+                }
+           }
 
 
-          // 1. Identificar Nome se não existir
-          if (chatData.name === 'Não identificado' || !chatData.name) {
-              logger.info(`Nome não identificado para ${chatId}. Tentando identificar...`);
-              const namePrompt = infoConfig.NAME_PROMPT || ''; // Assumindo que NAME_PROMPT existe em infoCliente.json
-              if (namePrompt) {
-                  const nameResponse = await makeRequestWithRetryName(namePrompt, chatId, conversation);
-                  if (nameResponse && nameResponse.trim() !== '' && nameResponse.toUpperCase() !== 'NÃO IDENTIFICADO') {
-                      chatData.name = nameResponse.trim();
-                      logger.info(`Nome identificado pela IA: ${chatData.name}`);
-                      updateLeadData(chatId, 'name', chatData.name); // Usa updateLeadData
-                  } else {
-                       logger.info(`IA não identificou o nome para ${chatId}. Resposta: ${nameResponse}`);
-                  }
-              } else {
-                  logger.warn(`NAME_PROMPT não encontrado em infoCliente.json. Não é possível identificar o nome.`);
-              }
-          } else {
-               logger.info(`Nome já identificado para ${chatId}: ${chatData.name}`);
-          }
-
-          // 2. Identificar Interesse
-          logger.info(`Tentando identificar interesse para ${chatId}...`);
-          const interestPrompt = infoConfig.INTEREST_PROMPT || ''; // Assumindo que INTEREST_PROMPT existe em infoCliente.json
-          if (interestPrompt) {
-               const interestResponse = await makeRequestWithRetryInterest(interestPrompt, chatId, conversation);
-               if (interestResponse && interestResponse.trim() !== '') {
-                   chatData.interest = interestResponse.trim();
-                   logger.info(`Interesse identificado pela IA: ${chatData.interest}`);
-                   updateLeadData(chatId, 'interest', chatData.interest); // Usa updateLeadData
+           // 1. Identificar Nome se não existir
+           if (chatData.name === 'Não identificado' || !chatData.name) {
+               logger.info(`Nome não identificado para ${chatId}. Tentando identificar...`);
+               const namePrompt = infoConfig.NAME_PROMPT || ''; // Assumindo que NAME_PROMPT existe em infoCliente.json
+               if (namePrompt) {
+                   const nameResponse = await makeRequestWithRetryName(namePrompt, chatId, conversation);
+                   if (nameResponse && nameResponse.trim() !== '' && nameResponse.toUpperCase() !== 'NÃO IDENTIFICADO') {
+                       chatData.name = nameResponse.trim();
+                       logger.info(`Nome identificado pela IA: ${chatData.name}`);
+                       updateLeadData(chatId, 'name', chatData.name); // Usa updateLeadData
+                   } else {
+                        logger.info(`IA não identificou o nome para ${chatId}. Resposta: ${nameResponse}`);
+                   }
                } else {
-                   logger.info(`IA não identificou o interesse para ${chatId}. Resposta: ${interestResponse}`);
+                   logger.warn(`NAME_PROMPT não encontrado em infoCliente.json. Não é possível identificar o nome.`);
                }
-          } else {
-               logger.warn(`INTEREST_PROMPT não encontrado em infoCliente.json. Não é possível identificar o interesse.`);
-          }
+           } else {
+                logger.info(`Nome já identificado para ${chatId}: ${chatData.name}`);
+           }
 
-          // 3. Identificar Orçamento e Data do Orçamento (se aplicável)
-          // Assumindo que existe um prompt específico para Orçamento em infoCliente.json (ex: ORCAMENTO_PROMPT)
-          logger.info(`Tentando identificar orçamento e data para ${chatId}...`);
-          const orcamentoPrompt = infoConfig.ORCAMENTO_PROMPT || '';
-          if (orcamentoPrompt) {
-              const orcamentoResponse = await makeRequestWithRetryOrçamento(orcamentoPrompt, chatId, conversation);
-              if (orcamentoResponse && orcamentoResponse.trim() !== '') {
-                  // A resposta da IA para orçamento pode precisar de parsing para separar valor e data
-                  // Por enquanto, vamos salvar a resposta bruta e você pode refinar o parsing depois
-                  chatData.orçamento = orcamentoResponse.trim(); // Salva a resposta bruta no campo orçamento
-                  logger.info(`Orçamento/Data identificado pela IA: ${chatData.orçamento}`);
-                  updateLeadData(chatId, 'orçamento', chatData.orçamento); // Usa updateLeadData
-                  // Se a resposta contiver uma data, você pode tentar extraí-la e salvar em 'orçamentoData'
-                  // Exemplo simples (pode precisar de lógica mais robusta):
-                  const dateMatch = orcamentoResponse.match(/\d{1,2}\/\d{1,2}\/\d{4}/); // Exemplo: dd/mm/yyyy
-                  if (dateMatch) {
-                      chatData.orçamentoData = dateMatch[0];
-                      logger.info(`Data de Orçamento identificada: ${chatData.orçamentoData}`);
-                      updateLeadData(chatId, 'orçamentoData', chatData.orçamentoData); // Usa updateLeadData
-                  }
-              } else {
-                  logger.info(`IA não identificou orçamento/data para ${chatId}. Resposta: ${orcamentoResponse}`);
-              }
-          } else {
-              logger.warn(`ORCAMENTO_PROMPT não encontrado em infoCliente.json. Não é possível identificar orçamento/data.`);
-          }
+           // 2. Identificar Interesse
+           logger.info(`Tentando identificar interesse para ${chatId}...`);
+           const interestPrompt = infoConfig.INTEREST_PROMPT || ''; // Assumindo que INTEREST_PROMPT existe em infoCliente.json
+           if (interestPrompt) {
+                const interestResponse = await makeRequestWithRetryInterest(interestPrompt, chatId, conversation);
+                if (interestResponse && interestResponse.trim() !== '') {
+                    chatData.interest = interestResponse.trim();
+                    logger.info(`Interesse identificado pela IA: ${chatData.interest}`);
+                    updateLeadData(chatId, 'interest', chatData.interest); // Usa updateLeadData
+                } else {
+                    logger.info(`IA não identificou o interesse para ${chatId}. Resposta: ${interestResponse}`);
+                }
+           } else {
+                logger.warn(`INTEREST_PROMPT não encontrado em infoCliente.json. Não é possível identificar o interesse.`);
+           }
+
+           // 3. Identificar Orçamento e Data do Orçamento (se aplicável)
+           // Assumindo que existe um prompt específico para Orçamento em infoCliente.json (ex: ORCAMENTO_PROMPT)
+           logger.info(`Tentando identificar orçamento e data para ${chatId}...`);
+           const orcamentoPrompt = infoConfig.ORCAMENTO_PROMPT || '';
+           if (orcamentoPrompt) {
+               const orcamentoResponse = await makeRequestWithRetryOrçamento(orcamentoPrompt, chatId, conversation);
+               if (orcamentoResponse && orcamentoResponse.trim() !== '') {
+                   // A resposta da IA para orçamento pode precisar de parsing para separar valor e data
+                   // Por enquanto, vamos salvar a resposta bruta e você pode refinar o parsing depois
+                   chatData.orçamento = orcamentoResponse.trim(); // Salva a resposta bruta no campo orçamento
+                   logger.info(`Orçamento/Data identificado pela IA: ${chatData.orçamento}`);
+                   updateLeadData(chatId, 'orçamento', chatData.orçamento); // Usa updateLeadData
+                   // Se a resposta contiver uma data, você pode tentar extraí-la e salvar em 'orçamentoData'
+                   // Exemplo simples (pode precisar de lógica mais robusta):
+                   const dateMatch = orcamentoResponse.match(/\d{1,2}\/\d{1,2}\/\d{4}/); // Exemplo: dd/mm/yyyy
+                   if (dateMatch) {
+                       chatData.orçamentoData = dateMatch[0];
+                       logger.info(`Data de Orçamento identificada: ${chatData.orçamentoData}`);
+                       updateLeadData(chatId, 'orçamentoData', chatData.orçamentoData); // Usa updateLeadData
+                   }
+               } else {
+                   logger.info(`IA não identificou orçamento/data para ${chatId}. Resposta: ${orcamentoResponse}`);
+               }
+           } else {
+               logger.warn(`ORCAMENTO_PROMPT não encontrado em infoCliente.json. Não é possível identificar orçamento/data.`);
+           }
 
 
-          // 4. Verificar condição de LEAD
-          logger.info(`Verificando condição de lead para ${chatId}...`);
-          const leadPrompt = infoConfig.LEAD_PROMPT || '';
-          if (leadPrompt) {
-              const leadCheckResponse = await makeRequestWithRetryLead(leadPrompt, chatId, conversation);
+           // 4. Verificar condição de LEAD
+           logger.info(`Verificando condição de lead para ${chatId}...`);
+           const leadPrompt = infoConfig.LEAD_PROMPT || '';
+           if (leadPrompt) {
+               const leadCheckResponse = await makeRequestWithRetryLead(leadPrompt, chatId, conversation);
 
-              if (leadCheckResponse && leadCheckResponse.toUpperCase().includes("LEAD: SIM")) {
-                  logger.info(`Condição de lead atingida para ${chatId}!`);
+               if (leadCheckResponse && leadCheckResponse.toUpperCase().includes("LEAD: SIM")) {
+                   logger.info(`Condição de lead atingida para ${chatId}!`);
 
-                  // Atualiza Dados.json para marcar como lead
-                  if (chatData.lead !== 'sim') {
-                      chatData.lead = 'sim';
-                      updateLeadData(chatId, 'lead', 'sim'); // Usa updateLeadData
-                      logger.info(`Marcado como lead em Dados.json para ${chatId}.`);
+                   // Atualiza Dados.json para marcar como lead
+                   if (chatData.lead !== 'sim') {
+                       chatData.lead = 'sim';
+                       updateLeadData(chatId, 'lead', 'sim'); // Usa updateLeadData
+                       logger.info(`Marcado como lead em Dados.json para ${chatId}.`);
 
-                      // Chama handleLeadIdentification para salvar/atualizar em leads.json e iniciar timer de resumo
-                      // Passa os dados atuais do chatData para handleLeadIdentification
-                      try {
-                          await handleLeadIdentification(
-                              client, // Passa o objeto client
-                              clienteIdCompleto,
-                              chatId,
-                              chatData.name,
-                              chatData.telefone,
-                              null, // listaOrigemId - precisa ser obtido se veio de disparo
-                              chatData.listaNome, // listaOrigemNome - já está em Dados.json
-                              chatData.tags // tagsIniciais - já estão em Dados.json
-                          );
-                      } catch (error) {
-                          logger.error(`Erro ao chamar handleLeadIdentification para ${chatId}:`, error);
-                      }
-                  } else {
-                       logger.info(`Já marcado como lead em Dados.json para ${chatId}.`);
-                       // Se já é lead, apenas garante que o timer de resumo está ativo
-                       const existingLead = await findLeadByChatId(clienteIdCompleto!, chatId);
-                       if (existingLead && !leadSummaryTimeouts.has(chatId)) {
-                           logger.info("Timer de resumo não encontrado para lead existente " + existingLead.id + ". Iniciando...");
-                           const leadContatoId = existingLead && existingLead.contatoPrincipalId ? existingLead.contatoPrincipalId : chatData.contatoPrincipalId; // Tenta usar contatoPrincipalId do lead, fallback para Dados.json
-                           startLeadSummaryTimer(client, clienteIdCompleto!, chatId, existingLead.id, leadContatoId); // Passa client
+                       // Chama handleLeadIdentification para salvar/atualizar em leads.json e iniciar timer de resumo
+                       // Passa os dados atuais do chatData para handleLeadIdentification
+                       try {
+                           await handleLeadIdentification(
+                               client, // Passa o objeto client
+                               clienteIdCompleto,
+                               chatId,
+                               chatData.name,
+                               chatData.telefone,
+                               null, // listaOrigemId - precisa ser obtido se veio de disparo
+                               chatData.listaNome, // listaOrigemNome - já está em Dados.json
+                               chatData.tags // tagsIniciais - já estão em Dados.json
+                           );
+                       } catch (error) {
+                           logger.error(`Erro ao chamar handleLeadIdentification para ${chatId}:`, error);
                        }
-                  }
+                   } else {
+                        logger.info(`Já marcado como lead em Dados.json para ${chatId}.`);
+                        // Se já é lead, apenas garante que o timer de resumo está ativo
+                        const existingLead = await findLeadByChatId(clienteIdCompleto!, chatId);
+                        if (existingLead && !leadSummaryTimeouts.has(chatId)) {
+                            logger.info("Timer de resumo não encontrado para lead existente " + existingLead.id + ". Iniciando...");
+                            const leadContatoId = existingLead && existingLead.contatoPrincipalId ? existingLead.contatoPrincipalId : chatData.contatoPrincipalId; // Tenta usar contatoPrincipalId do lead, fallback para Dados.json
+                            startLeadSummaryTimer(client, clienteIdCompleto!, chatId, existingLead.id, leadContatoId); // Passa client
+                        }
+                   }
 
 
-              } else {
-                  logger.info(`Condição de lead NÃO atingida para ${chatId}. Resposta IA: ${leadCheckResponse}`);
-              }
-          } else {
-               logger.warn(`LEAD_PROMPT não encontrado em infoCliente.json. Análise de lead desativada.`);
-          }
+               } else {
+                   logger.info(`Condição de lead NÃO atingida para ${chatId}. Resposta IA: ${leadCheckResponse}`);
+               }
+           } else {
+                logger.warn(`LEAD_PROMPT não encontrado em infoCliente.json. Análise de lead desativada.`);
+           }
 
 
-          // A notificação de Novo Lead e a geração do resumo são tratadas por handleLeadIdentification e generateAndSaveSummary (via timer).
+           // A notificação de Novo Lead e a geração do resumo são tratadas por handleLeadIdentification e generateAndSaveSummary (via timer).
 
 
-      } catch (error) {
-          logger.error(`Erro na função identifyNameAndInterest para ${chatId}:`, error);
-      }
-  }  // <-- FIM DE identifyNameAndInterest
+       } catch (error) {
+           logger.error(`Erro na função identifyNameAndInterest para ${chatId}:`, error);
+       }
+   }  // <-- FIM DE identifyNameAndInterest
 
-  // Função para atualizar os dados do lead no arquivo Dados.json
-  function updateLeadData(chatId: string, field: `name` | `interest` | `phone` | `summary` | `orçamento` | `orçamentoData` | `lead`, value: any) {
-    const fileName = `Dados.json`;
-    const filePath = path.join(__dirname, `Chats`, `Historico`, `${chatId}`, fileName);
+   // Função para atualizar os dados do lead no arquivo Dados.json
+   function updateLeadData(chatId: string, field: `name` | `interest` | `phone` | `summary` | `orçamento` | `orçamentoData` | `lead`, value: any) {
+     const fileName = `Dados.json`;
+     const filePath = path.join(__dirname, `Chats`, `Historico`, `${chatId}`, fileName);
 
-    // Lê o conteúdo do arquivo
-    let fileContent = '{}';
-    if (fs.existsSync(filePath)) {
-        fileContent = fs.readFileSync(filePath, `utf-8`);
-    }
-    let fileData: any = {};
-    try {
-        fileData = JSON.parse(fileContent);
-    } catch (error) {
-        logger.error(`Erro ao parsear Dados.json para updateLeadData em ${chatId}:`, error);
-        // Se houver erro de parse, inicializa com dados básicos
-        fileData = {
-            name: 'Não identificado',
-            sobrenome: '',
-            telefone: chatId.split('@')[0],
-            tags: [],
-            listaNome: null,
-            lead: 'não',
-        };
-    }
+     // Lê o conteúdo do arquivo
+     let fileContent = '{}';
+     if (fs.existsSync(filePath)) {
+         fileContent = fs.readFileSync(filePath, `utf-8`);
+     }
+     let fileData: any = {};
+     try {
+         fileData = JSON.parse(fileContent);
+     } catch (error) {
+         logger.error(`Erro ao parsear Dados.json para updateLeadData em ${chatId}:`, error);
+         // Se houver erro de parse, inicializa com dados básicos
+         fileData = {
+             name: 'Não identificado',
+             sobrenome: '',
+             telefone: chatId.split('@')[0],
+             tags: [],
+             listaNome: null,
+             lead: 'não',
+         };
+     }
 
-    // Atualiza o campo no objeto
-    fileData[field] = value;
+     // Atualiza o campo no objeto
+     fileData[field] = value;
 
-    // Converte o objeto para JSON
-    const updatedContent = JSON.stringify(fileData, null, 2); // Adiciona formatação
+     // Converte o objeto para JSON
+     const updatedContent = JSON.stringify(fileData, null, 2); // Adiciona formatação
 
-    // Escreve o conteúdo atualizado no arquivo
-    try {
-        fs.writeFileSync(filePath, updatedContent, `utf-8`);
-        logger.info(`Atualização do lead em Dados.json para ${chatId}:`, { field, value });
-    } catch (error) {
-        logger.error(`Erro ao escrever em Dados.json para updateLeadData em ${chatId}:`, error);
-    }
-  }
+     // Escreve o conteúdo atualizado no arquivo
+     try {
+         fs.writeFileSync(filePath, updatedContent, `utf-8`);
+         logger.info(`Atualização do lead em Dados.json para ${chatId}:`, { field, value });
+     } catch (error) {
+         logger.error(`Erro ao escrever em Dados.json para updateLeadData em ${chatId}:`, error);
+     }
+   }

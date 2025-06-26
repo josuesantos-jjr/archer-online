@@ -1,12 +1,13 @@
 export const dynamic = 'force-dynamic';
-import { getQrCode } from './qrCodeCache.ts';
+import { getQrCode } from '../qrCodeCache.ts';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-export async function GET(request: Request) {
+export async function GET(request: Request, { params }: { params: { clientId: string[] } }) {
   try {
-    const { searchParams } = new URL(request.url);
-    const clientId = searchParams.get('clientId');
+    // O clientId virá dos parâmetros da rota dinâmica
+    const clientId = params.clientId.join('/');
+    console.log(`[API /api/qr-code] Recebida requisição para clientId: ${clientId}`);
 
     if (!clientId) {
       return new Response(
@@ -18,12 +19,14 @@ export async function GET(request: Request) {
     // 1. Tenta obter do cache (gerado pelo backend)
     const qrCodeFromCache = getQrCode(clientId);
     if (qrCodeFromCache) {
+      console.log(`[API /api/qr-code] QR Code encontrado no cache para ${clientId}.`);
       const prefixedQrCode = qrCodeFromCache.startsWith('data:image/png;base64,') ? qrCodeFromCache : `data:image/png;base64,${qrCodeFromCache}`;
       return new Response(JSON.stringify({ qrCode: prefixedQrCode, source: 'cache' }), {
         status: 200,
         headers: { 'Content-Type': 'application/json' },
       });
     }
+    console.log(`[API /api/qr-code] QR Code NÃO encontrado no cache para ${clientId}. Tentando ler do arquivo.`);
 
     // 2. Se não estiver no cache, tenta ler da pasta config/qrcode/
     // O clientId já vem no formato "folderType/clientName" (ex: "ativos/GlobalTur")
@@ -46,6 +49,7 @@ export async function GET(request: Request) {
 
         if (pngFiles.length > 0) {
           latestImagePath = path.join(qrcodeDir, pngFiles[0]);
+          console.log(`[API /api/qr-code] Encontrado arquivo PNG de QR Code: ${latestImagePath}`);
           const imageBuffer = await fs.readFile(latestImagePath);
           const base64Image = imageBuffer.toString('base64');
           return new Response(JSON.stringify({ qrCode: `data:image/png;base64,${base64Image}`, source: 'file_image' }), {
@@ -53,6 +57,7 @@ export async function GET(request: Request) {
             headers: { 'Content-Type': 'application/json' },
           });
         }
+        console.log(`[API /api/qr-code] Nenhum arquivo PNG de QR Code encontrado para ${clientId}.`);
 
         // Se não houver PNG, procura o JSON mais recente
         const jsonFiles = qrCodeFiles.filter(file => file.endsWith('.json')).sort((a, b) => {
@@ -62,7 +67,9 @@ export async function GET(request: Request) {
         });
 
         if (jsonFiles.length > 0) {
-          const jsonContent = await fs.readFile(path.join(qrcodeDir, jsonFiles[0]), 'utf-8');
+          const jsonFilePath = path.join(qrcodeDir, jsonFiles[0]);
+          console.log(`[API /api/qr-code] Encontrado arquivo JSON de QR Code: ${jsonFilePath}`);
+          const jsonContent = await fs.readFile(jsonFilePath, 'utf-8');
           latestQrCodeData = JSON.parse(jsonContent);
           // Se encontrar um JSON, o frontend precisará gerar a imagem a partir do urlCode
           return new Response(JSON.stringify({ qrCodeData: latestQrCodeData, source: 'file_json' }), {
@@ -70,6 +77,7 @@ export async function GET(request: Request) {
             headers: { 'Content-Type': 'application/json' },
           });
         }
+        console.log(`[API /api/qr-code] Nenhum arquivo JSON de QR Code encontrado para ${clientId}.`);
       }
     } catch (readError: any) {
       if (readError.code === 'ENOENT') {
@@ -81,6 +89,7 @@ export async function GET(request: Request) {
     }
 
     // 3. Se não encontrar em nenhum lugar
+    console.log(`[API /api/qr-code] QR Code não encontrado ou não gerado ainda para ${clientId}.`);
     return new Response(JSON.stringify({ error: 'QR Code not found or not yet generated' }), {
       status: 404,
       headers: { 'Content-Type': 'application/json' },

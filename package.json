@@ -12,7 +12,8 @@
     "start": "next start",
     "start:prod": "next start -p 3001",
     "lint": "next lint",
-    "pup": "npx puppeteer browsers install"
+    "pup": "npx puppeteer browsers install",
+    "build:client": "tsc -p tsconfig.client.json"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
