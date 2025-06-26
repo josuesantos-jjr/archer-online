@@ -848,7 +848,9 @@ wppconnect
           '--no-first-run',
           '--safebrowsing-disable-auto-update',
         ],
-        executablePath: '/usr/bin/google-chrome-stable', // Define o caminho explícito para o Chrome
+        // Define o caminho explícito para o Chrome. Pode precisar ser ajustado dependendo da distribuição Linux.
+        // Exemplos: '/usr/bin/google-chrome', '/usr/bin/chromium-browser'
+        executablePath: '/usr/bin/google-chrome-stable',
         userDataDir: `/tmp/wppconnect-data/${cliente}`, // Usa o nome do cliente para o diretório de dados do usuário
       },
     }

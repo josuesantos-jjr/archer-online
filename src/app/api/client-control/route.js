@@ -82,7 +82,7 @@ export async function POST(request) {
       } else {
         // Inicia um novo processo. Usa o tsx como interpreter.
         // Remove '&& pm2 logs' para que o PM2 gerencie o processo de forma persistente.
-        command = `tsx "${scriptPath}" `;
+        command = `pm2 start "${scriptPath}" --interpreter "tsx" --name "${pm2ProcessName}"`;
         console.log(`[API /api/client-control] Starting new process: ${command}`);
       }
 
