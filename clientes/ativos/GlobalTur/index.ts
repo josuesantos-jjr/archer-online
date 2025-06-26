@@ -11,24 +11,24 @@ process.on('unhandledRejection', (reason, promise) => {
 logger.info(`[Script Main] Iniciando execução do script principal.`); // Log no início do script
 
 import wppconnect from '@wppconnect-team/wppconnect';
-import { initializeNewAIChatSession } from '../../../src/backend/service/openai.js';
-import { splitMessages, sendMessagesWithDelay } from '../../../src/backend/util/index.js';
-import { saveQRCodeImageAndJson } from './config/qrcode.js';
-import logger from './config/logger.js';
-import { mainGoogleBG } from '../../../src/backend/service/googleBG.js';
-import { mainGoogleChat } from '../../../src/backend/service/googlechat.js';
+import { initializeNewAIChatSession } from '../../../src/backend/service/openai.ts';
+import { splitMessages, sendMessagesWithDelay } from '../../../src/backend/util/index.ts';
+import { saveQRCodeImageAndJson } from './config/qrcode.ts';
+import logger from './config/logger.ts';
+import { mainGoogleBG } from '../../../src/backend/service/googleBG.ts';
+import { mainGoogleChat } from '../../../src/backend/service/googlechat.ts';
 import fs from 'node:fs';
 import os from 'node:os';
 import path, { resolve } from 'node:path';
-import { dispararMensagens, getPasta, saveMessageToFile } from '../../../src/backend/disparo/disparo.js'; // Importando as funções
-import { dispararFollowupsAgendados } from '../../../src/backend/followup/disparoFollowup.js'; // Importar a nova função
-import { checkResposta } from '../../../src/backend/service/automacoes/checkResposta.js';
+import { dispararMensagens, getPasta, saveMessageToFile } from '../../../src/backend/disparo/disparo.ts'; // Importando as funções
+import { dispararFollowupsAgendados } from '../../../src/backend/followup/disparoFollowup.ts'; // Importar a nova função
+import { checkResposta } from '../../../src/backend/service/automacoes/checkResposta.ts';
 import { fileURLToPath } from 'node:url';
-import { IgnoreLead } from '../../../src/backend/service/braim/stop.js';
+import { IgnoreLead } from '../../../src/backend/service/braim/stop.ts';
 import { setTimeout, clearTimeout } from 'timers';
-import { monitorarConversa } from '../../../src/backend/analiseConversa/monitoramentoConversa.js';
-import { updateLastReceivedMessageDate, updateLastSentMessageDate } from '../../../src/backend/util/chatDataUtils.js';
-import { setQrCode, clearQrCode } from '../../../src/app/api/qr-code/qrCodeCache.js'; // Importa as funções do cache do novo local
+import { monitorarConversa } from '../../../src/backend/analiseConversa/monitoramentoConversa.ts';
+import { updateLastReceivedMessageDate, updateLastSentMessageDate } from '../../../src/backend/util/chatDataUtils.ts';
+import { setQrCode, clearQrCode } from '../../../src/app/api/qr-code/qrCodeCache.ts'; // Importa as funções do cache do novo local
 
 interface Contato {
   id: string;
